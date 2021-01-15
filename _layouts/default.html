@@ -1,0 +1,22 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html data-current="{{ page.section }}" lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+
+    {% include header.html %}
+
+    <main class="{{page.section}}" {% if page.section != 'home' %} uk-scrollspy="target: > p, h1, h2, img; cls: uk-animation-fade; delay: 200" {% endif %}>
+
+      {{ content }}
+    </main>
+  {% include page-footer.html %}
+  {% include footer.html %}
+
+  </body>
+</html>

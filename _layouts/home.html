@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="m-home__intro">
+  <h1>{{ page.title }} <span>{{ page.subtitle }}</span></h1>
+
+    {% include page-intro.html %}
+
+    {{ content }}
+
+    <h2>Discover their stories</h2>
+</div>
+
+<div class="m-cards_wrapper">
+  {% for post in site.posts %}
+    <div class="m-card__wrapper" {% if forloop.index == 1 %}uk-parallax="y: 100,0; viewport: 0.5"{% endif %} {% if forloop.index == 2 %}uk-parallax="y: 200,0; viewport: 0.5"{% endif %} {% if forloop.index == 3 %}uk-parallax="y: 150,0; viewport: 0.5"{% endif %}{% if forloop.index == 4 %}uk-parallax="y: 200,0; viewport: 0.5"{% endif %}{% if forloop.index == 5 %}uk-parallax="y: 150,0; viewport: 0.5"{% endif %}>
+      <div class="m-card" style="background-color:{{ post.colour }}">
+        {% include card-content.html %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+<h2 class="no-after">and many more</h2>

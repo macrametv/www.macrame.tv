@@ -1,0 +1,205 @@
+.credits, .contact {
+  @include mq($from: desktop) {
+    max-width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h3 {
+    @include font-size($size-five, 1);
+    line-height: calc(14px * 1);
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    margin-top: 20px;
+  }
+
+  h4 {
+    @include font-size($size-two, 1);
+    font-weight: 900;
+    position: relative;
+    z-index: 10;
+  }
+
+  h6 {
+    font-family: $recoleta;
+    font-weight: 200;
+  }
+
+  h5 {
+    font-weight: 200;
+  }
+
+  h5, h6 {
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  &  >  p {
+    @include font-size($size-three, 1.2);
+    font-family: "recoleta";
+    color: #121212;
+    padding: calc(10px * 2);
+
+    @include mq($from: tablet) {
+      max-width: 550px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    @include mq($from: desktop) {
+      max-width: 100%;
+    }
+  }
+}
+
+.contact, .credits {
+  p {
+    img {
+      width: 80px;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+.about {
+  overflow-x:hidden;
+  padding: spacing(4) spacing(2) 0 spacing(2);
+
+  @include mq($from: desktop) {
+    max-width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .intro {
+    display: none;
+  }
+
+  h1 {
+    @include font-size($size-one, 1);
+    max-width: 98%;
+
+    span {
+      @include font-size($size-one, 1.2);
+      font-size: calc(#{$size-one} + 6px);
+      text-transform: none;
+    }
+  }
+
+  p + h1 {
+    margin-bottom: spacing(2);
+  }
+
+  h1 + h1 {
+    font-family: $recoleta;
+    @include font-size($size-one, 0.9);
+
+    & + img {
+      width: 140%;
+      max-width: 140%;
+      margin-left: -20%;
+      margin-top: spacing(5);
+    }
+  }
+
+  h2 {
+    @include font-size($size-quote, 1.2);
+    font-family: $recoleta;
+    text-transform: none;
+    letter-spacing: 0;
+    margin: spacing(3) auto;
+    font-weight: normal;
+    padding-bottom: 0;
+    max-width: 90%;
+
+    &:after {
+      display: none;
+    }
+  }
+
+  img + h2 + h2 + h2 {
+    margin-bottom: spacing(4);
+
+    & + h1 {
+      @include font-size($size-two, 1);
+      font-weight: 900;
+      position: relative;
+      z-index: 10;
+      margin-top: spacing(3);
+      margin-bottom: spacing(1);
+
+      &:before {
+        background-image: url('/assets/img/uploads/squiggle-1.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: block;
+        content: '';
+        width: 60px;
+        height: 6px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+      }
+
+      @include mq($from: desktop) {
+        margin-bottom: spacing(-12);
+      }
+    }
+
+    & + h1 + img {
+      margin-top: spacing(-8);
+      width: 100%;
+    }
+  }
+
+  p {
+    @include font-size($base-size, 1.25);
+    font-family: $helvetica;
+    text-align:left;
+
+    @include mq($from: 400px) {
+      @include font-size($mobile-size, 1.25);
+    }
+
+    @include mq($from: tablet) {
+      @include font-size($size-four, 1.35);
+      max-width: 550px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    @include mq($from: desktop) {
+      @include font-size($size-four, 1.35);
+    }
+
+    img {
+      width: 140%;
+      max-width: 140%;
+      margin-left: -20%;
+    }
+  }
+}
+
+[class="404"] {
+  h2 {
+    font-family: 'recoleta';
+    font-size: $size-card;
+    &:after {
+      display: none;
+    }
+  }
+  p {
+    font-family: 'recoleta';
+    @include font-size($size-four, 1.35);
+
+    &:nth-child(3) {
+      font-family: $helvetica;
+      font-weight: 900;
+    }
+  }
+}

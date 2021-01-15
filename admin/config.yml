@@ -1,0 +1,79 @@
+# Everything you need to know about configuring the CMS can be found here:-
+# https://www.netlifycms.org/docs/configuration-options/
+
+backend:
+  name: github
+  branch: master # Branch to update (master by default)
+  repo: macrametv/www.macrame.tv
+
+media_folder: "assets/img/uploads" # Folder where user uploaded files should go
+
+publish_mode: editorial_workflow # Enable drafts
+
+collections: # A list of collections the CMS should be able to edit
+  # POSTS
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "_posts" # The path to the folder where the documents are stored
+    sort: "title:dsc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Name", name: "name", widget: "string", tagname: "h1"}
+      - {label: "SubName", name: "subname", widget: "string", tagname: "h1"}
+      - {label: "Logo", name: "logo", widget: "string", tagname: "h1", required: false}
+      - {label: "SVG Logo", name: "svglogo", widget: "image", tagname: "img", required: false}
+      - {label: "Meta Description", name: "meta_description", widget: "string", required: false}
+      - {label: "Colour", name: "colour", widget: "string", required: false}
+      - {label: "Illustration", name: "illustration", widget: "image", required: false}
+      - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
+      - label: "Sections"
+        name: "sections"
+        widget: "object"
+        collapsed: false
+        fields:
+        - {label: "Section", name: "section", widget: "markdown", required: false}
+        - {label: "Section2", name: "section2", widget: "markdown", required: false}
+        - {label: "Section3", name: "section3", widget: "markdown", required: false}
+        - {label: "Section4", name: "section4", widget: "markdown", required: false}
+        - {label: "Section5", name: "section5", widget: "markdown", required: false}
+        - {label: "Client Label", name: "clientLabel", widget: "markdown", tagname: "h3", required: false}
+        - label: "Clients"
+          name: "clients"
+          widget: "object"
+          collapsed: false
+          fields:
+          - {label: "Client", name: "client", widget: "image", required: false}
+          - {label: "Client2", name: "client2", widget: "image", required: false}
+          - {label: "Client3", name: "client3", widget: "image", required: false}
+          - {label: "Client4", name: "client4", widget: "image", required: false}
+          - {label: "Client5", name: "client5", widget: "image", required: false}
+      - {label: "Working", name: "working", widget: "string", tagname: "h3", required: false}
+      - {label: "Living", name: "living", widget: "string", tagname: "h3", required: false}
+      - {label: "Teaching", name: "teaching", widget: "markdown", tagname: "h3", required: false}
+      - {label: "Awards", name: "awards", widget: "markdown", tagname: "h3", required: false}
+      - {label: "Exhibitions", name: "exhibitions", widget: "markdown", tagname: "h3", required: false}
+      - {label: "Features", name: "features", widget: "markdown", tagname: "h3", required: false}
+      - {label: "Website", name: "website", widget: "string", tagname: "h3", required: false}
+      - {label: "Instagram", name: "imstagram", widget: "string", tagname: "h3", required: false}
+      - {label: "Footer", name: "footer", widget: "markdown", tagname: "h2", required: false}
+      - {label: "Categories", name: "categories", widget: "string", required: false}
+    # PAGES
+  - name: "page"
+    label: "Page"
+    folder: "pages"
+    sort: "title:asc"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", tagname: "h1"}
+      - {label: "Meta Description", name: "meta_description", widget: "string", required: false}
+      - {label: "Permalink", name: "permalink", widget: "hidden"}
+      - {label: "Section", name: "section", widget: "hidden", default: "{{title}}"}
+      - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Footer", name: "footer", widget: "markdown", tagname: "h2", required: false}

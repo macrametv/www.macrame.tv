@@ -1,0 +1,37 @@
+// List your mixins in here to keep things tidy
+
+// A basic button
+@mixin button($btn-bg, $btn-text) {
+  font-weight: normal;
+  padding: 2px 0.8em;
+	line-height: $base-line-height;
+	color: $btn-text;
+	background-color: $btn-bg;
+	border: 1px solid $btn-text;
+  width: max-content;
+  border-radius: 1.2em;
+  margin: 5px 10px 5px 0;
+}
+
+// Disable text selection
+@mixin user-select($argument: none){
+  -webkit-user-select: $argument;
+  -moz-user-select: $argument;
+  -ms-user-select: $argument;
+  user-select: $argument;
+}
+
+@function spacing($size){
+  $amount: calc(10px * #{$size});
+  @return $amount;
+}
+
+@mixin font-size($size, $line) {
+  font-size: $size;
+  line-height: calc(#{$size} * #{$line});
+}
+
+@mixin Uppercase(){
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}

@@ -1,0 +1,6 @@
+{% if page.intro_paragraph and page.intro_paragraph != '' %}
+  <p class="intro">
+    {% if page.section != 'contact' %}{{ page.intro_paragraph | markdownify | remove: '<p>' | remove: '</p>' }}{% endif%}
+    {% if page.section == 'contact' %}{{ page.intro_paragraph | markdownify }}{% endif%}
+  </p>
+{% endif %}

@@ -1,0 +1,106 @@
+.m-page__footer {
+  padding-top: spacing(5);
+  margin-top: spacing(5);
+  background-color: $m-black;
+  text-align: center;
+  padding-bottom: spacing(3);
+
+  h1 {
+    color: $m-white;
+    font-family: $helvetica;
+    @include font-size($size-two, 1.1);
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: normal;
+
+
+    @include mq($from: desktop) {
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    strong {
+      font-family: $recoleta;
+    }
+  }
+
+  h2, h3, h4 {
+    color: #fff;
+  }
+
+  h4 {
+    font-family: $helvetica;
+    @include font-size($size-two, 1.1);
+    margin: 0;
+    padding: 0;
+
+    & + h4 + h4 {
+      margin-bottom: 40px;
+    }
+  }
+
+  p {
+    color: $m-white;
+    padding: 0 spacing(4);
+    margin-top: 20px;
+
+    @include mq($from: 400px) {
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+footer {
+  text-align: center;
+  padding: spacing(2) 0;
+
+  .button {
+    @include button(#fff, $m-black);
+    font-size: $size-three;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: spacing(2);
+
+    &:hover {
+      -webkit-animation: wobble-hor-bottom 0.8s both;
+	    animation: wobble-hor-bottom 0.8s both;
+    }
+
+  }
+
+  .m-logo__mini {
+    margin: spacing(3) auto;
+    width: 50px;
+    height: 50px;
+
+    svg {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .m-credits {
+    margin-top: spacing(5);
+    h2 {
+      color: #fff;
+      @include font-size($base-size, 1);
+    }
+  }
+
+  small {
+    color: $m-white;
+    margin-top:spacing(2);
+  }
+
+  iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+}

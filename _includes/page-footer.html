@@ -1,0 +1,8 @@
+<section class="m-page__footer">
+  {% if page.footer %}
+    {{ page.footer | markdownify | replace: '\', ''}}
+    {% else %}
+    <h1>We believe in a world where <strong>everyone can make a living doing what they love.</strong></h1><p>Macramé Network is a graphic design agency that builds unique teams for each new brief by working with an extensive network of skilled professionals.</p><p>Nothing pleases us more than matching the right team with the right project.</p>
+  {% endif %}
+
+</section>

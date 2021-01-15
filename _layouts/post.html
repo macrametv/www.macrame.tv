@@ -1,0 +1,91 @@
+---
+layout: default
+---
+{% assign author = site.data.authors[page.author] %}
+
+<div class="m-card__article" style="background-color:{{ page.colour }}">
+  <div class="m-card_inner">
+  {% include card-content.html %}
+  </div>
+</div>
+
+{% assign sections = page.sections %}
+
+<section class="m-story__section drop-cap" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
+  {{sections.section | pretty | markdownify | replace: '\', '' }}
+</section>
+<section class="m-story__section" style="background-color:{{ page.colour }}" uk-scrollspy="target: > p , > blockquote; cls: uk-animation-fade; delay: 100">
+  {{sections.section2 | pretty | markdownify | replace: '\', '' }}
+</section>
+<section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
+  {{sections.section3 | pretty | markdownify | replace: '\', ''}}
+</section>
+<section class="m-story__section" style="background-color:{{ page.colour }}" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
+  {{sections.section4 | pretty | markdownify | replace: '\', ''}}
+</section>
+{% if sections.section5 %}
+  <section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
+    {{sections.section5 | pretty | markdownify | replace: '\', ''}}
+  </section>
+{% endif %}
+
+{% assign clients = page.sections.clients %}
+{% assign clientsLabel = page.sections.clientLabel %}
+
+<section class="m-story__clients" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 100">
+  <h3>{{clientsLabel}}</h3>
+  <div class="clients-inner flex">
+    <div class="logo-wrapper">
+      <img src="{{clients.client}}">
+    </div>
+    <div class="logo-wrapper">
+      <img src="{{clients.client2}}">
+    </div>
+    <div class="logo-wrapper">
+      <img src="{{clients.client3}}">
+    </div>
+    <div class="logo-wrapper">
+      <img src="{{clients.client4}}">
+    </div>
+    <div class="logo-wrapper">
+      <img src="{{clients.client5}}">
+    </div>
+  </div>
+</section>
+<div class="divider">
+  <img src="/assets/img/uploads/squiggle-1.png">
+</div>
+<section class="m-story__bio" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 100">
+  {% if page.working %}
+    <h3>Working</h3>
+    {{page.working | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.living %}
+    <h3>Living</h3>
+    {{page.living | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.teaching %}
+    <h3>Teaching</h3>
+    {{page.teaching | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.awards %}
+    <h3>Awards</h3>
+    {{page.awards | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.exhibitions %}
+    <h3>Exhibitions</h3>
+    {{page.exhibitions | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.features %}
+    <h3>Featured</h3>
+    {{page.features | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.website %}
+    <h3>Website</h3>
+    <a target="_blank" href="http://www.{{page.website}}">{{page.website | markdownify | replace: '\', ''}}</a>
+  {% endif %}
+  {% if page.imstagram %}
+    <h3>Instagram</h3>
+    @<a target="_blank" href="http://www.instagram.com/{{page.imstagram}}">{{page.imstagram | markdownify | replace: '\', ''}}</a>
+  {% endif %}
+</section>

@@ -1,0 +1,215 @@
+// Main Styles
+
+// See the other SASS partials for typography, variables etc.
+// CSS Grid is used for the layout with fallbacks for less capable browsers
+// declared beforehand, and a @supports feature query to reset fallbacks when
+// necessary. https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
+
+// the body element is our primary layout grid
+body {
+  display: block;
+  color: #121212;
+}
+
+// header, the first grid row
+// it is also a grid for the logo and nav
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: spacing(2);
+}
+
+::selection {
+  color: #121212;
+  background-color: $m-orange;
+}
+
+h1, h2, h3, h4, h5, p, blockquote {
+  color: #121212;
+}
+
+// logo, is a grid item
+header > h1 {
+  display: inline-block;
+  padding-bottom: 1rem;
+  padding: spacing(1);
+  margin-bottom: spacing(1);
+
+  @media screen and (min-width: $screen-sm-min) {
+    padding-bottom: 0;
+  }
+  a,
+  a:visited {
+    text-decoration: none;
+    border: 0;
+    color: white;
+    @media screen and (min-width: $screen-sm-min) {
+      padding: 1rem;
+    }
+  }
+  a:hover {
+    color: white;
+  }
+}
+
+// main menu, is a grid item
+nav {
+  background-color: $m-black;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  padding: spacing(2);
+  display: none;
+  z-index: 90;
+
+  &.open {
+    display: block;
+  }
+
+  ul {
+    // flexbox is better than grid for distributing an unknown qty of children
+    display: flex;
+    flex-direction: column;
+    margin-top: spacing(2);
+
+    li {
+      @include font-size($size-three, 1.25);
+      @include button(transparent, #fff);
+      font-family: $recoleta;
+      margin-right: 2rem;
+      display: inline-block;
+      @media screen and (min-width: $screen-sm-min) {
+        margin-right: 0;
+      }
+
+      &:hover {
+        background-color: #fff;
+        -webkit-animation: wobble-hor-bottom 0.8s both;
+  	    animation: wobble-hor-bottom 0.8s both;
+
+        a {
+          color: #121212 !important;
+        }
+      }
+
+      @include mq($from: tablet) {
+        @include font-size($size-card, 1.25);
+      }
+
+      @include mq($from: desktop) {
+          @include font-size(calc(#{$size-one} - 10px), 1.25);
+      }
+
+      a,
+      a:visited {
+        color: white;
+        text-decoration: none;
+        border: 0;
+        @media screen and (min-width: $screen-sm-min) {
+          padding: 1rem;
+        }
+        &[data-current="current page"] {
+          // you can add an active nav item style here
+        }
+      }
+      a:hover {
+        color: white;
+      }
+
+      &:last-child {
+        padding: 0;
+        border: 0;
+        font-family: $helvetica;
+        left: spacing(2);
+        font-size: $base-size;
+        position: absolute;
+        bottom: spacing(12);
+
+        @include mq($from: desktop) {
+          bottom: spacing(6);
+        }
+
+        &:hover {
+          background-color: transparent;
+          animation: none;
+
+          a {
+            color: $m-red !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+// our main content wrapper, the width scales with font size
+main {
+  width: 100%;
+  padding: spacing(2);
+}
+
+// blog posts list
+html[data-current="blog"] main > section {
+  ul li {
+    padding: 2rem 0;
+    border-bottom: 0.05em solid $hairline-color;
+    p {
+      padding-bottom: 0;
+    }
+  }
+}
+
+// adjacent blog posts links
+nav[aria-label="Adjacent Posts"] {
+  padding: 4rem 0;
+  ul {
+    display: flex;
+    li {
+      flex: 0 0 50%;
+      width: auto;
+      &:nth-child(2) {
+        text-align: right;
+      }
+    }
+  }
+}
+
+// contact form
+html[data-current="contact"] main > form {
+  display: grid;
+  label {
+    display: none;
+  }
+  input,
+  textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 2rem;
+  }
+  button {
+    width: 100%;
+  }
+}
+
+.button {
+  @include button(transparent, $m-black);
+  font-family: $recoleta;
+}
+
+// reset CSS Grid fallbacks when they aren't required
+@supports (display: grid) {
+  html[data-current="contact"] main > form {
+    input,
+    textarea,
+    button {
+      width: auto;
+      max-width: none;
+    }
+  }
+}
+
+footer {
+  background-color: $m-black;
+}

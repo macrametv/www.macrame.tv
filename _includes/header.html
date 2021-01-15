@@ -1,0 +1,14 @@
+<body>
+<header {% if page.layout == 'post' %} style="background-color:{{ page.colour }}" {% endif %}>
+  {% include logo.html %}
+  <div class="m-hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</header>
+
+<nav>
+  {% include logo.html %}
+  {% include navigation.html navigation=site.data.navigation %}
+</nav>

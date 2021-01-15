@@ -1,0 +1,133 @@
+//animation general
+
+@keyframes fadeIn{
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+body {
+  opacity: 0;
+  animation-name: fadeIn;
+  animation-duration: 0.75s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+}
+
+main {
+  text-align: center;
+  padding: spacing(4) spacing(1);
+
+  &.home {
+    padding: spacing(4) spacing(1) 0 spacing(1);
+
+    &.transition {
+      padding: 0;
+
+      .m-card {
+        display: none;
+      }
+
+      .m-home__intro {
+        overflow: hidden;
+        height: 0;
+        min-height: 0;
+        transition: all ease-in-out 0.5s;
+      }
+    }
+  }
+
+  h1 {
+    @include font-size($size-zero, 1);
+    letter-spacing: -0.5px;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: normal;
+
+    span {
+      font-size: calc(#{$size-zero} + 6px);
+      line-height: calc(#{$size-zero} - 10px);
+      font-family: $recoleta;
+      display: block;
+      font-weight: bold;
+      text-transform: capitalize;
+    }
+  }
+
+@keyframes down {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  75% {transform: translateY(-3px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+  h2 {
+    @include font-size($size-five, 1);
+    @include Uppercase;
+    margin-top: 20px;
+
+    &:after {
+      content: '';
+      display: block;
+      height: 54px;
+      width: 30px;
+      margin-top: spacing(2);
+      margin-left: auto;
+      margin-right: auto;
+      background-image: url('/assets/img/uploads/arrow_down.png');
+      background-size: contain;
+      background-repeat: no-repeat;
+      animation-name: down;
+      animation-duration: 1s;
+      animation-iteration-count: infinite;
+    }
+
+    &.no-after {
+      padding: 0;
+      margin-top: spacing(5);
+
+      &:after {
+        display: none;
+      }
+    }
+  }
+
+  p.intro {
+    @include font-size($size-three, 1.2);
+    font-family: $recoleta;
+    color: #121212;
+    padding: spacing(2);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.m-home__intro {
+  min-height: 30vh;
+
+  @include mq($from: desktop) {
+    max-width: 600px;
+    min-height: 45vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: spacing(-6);
+  }
+
+  @include mq($from: wide) {
+    margin-bottom: 0
+  }
+}

@@ -1,0 +1,18 @@
+{% if page.layout == 'home' %}
+  <a href="{{ post.url }}"></a>
+  <h1>{% if post.svglogo %}<img src="{{ post.svglogo }}">{% else %} {{post.logo}} {% endif %}</h1>
+  <div class="m-card__illo"><img src="{{post.illustration}}"></div>
+  {% assign title = post.title | split: '•' %}
+  <h2>{{ title[0] }} • <span>{{ title[1] }}</span></h2>
+  <span class="button">Read the story</span>
+  <div class="m-fake__standfirst">
+    <p class="m-story__of">The story of</p>
+    {{ post.intro_paragraph | markdownify }}
+  </div>
+{% endif %}
+{% if page.layout == 'post' %}
+  <h1>{% if page.svglogo %}<img src="{{ page.svglogo }}">{% else %} {{page.logo}} {% endif %}</h1>
+  <div class="m-card__illo" uk-parallax="y: 0,-50; viewport: 0.8"><img src="{{page.illustration}}"></div>
+  <p class="m-story__of">The story of</p>
+  {{ page.intro_paragraph | markdownify }}
+{% endif %}

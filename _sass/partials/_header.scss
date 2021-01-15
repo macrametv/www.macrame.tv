@@ -1,0 +1,82 @@
+.m-logo {
+  width: 120px;
+
+  @include mq($from: desktop) {
+    width: 130px;
+  }
+
+  a {
+    text-decoration: none;
+    border-bottom: none;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  svg {
+    width: 100%;
+    height: auto;
+    transform: translateY(-4px);
+
+    @include mq($from: desktop) {
+      transform: translateY(-7px);
+    }
+  }
+
+  nav & {
+    svg {
+      path {
+        fill: $m-white;
+      }
+    }
+  }
+}
+
+
+.m-hamburger {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: spacing(2);
+  z-index: 100;
+  cursor: pointer;
+  transition: opacity ease-in-out 0.5s;
+  transform-origin: center;
+
+  &:hover {
+    opacity: 0.5;
+  }
+
+  @include mq($from: tablet) {
+    transform: scale(0.9);
+  }
+
+  @include mq($from: desktop) {
+    transform: scale(1.2);
+    transform-origin: top right;
+  }
+
+  &.open {
+    span {
+      background-color: $m-white;
+      transform: rotate(45deg) translate(6px, 5px);
+
+      &:nth-child(2) {
+        display: none;
+      }
+      &:nth-child(3) {
+        transform: rotate(-45deg);
+      }
+    }
+  }
+
+  span {
+    height: 2px;
+    width: 24px;
+    background-color: $m-black;
+    display: block;
+    margin-bottom: 6px;
+    transition: all ease-in-out 0.2s;
+  }
+}
