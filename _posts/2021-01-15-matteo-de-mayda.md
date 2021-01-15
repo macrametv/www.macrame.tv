@@ -10,9 +10,9 @@ intro_paragraph: |
 sections:
   section: >-
     Everybody can take great pictures. Everybody can capture the soul of a
-    moment. Or at least that’s what the new iPhone makes us all believe.
-    But the truth is that being a photographer is way more than just taking
-    beautiful pictures. 
+    moment. Or at least that’s what the new iPhone makes us all believe. But the
+    truth is that being a photographer is way more than just taking beautiful
+    pictures. 
 
 
     **Being a photographer is having the power in your hands to make people believe.** To make them open their eyes and see what’s really going on out there. Being a photographer has nothing to do with having a camera in your pocket or hanging from your neck.
@@ -53,6 +53,49 @@ sections:
 
 
     **And that’s why, a few years ago, he quit his job** as an agency graphic designer to pursue his dream.
+  section2: >-
+    > “I felt I was missing something.”**
+
+    >
+
+    > * On His Role of Graphic Designer
+
+
+    **And that something was the content. **He felt there was a story behind every project he was working on, but the story was not properly covered, or told.
+
+
+    **And when he was feeling all that, when he was in need of a change, Macramé contacted him to work on a photography project.** The project: The WorldWide Cycling Atlas. A project that took him to Guatemala and allowed him to test himself as a photographer, offering the world a new perspective, a new way of thinking about the concept of the bicycle.
+
+
+    `{{space}}`
+
+
+    ![Matteo de Mayda 4](/assets/img/uploads/liverpool-allison-becker-football-illustration.jpg)
+
+
+    ![Matteo de Mayda 6](/assets/img/uploads/coca-cola-copa-america-football-illustration.jpg)
+
+
+    ![Matteo de Mayda 7](/assets/img/uploads/patriots-bill-belichick-sport-illustration.jpg)
+
+
+    ![Matteo de Mayda 8](/assets/img/uploads/under-armour-anthony-joshua-sport-illustration.jpg)
+
+
+    ![Matteo de Mayda 9](/assets/img/uploads/under-armour-kelley-ohara-football-player-illlustration.jpg)
+
+
+    ![Matteo de Mayda 10](/assets/img/uploads/gatorade-messi-suarez-dybala-football-player-ilustration.jpg)
+
+
+    ![Matteo de Mayda 11](/assets/img/uploads/gatorade-lionel-messi-football-player-illustration.jpg)
+
+
+    > "A daily source of **inspiration and motivation**."
+
+    >
+
+    > * On Sport & Design
 website: matteodemayda.com
 imstagram: "@demayda"
 ---
