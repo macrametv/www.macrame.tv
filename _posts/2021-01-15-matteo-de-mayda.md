@@ -10,8 +10,8 @@ intro_paragraph: |
 sections:
   section: >-
     Everybody can take great pictures. Everybody can capture the soul of a
-    moment. Or at least that’s what the new iPhone makes us all believe.  But
-    the truth is that being a photographer is way more than just taking
+    moment. Or at least that’s what the new iPhone makes us all believe.
+    But the truth is that being a photographer is way more than just taking
     beautiful pictures. 
 
 
