@@ -176,6 +176,44 @@ sections:
 
 
     ![Matteo de Mayda 26](/assets/img/uploads/era-mare_1200px.gif)
+  section5: >
+    > **“a comms lab to help NGOs find their stories** and get them published by
+
+    the media”.
+
+    >
+
+    > * On Baringo
+
+
+    **So he created Baringo**, on his own words: “a comms lab to help NGOs find their stories and get them published by the media.”  
+
+
+    **A new way of communicating.** A new way of creating engaging content. A new way of using photography to actually change the world. Because, as he says: “there’s no one job that can change things”, but telling these stories to the world comes pretty close.
+
+
+    `{{space}}`
+
+
+    ![Matteo de Mayda 27](/assets/img/uploads/mayda-imgs-website-1320x1320px-18.jpg)
+
+
+    ![Matteo de Mayda 28](/assets/img/uploads/mayda-imgs-website-1320x1320px-20.jpg)
+
+
+    ![Matteo de Mayda 29](/assets/img/uploads/mayda-imgs-website-1320x1320px-19.jpg)
+
+
+    ![Matteo de Mayda 30](/assets/img/uploads/mayda-imgs-website-1320x1320px-21.jpg)
+
+
+    ![Matteo de Mayda 31](/assets/img/uploads/mayda-imgs-website-1320x1320px-22.jpg)
+
+
+    ![Matteo de Mayda 32](/assets/img/uploads/mayda-imgs-website-1320x1320px-24.jpg)
+
+
+    ![Matteo de Mayda 33](/assets/img/uploads/mayda-imgs-website-1320x1320px-23.jpg)
 website: matteodemayda.com
 imstagram: "@demayda"
 ---
