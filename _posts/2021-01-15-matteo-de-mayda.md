@@ -133,6 +133,49 @@ sections:
 
 
     ![Matteo de Mayda 18](/assets/img/uploads/mayda-imgs-website-1320x1320px-17.jpg)
+  section4: >-
+    > “An uncertain dystopia that invites us to reflect on **the future of the
+    city.”**
+
+    >
+
+    > * On Era Mare
+
+
+    **He took a train to Venice to cover the high tide.** That’s true. But he never thought it would be the highest tide in decades. He never thought it would be such worldwide news. And most definitely he never thought it would become a book.
+
+
+    **But there he was, capturing one of the most dramatic moments in Venice** and (by chance) at the same time being hosted by a book publisher! A book publisher who saw his pictures and yelled “stop the presses”. A book publisher who thought those amazing photos needed the fine writing skills of Francesca Seravalle, to create “an uncertain dystopia that invites us to reflect on the future of the city.”
+
+
+    **That’s why, believe it or not, destiny might have something to do with the publishing of Era Mare,** a book Matteo describes as “a chronicle of the hanging, fragile atmosphere of Venice, its lagoon and the Venetians.” A book whose profits would be donated to help Venetians get back on track. A book that inspired him and made him realize NGOs needed a new way of telling their stories. 
+
+
+    `{{space}}`
+
+
+    ![Matteo de Mayda 19](/assets/img/uploads/mayda-imgs-website-1320x1320px-18.jpg)
+
+
+    ![Matteo de Mayda 20](/assets/img/uploads/mayda-imgs-website-1320x1320px-20.jpg)
+
+
+    ![Matteo de Mayda 21](/assets/img/uploads/mayda-imgs-website-1320x1320px-19.jpg)
+
+
+    ![Matteo de Mayda 22](/assets/img/uploads/mayda-imgs-website-1320x1320px-21.jpg)
+
+
+    ![Matteo de Mayda 23](/assets/img/uploads/mayda-imgs-website-1320x1320px-22.jpg)
+
+
+    ![Matteo de Mayda 24](/assets/img/uploads/mayda-imgs-website-1320x1320px-24.jpg)
+
+
+    ![Matteo de Mayda 25](/assets/img/uploads/mayda-imgs-website-1320x1320px-23.jpg)
+
+
+    ![Matteo de Mayda 26](/assets/img/uploads/era-mare_1200px.gif)
 website: matteodemayda.com
 imstagram: "@demayda"
 ---
