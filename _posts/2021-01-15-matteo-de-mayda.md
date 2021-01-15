@@ -95,7 +95,44 @@ sections:
 
     >
 
-    > * On Sport & Design
+    > * On WWCA
+  section3: >-
+    **But the WorldWide Cycling Atlas was just the tip of the iceberg.** It was
+    the first in a series of purpose-driven projects that made Matteo fall in
+    love with the changing power of photography.   Projects like the one that
+    led him to the Sahrawi Refugee Camp, where he had the opportunity of telling
+    the whole world how a pastry workshop can actually bring about change, shape
+    a culture and give thousands of refugees a job to overcome adversity.
+
+
+    **These are the kind of projects he seeks out.** These are the kind of projects that allowed him to work for Greenpeace, National Geographic, The New York Times, The Guardian, Rolling Stone Magazine, The Wall Street Journal or the World Health Organization.
+
+
+    **These are the kind of projects that seek him out as well,** cause you might call it destiny, you might call it luck, but the truth is one of his most important projects was conceived by chance.
+
+
+    `{{space}}`
+
+
+    ![Matteo de Mayda 12](/assets/img/uploads/mayda-imgs-website-1320x1320px-11.jpg)
+
+
+    ![Matteo de Mayda 13](/assets/img/uploads/mayda-imgs-website-1320x1320px-12.jpg)
+
+
+    ![Matteo de Mayda 14](/assets/img/uploads/mayda-imgs-website-1320x1320px-13.jpg)
+
+
+    ![Matteo de Mayda 15](/assets/img/uploads/mayda-imgs-website-1320x1320px-14.jpg)
+
+
+    ![Matteo de Mayda 16](/assets/img/uploads/mayda-imgs-website-1320x1320px-16.jpg)
+
+
+    ![Matteo de Mayda 17](/assets/img/uploads/mayda-imgs-website-1320x1320px-15.jpg)
+
+
+    ![Matteo de Mayda 18](/assets/img/uploads/mayda-imgs-website-1320x1320px-17.jpg)
 website: matteodemayda.com
 imstagram: "@demayda"
 ---
