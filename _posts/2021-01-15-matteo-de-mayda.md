@@ -61,7 +61,7 @@ sections:
     > * On His Role of Graphic Designer
 
 
-    **And that something was the content. **He felt there was a story behind every project he was working on, but the story was not properly covered, or told.
+    **And that something was the content.** He felt there was a story behind every project he was working on, but the story was not properly covered, or told.
 
 
     **And when he was feeling all that, when he was in need of a change, Macramé contacted him to work on a photography project.** The project: The WorldWide Cycling Atlas. A project that took him to Guatemala and allowed him to test himself as a photographer, offering the world a new perspective, a new way of thinking about the concept of the bicycle.
@@ -70,28 +70,28 @@ sections:
     `{{space}}`
 
 
-    ![Matteo de Mayda 4](/assets/img/uploads/liverpool-allison-becker-football-illustration.jpg)
+    ![Matteo de Mayda 4](/assets/img/uploads/mayda-imgs-website-1320x1320px-04.jpg)
 
 
-    ![Matteo de Mayda 6](/assets/img/uploads/coca-cola-copa-america-football-illustration.jpg)
+    ![Matteo de Mayda 6](/assets/img/uploads/mayda-imgs-website-1320x1320px-05.jpg)
 
 
-    ![Matteo de Mayda 7](/assets/img/uploads/patriots-bill-belichick-sport-illustration.jpg)
+    ![Matteo de Mayda 7](/assets/img/uploads/mayda-imgs-website-1320x1320px-06.jpg)
 
 
-    ![Matteo de Mayda 8](/assets/img/uploads/under-armour-anthony-joshua-sport-illustration.jpg)
+    ![Matteo de Mayda 8](/assets/img/uploads/mayda-imgs-website-1320x1320px-07.jpg)
 
 
-    ![Matteo de Mayda 9](/assets/img/uploads/under-armour-kelley-ohara-football-player-illlustration.jpg)
+    ![Matteo de Mayda 9](/assets/img/uploads/mayda-imgs-website-1320x1320px-08.jpg)
 
 
-    ![Matteo de Mayda 10](/assets/img/uploads/gatorade-messi-suarez-dybala-football-player-ilustration.jpg)
+    ![Matteo de Mayda 10](/assets/img/uploads/mayda-imgs-website-1320x1320px-09.jpg)
 
 
-    ![Matteo de Mayda 11](/assets/img/uploads/gatorade-lionel-messi-football-player-illustration.jpg)
+    ![Matteo de Mayda 11](/assets/img/uploads/mayda-imgs-website-1320x1320px-10.jpg)
 
 
-    > "A daily source of **inspiration and motivation**."
+    > "**I did not know anything about bicycles.** But in a few weeks we found over a thousand different stories about bikes around the world."
 
     >
 
