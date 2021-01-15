@@ -54,7 +54,7 @@ sections:
 
     **And that’s why, a few years ago, he quit his job** as an agency graphic designer to pursue his dream.
   section2: >-
-    > “I felt I was missing something.”**
+    > “I felt I was missing something.”
 
     >
 
