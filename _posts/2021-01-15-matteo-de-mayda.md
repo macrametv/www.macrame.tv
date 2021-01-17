@@ -214,6 +214,36 @@ sections:
 
 
     ![Matteo de Mayda 33](/assets/img/uploads/mayda-imgs-website-1320x1320px-32.jpg)
+awards: >-
+  2020 — Best photographer of the year, according to Artribune.
+
+  2020 — Winner of REFOCUS award by MiBACT with La Triennale di Milano and MUFOCO.
+
+  2020 — Finalist at the Head On Photo Awards.
+
+  2020 — Winner at Inner Outlook.
+
+  2019 — Finalist at the National Geographic Prize (Cortona on the Move Festival).
+
+  2012 — Silver Prize of the italian Art Director Club.
+exhibitions: |-
+  2021 — La Triennale, Milan
+  2020 — Lector in Fabula, Conversano, Bari.
+  2020 — Photobook Week Aarhus, Denmark.
+  2020 — Fotobok Festival, Oslo.
+  2020 — Head On Photo Festival, Sydney.
+  2020 — The Gallery by Generali, Milan.
+  2017 — Gwangju Biennale, South Korea.
+  2017 — Palazzo Santa Chiara, Rome.
+  2016 — 15th Architecture Biennale, Venice.
+  2014 — Fondazione Bevilacqua La Masa, Venice. 
+  2014 — National Architecture/Design Centre, Sweden. 
+  2013 — United Nations, Geneva. Switzerland.
+  2013 — Palazzo Valentini, Roma. 2013
+  2012 — Palazzo Rasponi, Ravenna. 2012
+  2012 — Fondazione Benetton, Palazzo Bomben, Treviso.
+  2012 — Palazzo Ducale, Genova. 
+  2011 — Limonaia, Florence.
 website: matteodemayda.com
 imstagram: "@demayda"
 ---
