@@ -214,6 +214,10 @@ sections:
 
 
     ![Matteo de Mayda 33](/assets/img/uploads/mayda-imgs-website-1320x1320px-32.jpg)
+teaching: |-
+  LA SAPIENZA University in Rome.
+  IUAV University of Venice.
+  NABA (Nuova Accademia di Belle Arti), Milan.
 awards: >-
   2020 — Best photographer of the year, according to Artribune.
 
