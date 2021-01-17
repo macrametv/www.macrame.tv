@@ -64,7 +64,7 @@ sections:
     **And that something was the content.** He felt there was a story behind every project he was working on, but the story was not properly covered, or told.
 
 
-    **And when he was feeling all that, when he was in need of a change, Macramé contacted him to work on a photography project.** The project: The WorldWide Cycling Atlas. A project that took him to Guatemala and allowed him to test himself as a photographer, offering the world a new perspective, a new way of thinking about the concept of the bicycle.
+    **And when he was feeling all that, when he was in need of a change, Macramè contacted him to work on a photography project.** The project: The WorldWide Cycling Atlas. A project that took him to Guatemala and allowed him to test himself as a photographer, offering the world a new perspective, a new way of thinking about the concept of the bicycle.
 
 
     `{{space}}`
