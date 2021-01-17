@@ -250,4 +250,9 @@ exhibitions: |-
   2011 — Limonaia, Florence.
 website: matteodemayda.com
 imstagram: "@demayda"
+footer: |-
+  # **If you think there are no thousand words that can replace a true picture**
+
+  or want to work with Matteo on a project, just say the word.\
+  **We are here!**
 ---
