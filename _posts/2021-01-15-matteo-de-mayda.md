@@ -176,10 +176,10 @@ sections:
 
 
     ![Matteo de Mayda 26](/assets/img/uploads/era-mare_1200px.gif)
-  section5: >
+  section5: >-
     > **“a comms lab to help NGOs find their stories** and get them published by
 
-    the media”.
+    > the media”.
 
     >
 
@@ -195,25 +195,25 @@ sections:
     `{{space}}`
 
 
-    ![Matteo de Mayda 27](/assets/img/uploads/mayda-imgs-website-1320x1320px-18.jpg)
+    ![Matteo de Mayda 27](/assets/img/uploads/mayda-imgs-website-1320x1320px-26.jpg)
 
 
-    ![Matteo de Mayda 28](/assets/img/uploads/mayda-imgs-website-1320x1320px-20.jpg)
+    ![Matteo de Mayda 28](/assets/img/uploads/mayda-imgs-website-1320x1320px-27.jpg)
 
 
-    ![Matteo de Mayda 29](/assets/img/uploads/mayda-imgs-website-1320x1320px-19.jpg)
+    ![Matteo de Mayda 29](/assets/img/uploads/mayda-imgs-website-1320x1320px-28.jpg)
 
 
-    ![Matteo de Mayda 30](/assets/img/uploads/mayda-imgs-website-1320x1320px-21.jpg)
+    ![Matteo de Mayda 30](/assets/img/uploads/mayda-imgs-website-1320x1320px-29.jpg)
 
 
-    ![Matteo de Mayda 31](/assets/img/uploads/mayda-imgs-website-1320x1320px-22.jpg)
+    ![Matteo de Mayda 31](/assets/img/uploads/mayda-imgs-website-1320x1320px-30.jpg)
 
 
-    ![Matteo de Mayda 32](/assets/img/uploads/mayda-imgs-website-1320x1320px-24.jpg)
+    ![Matteo de Mayda 32](/assets/img/uploads/mayda-imgs-website-1320x1320px-31.jpg)
 
 
-    ![Matteo de Mayda 33](/assets/img/uploads/mayda-imgs-website-1320x1320px-23.jpg)
+    ![Matteo de Mayda 33](/assets/img/uploads/mayda-imgs-website-1320x1320px-32.jpg)
 website: matteodemayda.com
 imstagram: "@demayda"
 ---
