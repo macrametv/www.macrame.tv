@@ -203,4 +203,16 @@ sections:
 
 
     ![Leandro Castelao 27](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
+  clientLabel: Brands he has worked with
+  clients:
+    client: /assets/img/uploads/adobe-logo.png
+    client2: /assets/img/uploads/the-new-york-times-logo.png
+living: USA
+awards: |-
+  2019 — Communication Arts, Award of Excellence in Book Design.
+  2015 — Communication Arts, Award of Excellence in Illustration.
+  2015 — Latin Grammy nomination for Best Packaging Design.
+  2015 — Selected for American Illustration.
+  2010 — Selected Wallpaper* Handmade Collection.
+  2006 — Winner Argentinean Logo Competition.
 ---
