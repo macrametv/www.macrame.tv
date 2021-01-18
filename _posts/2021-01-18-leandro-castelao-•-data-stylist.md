@@ -12,11 +12,10 @@ sections:
     material only brave artists can look through and really see what’s coming
     out of it. The kind of material that constantly changes and never returns to
     its previous state. The kind of material Leandro Castelao has in his home
-    office and atelier in Cleveland, USA.\
+    office and atelier in Cleveland, USA.
 
-    \
 
-    **But this argentinian graphic designer and illustrator, who developed a fine taste in sculpting glass and wood, was not always what he is now.** He is in constant movement, flowing, embracing change: *“I never look back. That’s part of who I am. Change, metamorphosis. Staring over and over again, from scratch”.*
+    **But this argentinian graphic designer and illustrator, who developed a fine taste in sculpting glass and wood, was not always what he is now.** He is in constant movement, flowing, embracing change: “I never look back. That’s part of who I am. Change, metamorphosis. Staring over and over again, from scratch”.
 
 
     `{{space}}`
