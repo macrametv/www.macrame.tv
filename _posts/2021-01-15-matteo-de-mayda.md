@@ -214,6 +214,12 @@ sections:
 
 
     ![Matteo de Mayda 33](/assets/img/uploads/mayda-imgs-website-1320x1320px-32.jpg)
+  clients:
+    client: /assets/img/uploads/national-geographic-logo.png
+    client2: /assets/img/uploads/vogue-logo.png
+    client3: /assets/img/uploads/the-new-york-times-logo.png
+    client4: /assets/img/uploads/wired-logo.png
+    client5: /assets/img/uploads/greenpeace-logo.png
 working: Photographer
 living: Italy
 teaching: |-
