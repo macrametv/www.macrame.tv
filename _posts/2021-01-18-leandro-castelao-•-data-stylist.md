@@ -215,4 +215,14 @@ awards: |-
   2015 — Selected for American Illustration.
   2010 — Selected Wallpaper* Handmade Collection.
   2006 — Winner Argentinean Logo Competition.
+website: https://castelao.works
+imstagram: leandrocastelao
+footer: >-
+  # **If you are interested in how information can be turned into beautiful
+  things,** how glass can be shaped into art,
+
+
+  or want to work with Leandro on a project, just say the word.\
+
+  **We are here!**
 ---
