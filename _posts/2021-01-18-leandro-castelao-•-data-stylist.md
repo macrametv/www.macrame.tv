@@ -172,4 +172,35 @@ sections:
 
 
     ![Leandro Castelao 21](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
+  section5: >
+    > **“Collaborating with other people is a great way to grow,**  as a
+    designer, and in life”.
+
+    >
+
+    > * On Macramè 
+
+
+    **That spirit has also let him work for amazing clients** like Apple, Google, The New York Times, The New Yorker, Mercedes Benz or Citibank; winning 2 Communication Arts Awards of Excellence and a Latin Grammy nomination. 
+
+
+    **That same spirit led him to Macramé more than 10 years ago.** A place that gives him the chance to work on complex, big scale projects, with different people. Like the ones for Wired Magazine and Montanari, in Italy. Projects he could find a specific creative solution that 10 years later, would still work. Projects he can make his own and enjoy, without looking back. Like everything he does.
+
+
+    ![Leandro Castelao 22](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-illustration-boots.jpg)
+
+
+    ![Leandro Castelao 23](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-illustration-defence.jpg)
+
+
+    ![Leandro Castelao 24](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-illustration-friends.jpg)
+
+
+    ![Leandro Castelao 25](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-football.jpg)
+
+
+    ![Leandro Castelao 26](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
+
+
+    ![Leandro Castelao 27](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
 ---
