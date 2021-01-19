@@ -208,6 +208,11 @@ sections:
     client: /assets/img/uploads/adobe-logo.png
     client2: /assets/img/uploads/the-new-york-times-logo.png
 living: USA
+teaching: >-
+  2003/2012 — Professor in Typography Design, University of Buenos Aires,
+  Argentina.
+
+  2010/2013 — Professor in Illustration University of Buenos Aires, Argentina.
 awards: |-
   2019 — Communication Arts, Award of Excellence in Book Design.
   2015 — Communication Arts, Award of Excellence in Illustration.
