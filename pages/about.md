@@ -30,7 +30,7 @@ intro_paragraph: >-
   ![](/assets/img/uploads/• about-3-800x800.gif)
 footer: "# If you would like to **discuss a project or just say hey.**"
 ---
-**Macramé Network was founded in 2004** in northeast Italy, a region known for its entrepreneurial spirit, **as a network of professionals** that would provide communication and design services.
+**Macramé Network was founded in 2004** in northeast Italy, a region known for its entrepreneurial spirit, **as a network of professionals** that provides communication and design services.
 
 **Today most things people seek are just a click away.** This means that things are fast and simple and people expect quality products at a reasonable price.
 
@@ -38,7 +38,7 @@ footer: "# If you would like to **discuss a project or just say hey.**"
 
 ![](/assets/img/uploads/• about-2-800x800.gif)
 
-**As a design agency that curates project teams for every new brief**, we have constructed a vast network of talents from around the world: designers, art directors, illustrators, copywriters, typeface artists and photographers who really understand projects needs, and bringing their expert skills to the table, every time.
+**As a design agency that curates project teams for every new brief**, we have constructed a vast network of talents from around the world: designers, art directors, illustrators, copywriters, typeface artists and photographers who really understand needs of each project, and bring their expert skills to the table, every time.
 
 **We've invested a lot of time and energy in putting together a close-knit network that knows no time zones.** We’ve done it with care, considering each member’s special set of skills, professionalism and honesty. We give them the same attention we give our clients because they are equally important.  
 
