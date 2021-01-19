@@ -172,12 +172,12 @@ sections:
 
     ![Leandro Castelao 21](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
   section5: >
-    > **“Collaborating with other people is a great way to grow,** as a
-    designer,  and in life”.
+    > **“Collaborating with other people is a great way to grow,** as a
+    designer, and in life”.
 
     >
 
-    > * On Macramè 
+    > * On Macramè
 
 
     **That spirit has also let him work for amazing clients** like Apple, Google, The New York Times, The New Yorker, Mercedes Benz or Citibank; winning 2 Communication Arts Awards of Excellence and a Latin Grammy nomination. 
