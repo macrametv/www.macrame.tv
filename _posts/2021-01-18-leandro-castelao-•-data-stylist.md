@@ -172,8 +172,8 @@ sections:
 
     ![Leandro Castelao 21](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
   section5: >
-    > **“Collaborating with other people is a great way to grow,**  as a
-    designer, and in life”.
+    > **“Collaborating with other people is a great way to grow,** as a
+    designer,  and in life”.
 
     >
 
