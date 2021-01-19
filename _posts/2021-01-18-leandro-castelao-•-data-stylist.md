@@ -97,19 +97,19 @@ sections:
 
 
     ![Leandro Castelao 8](/assets/img/uploads/under-armour-kelley-ohara-football-player-illlustration.jpg)
-  section3: >+
+  section3: >-
     > "**I discovered the power of vectors** and how deep you can go with them.
-    I feel like there are endless opportunities.."
+    I feel like there are endless opportunities."
 
     >
 
     > * On Datalands
 
 
-    **But these texts, these scientific texts full of facts were more than just work for him. **He actually read them for pleasure. Data. Numbers. Facts. A powerful combination to the career path he would have taken if he hadn’t chosen to be a graphic designer: engineering.
+    **But these texts, these scientific texts full of facts were more than just work for him.** He actually read them for pleasure. Data. Numbers. Facts. A powerful combination to the career path he would have taken if he hadn’t chosen to be a graphic designer: engineering.
 
 
-     **And nowadays he’s taken that interest in data to the next level.** Leandro is now the Creative Director and Co-founder of Datalands a creative studio he started in partnership with Liz Meyer y Gavin Potenza that gives shape to data. A place where he can (on his own words) “bring together typography, color, shapes, concepts and vast amounts of information. Basically what design is all about.”
+    **And nowadays he’s taken that interest in data to the next level.** Leandro is now the Creative Director and Co-founder of Datalands a creative studio he started in partnership with Liz Meyer y Gavin Potenza that gives shape to data. A place where he can (on his own words) “bring together typography, color, shapes, concepts and vast amounts of information. Basically what design is all about.”
 
 
     ![Leandro Castelao 9](/assets/img/uploads/liverpool-allison-becker-football-illustration.jpg)
@@ -131,7 +131,6 @@ sections:
 
 
     ![Leandro Castelao 15](/assets/img/uploads/gatorade-lionel-messi-football-player-illustration.jpg)
-
   section4: >-
     > “**It was basically an excuse to share the things we love online.** And
     without any specific know-how about the industry, that led to a book.”
