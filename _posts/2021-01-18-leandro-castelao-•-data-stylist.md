@@ -140,10 +140,10 @@ sections:
     > * On Flecha Books
 
 
-    **But his recent romance with data visualization is not everything in his world either. **He’s also the founder of Flecha Books, an independent publishing house that was born to help him and his business partner share what they think is worth communicating to the world:
+    **But his recent romance with data visualization is not everything in his world either.** He’s also the founder of Flecha Books, an independent publishing house that was born to help him and his business partner share what they think is worth communicating to the world:
 
 
-    **“It was basically an excuse to share the things we love online. **And without any specific know-how about the industry, that led to a book.” 
+    **“It was basically an excuse to share the things we love online.** And without any specific know-how about the industry, that led to a book.” 
 
 
     **And there’s also the ongoing project “Unfolding”** an original idea that gave them the chance to collaborate with different artists, giving them the absolute freedom to show their work with no restraints. Apart from a foldable canvas, of course.
