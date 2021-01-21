@@ -3,7 +3,7 @@ layout: post
 title: Matteo de Mayda • Photographer
 name: The Story Hunter
 subname: Shooting for Change
-svglogo: /assets/img/uploads/story-brand-matteo-2.svg
+svglogo: /assets/img/uploads/story-brand-matteo.svg
 colour: "#C28EFF"
 illustration: /assets/img/uploads/storyhunter-800x800.gif
 intro_paragraph: |
