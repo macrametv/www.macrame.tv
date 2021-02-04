@@ -21,7 +21,7 @@ sections:
     `{{space}}`
 
 
-    ![Leandro Castelao](/assets/img/uploads/martin-laksman-portrait.jpg)
+    ![Leandro Castelao](/assets/img/uploads/castelao-imgs-website-1320x1320px-01.jpg)
 
 
     > **I never look back.** That’s part of who I am. Change, metamorphosis. Staring over and over again, from scratch.
@@ -31,13 +31,13 @@ sections:
     > * On His Experience
 
 
-    ![Leandro Castelao 1](/assets/img/uploads/martin-laksman-cai-stadium-.jpg)
+    ![Leandro Castelao 1](/assets/img/uploads/castelao-imgs-website-1320x1320px-02.jpg)
 
 
-    ![Leandro Castelao 2](/assets/img/uploads/martin-laksman-cai.jpg)
+    ![Leandro Castelao 2](/assets/img/uploads/castelao-imgs-website-1320x1320px-03.jpg)
 
 
-    ![Leandro Castelao 3](/assets/img/uploads/martin-laksman-studio.jpg)
+    ![Leandro Castelao 3](/assets/img/uploads/castelao-imgs-website-1320x1320px-04.jpg)
 
 
     Born in Buenos Aires in 1979, Leandro (or Caste, as his friends call him) always finds different ways to do things, different approaches and different people to work with. 
@@ -49,10 +49,10 @@ sections:
     **“I’m always motivated by others.** By their energy, by the connection built. And when you find that special connection, projects find their own way.”
 
 
-    **Like the time he moved to the U.S. to work on a project based in New York City. **He did not give it much thought. He just did it, not looking back, as he always does.
+    **Like the time he moved to the U.S. to work on a project based in New York City.** He did not give it much thought. He just did it, not looking back, as he always does.
 
 
-    **Fortunately, he immediately fell in love with the city. **
+    **Fortunately, he immediately fell in love with the city.**
   section2: >-
     > **“The thing I enjoy the most is the city vibe.** The different styles,
     looks and personalities you see on the street on any given day are visually
@@ -80,23 +80,22 @@ sections:
     **“It was crazy.** Every Monday I got a text and on Tuesday it was printed. So I had less than 24 hours to do it”.
 
 
-
     `{{space}}`
 
 
-    ![Leandro Castelao 4](/assets/img/uploads/liverpool-allison-becker-football-illustration.jpg)
+    ![Leandro Castelao 4](/assets/img/uploads/castelao-imgs-website-1320x1320px-05.jpg)
 
 
-    ![Leandro Castelao 5](/assets/img/uploads/coca-cola-copa-america-football-illustration.jpg)
+    ![Leandro Castelao 5](/assets/img/uploads/castelao-imgs-website-1320x1320px-06.jpg)
 
 
-    ![Leandro Castelao 6](/assets/img/uploads/patriots-bill-belichick-sport-illustration.jpg)
+    ![Leandro Castelao 6](/assets/img/uploads/castelao-imgs-website-1320x1320px-07.jpg)
 
 
-    ![Leandro Castelao 7](/assets/img/uploads/under-armour-anthony-joshua-sport-illustration.jpg)
+    ![Leandro Castelao 7](/assets/img/uploads/castelao-imgs-website-1320x1320px-08.jpg)
 
 
-    ![Leandro Castelao 8](/assets/img/uploads/under-armour-kelley-ohara-football-player-illlustration.jpg)
+    ![Leandro Castelao 8](/assets/img/uploads/castelao-imgs-website-1320x1320px-09.jpg)
   section3: >-
     > "**I discovered the power of vectors** and how deep you can go with them.
     I feel like there are endless opportunities."
@@ -112,25 +111,25 @@ sections:
     **And nowadays he’s taken that interest in data to the next level.** Leandro is now the Creative Director and Co-founder of Datalands a creative studio he started in partnership with Liz Meyer y Gavin Potenza that gives shape to data. A place where he can (on his own words) “bring together typography, color, shapes, concepts and vast amounts of information. Basically what design is all about.”
 
 
-    ![Leandro Castelao 9](/assets/img/uploads/liverpool-allison-becker-football-illustration.jpg)
+    ![Leandro Castelao 9](/assets/img/uploads/castelao-imgs-website-1320x1320px-10.jpg)
 
 
-    ![Leandro Castelao 10](/assets/img/uploads/coca-cola-copa-america-football-illustration.jpg)
+    ![Leandro Castelao 10](/assets/img/uploads/castelao-imgs-website-1320x1320px-11.jpg)
 
 
-    ![Leandro Castelao 11](/assets/img/uploads/patriots-bill-belichick-sport-illustration.jpg)
+    ![Leandro Castelao 11](/assets/img/uploads/castelao-imgs-website-1320x1320px-12.jpg)
 
 
-    ![Leandro Castelao 12](/assets/img/uploads/under-armour-anthony-joshua-sport-illustration.jpg)
+    ![Leandro Castelao 12](/assets/img/uploads/castelao-imgs-website-1320x1320px-13.jpg)
 
 
-    ![Leandro Castelao 13](/assets/img/uploads/under-armour-kelley-ohara-football-player-illlustration.jpg)
+    ![Leandro Castelao 13](/assets/img/uploads/castelao-imgs-website-1320x1320px-14.jpg)
 
 
-    ![Leandro Castelao 14](/assets/img/uploads/gatorade-messi-suarez-dybala-football-player-ilustration.jpg)
+    ![Leandro Castelao 14](/assets/img/uploads/castelao-imgs-website-1320x1320px-29.jpg)
 
 
-    ![Leandro Castelao 15](/assets/img/uploads/gatorade-lionel-messi-football-player-illustration.jpg)
+    ![Leandro Castelao 15](/assets/img/uploads/castelao-imgs-website-1320x1320px-16.jpg)
   section4: >-
     > “**It was basically an excuse to share the things we love online.** And
     without any specific know-how about the industry, that led to a book.”
@@ -155,23 +154,23 @@ sections:
     `{{space}}`
 
 
-    ![Leandro Castelao 16](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-illustration-boots.jpg)
+    ![Leandro Castelao 16](/assets/img/uploads/castelao-imgs-website-1320x1320px-17.jpg)
 
 
-    ![Leandro Castelao 17](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-illustration-defence.jpg)
+    ![Leandro Castelao 17](/assets/img/uploads/castelao-imgs-website-1320x1320px-18.jpg)
 
 
-    ![Leandro Castelao 18](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-illustration-friends.jpg)
+    ![Leandro Castelao 18](/assets/img/uploads/castelao-imgs-website-1320x1320px-19.jpg)
 
 
-    ![Leandro Castelao 19](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-football.jpg)
+    ![Leandro Castelao 19](/assets/img/uploads/castelao-imgs-website-1320x1320px-20.jpg)
 
 
-    ![Leandro Castelao 20](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
+    ![Leandro Castelao 20](/assets/img/uploads/castelao-imgs-website-1320x1320px-21.jpg)
 
 
-    ![Leandro Castelao 21](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
-  section5: >
+    ![Leandro Castelao 21](/assets/img/uploads/castelao-imgs-website-1320x1320px-22.jpg)
+  section5: >-
     > **“Collaborating with other people is a great way to grow,** as a
     designer, and in life”.
 
@@ -186,22 +185,22 @@ sections:
     **That same spirit led him to Macramé more than 10 years ago.** A place that gives him the chance to work on complex, big scale projects, with different people. Like the ones for Wired Magazine and Montanari, in Italy. Projects he could find a specific creative solution that 10 years later, would still work. Projects he can make his own and enjoy, without looking back. Like everything he does.
 
 
-    ![Leandro Castelao 22](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-illustration-boots.jpg)
+    ![Leandro Castelao 22](/assets/img/uploads/castelao-imgs-website-1320x1320px-23.jpg)
 
 
-    ![Leandro Castelao 23](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-illustration-defence.jpg)
+    ![Leandro Castelao 23](/assets/img/uploads/castelao-imgs-website-1320x1320px-24.jpg)
 
 
-    ![Leandro Castelao 24](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-illustration-friends.jpg)
+    ![Leandro Castelao 24](/assets/img/uploads/castelao-imgs-website-1320x1320px-25.jpg)
 
 
-    ![Leandro Castelao 25](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-football.jpg)
+    ![Leandro Castelao 25](/assets/img/uploads/castelao-imgs-website-1320x1320px-26.jpg)
 
 
-    ![Leandro Castelao 26](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
+    ![Leandro Castelao 26](/assets/img/uploads/castelao-imgs-website-1320x1320px-27.jpg)
 
 
-    ![Leandro Castelao 27](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
+    ![Leandro Castelao 27](/assets/img/uploads/castelao-imgs-website-1320x1320px-28.jpg)
   clientLabel: Brands he has worked with
   clients:
     client: /assets/img/uploads/adobe-logo.png
