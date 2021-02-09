@@ -220,7 +220,7 @@ awards: |-
   2015 — Latin Grammy nomination for Best Packaging Design.
   2015 — Selected for American Illustration.
   2010 — Selected Wallpaper* Handmade Collection.
-  2006 — Winner Argentinean Logo Competition.
+  2006 — Winner Argentina Logo Competition.
 website: https://castelao.works
 imstagram: leandrocastelao
 footer: >-
