@@ -205,6 +205,9 @@ sections:
   clients:
     client: /assets/img/uploads/adobe-logo.png
     client2: /assets/img/uploads/the-new-york-times-logo.png
+    client3: /assets/img/uploads/citi-logo.png
+    client4: /assets/img/uploads/the-new-yorker-logo.png
+    client5: /assets/img/uploads/google-logo.png
 living: USA
 teaching: >-
   2003/2012 — Professor in Typography Design, University of Buenos Aires,
