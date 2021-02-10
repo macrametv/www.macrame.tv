@@ -59,7 +59,7 @@ sections:
 
     >
 
-    > * On his Role as a Graphic Designer
+    > * On His Role as a Graphic Designer
 
 
     **And that something was the content.** He felt there was a story behind every project he was working on, but the story was not properly covered, or told.
