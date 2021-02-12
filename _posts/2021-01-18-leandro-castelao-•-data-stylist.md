@@ -225,8 +225,8 @@ awards: |-
 website: castelao.works
 imstagram: leandrocastelao
 footer: >-
-  # **If you are interested in how information can be turned into beautiful
-  things,** how glass can be shaped into art,
+  # If you are interested in **how information can be turned into beautiful
+  things,** 
 
 
   or want to work with Leandro on a project, just say the word.\
