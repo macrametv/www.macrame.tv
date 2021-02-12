@@ -222,7 +222,7 @@ awards: |-
   2015 — Selected for American Illustration.
   2010 — Selected Wallpaper* Handmade Collection.
   2006 — Winner Argentina Logo Competition.
-website: https://castelao.works
+website: castelao.works
 imstagram: leandrocastelao
 footer: >-
   # **If you are interested in how information can be turned into beautiful
