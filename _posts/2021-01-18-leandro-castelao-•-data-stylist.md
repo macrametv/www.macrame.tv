@@ -204,9 +204,9 @@ sections:
     ![Leandro Castelao 27](/assets/img/uploads/castelao-imgs-website-1320x1320px-28.jpg)
   clientLabel: Brands he has worked with
   clients:
-    client: /assets/img/uploads/adobe-logo.png
+    client: /assets/img/uploads/citi-logo.png
     client2: /assets/img/uploads/the-new-york-times-logo.png
-    client3: /assets/img/uploads/citi-logo.png
+    client3: /assets/img/uploads/adobe-logo.png
     client4: /assets/img/uploads/the-new-yorker-logo.png
     client5: /assets/img/uploads/google-logo.png
 living: USA
