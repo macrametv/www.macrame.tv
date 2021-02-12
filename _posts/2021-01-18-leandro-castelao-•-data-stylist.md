@@ -183,7 +183,7 @@ sections:
     **That spirit has also let him work for amazing clients** like Apple, Google, The New York Times, The New Yorker, Mercedes Benz or Citibank; winning 2 Communication Arts Awards of Excellence and a Latin Grammy nomination. 
 
 
-    **That same spirit led him to Macramé more than 10 years ago.** A place that gives him the chance to work on complex, big scale projects, with different people. Like the ones for Wired Magazine and Montanari, in Italy. Projects he could find a specific creative solution that 10 years later, would still work. Projects he can make his own and enjoy, without looking back. Like everything he does.
+    **That same spirit led him to Macramè more than 10 years ago.** A place that gives him the chance to work on complex, big scale projects, with different people. Like the ones for Wired Magazine and Montanari, in Italy. Projects he could find a specific creative solution that 10 years later, would still work. Projects he can make his own and enjoy, without looking back. Like everything he does.
 
 
     ![Leandro Castelao 22](/assets/img/uploads/castelao-imgs-website-1320x1320px-23.jpg)
