@@ -3,6 +3,7 @@ layout: post
 title: Leandro Castelao • Data Stylist
 name: The Team Builder
 subname: Who Never Looks Back
+svglogo: /assets/img/uploads/the-team-builder.svg
 colour: "#FF94B1"
 illustration: /assets/img/uploads/• teambuilder-800x800.gif
 intro_paragraph: "**Leandro Castelao** and the importance of being inspired all the time."
