@@ -32,13 +32,13 @@ sections:
     > * On His Experience
 
 
-    ![Leandro Castelao 1](/assets/img/uploads/castelao-imgs-website-1320x1320px-02.jpg)
+    ![Leandro Castelao 1](/assets/img/uploads/castelao-imgs-website-1320x1320px-02b.jpg)
 
 
-    ![Leandro Castelao 2](/assets/img/uploads/castelao-imgs-website-1320x1320px-03.jpg)
+    ![Leandro Castelao 2](/assets/img/uploads/castelao-imgs-website-1320x1320px-03b.jpg)
 
 
-    ![Leandro Castelao 3](/assets/img/uploads/castelao-imgs-website-1320x1320px-04.jpg)
+    ![Leandro Castelao 3](/assets/img/uploads/castelao-imgs-website-1320x1320px-04b.jpg)
 
 
     Born in Buenos Aires in 1979, Leandro (or Caste, as his friends call him) always finds different ways to do things, different approaches and different people to work with. 
