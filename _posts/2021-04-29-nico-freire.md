@@ -112,4 +112,29 @@ sections:
 
 
     ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+  section3: >
+    > "**Tea Connection made me evaluate everything I’ve learnt to the moment.**
+    It put everything under a stress test. Both professionally and personally."
+
+    >
+
+    > * On Tea Connection
+
+
+    **He describes his years at Tea Connection as an enlightening yet exhausting experience.** In other words something Nico just loved, of course.
+
+
+    **The brand is based on a specialized tea shop chain** with a casual, friendly and chilled yet sophisticated atmosphere. In other words: the perfect ecosystem for him to change, adapt and start exploring again.    
+
+
+    **He was already working for the brand** when one of Tea Connection’s owners created an in-house design studio and offered Nico to join them. 
+
+
+    **He knew he was lacking a few soft skills yet,** and the opportunity was perfect to learn them, so he took the offer. 
+
+
+    **He loved what he was doing.** He enjoyed the process and he took amazing care of the brand. And the relationship evolved. As they usually do. 
+
+
+    **At some point he started managing teams** and attending meetings, going from a Graphic Designer to the brand’s Art Director.
 ---
