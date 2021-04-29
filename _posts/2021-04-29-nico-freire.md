@@ -27,7 +27,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/fer-cozzi-portrait.jpg)
+    ![Nico Freire ](/assets/img/uploads/nico-freire-portrait.jpg)
 
 
     > "I remember noticing that most of my favorite comic book artists had graphic design degrees. So I decided **I was going to be a designer, just like them.**"
@@ -37,13 +37,13 @@ sections:
     > * On His Career Path
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-e.jpg)
+    ![Nico Freire 1](/assets/img/uploads/nico-freire-portrait-bike.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![Nico Freire 2](/assets/img/uploads/nico-freire-portrait-cat.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio.jpg)
+    ![Nico Freire 3](/assets/img/uploads/nico-freire-portrait-studio.jpg)
 
 
     `{{space}}`
@@ -57,7 +57,6 @@ sections:
 
     **Something that gave him the desire to learn,** to experiment, to mutate into different designers, all of them in the same skin.
 
-     
 
     **Something  so in tune with what he was interested in:** music, fashion, trends, beauty and of course, food. 
 
