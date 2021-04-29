@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nico freire
+title: Nico Freire • Digital Designer
 name: The Chameleon
 subname: Sketching his Fate
 colour: "#B6FF7C"
