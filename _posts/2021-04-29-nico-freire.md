@@ -254,4 +254,13 @@ sections:
 
 
     ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+  clientLabel: Brands he has worked with
+footer: >-
+  # **If you wish one person could do it all,** want to explore different ways
+  of achieving your goals 
+
+
+  or just want to work with Nico on a project, just say the word.\
+
+  **We are here!**
 ---
