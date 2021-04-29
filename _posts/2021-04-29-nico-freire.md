@@ -3,6 +3,7 @@ layout: post
 title: Nico Freire • Digital Designer
 name: The Chameleon
 subname: Sketching his Fate
+svglogo: /assets/img/uploads/story-brand-nico.svg
 colour: "#B6FF7C"
 intro_paragraph: "**Nico Freire** or how constant change can be a truly successful career path."
 sections:
