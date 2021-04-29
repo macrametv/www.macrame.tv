@@ -79,14 +79,21 @@ sections:
 
 
     **He was thinking motion when almost nobody was thinking motion.**
-     
+
+
     **And that’s what makes him so special.** That’s what he brings to each project he is involved in. That’s what brought him work from amazing clients such as: Nokia, Danone, L’Oreal, Natura, Toyota, Unilever, Herbalife and Tea Connection, a brand he is especially fond of.
 
 
     `{{space}}`
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/nico-freire-biovegan-logo.jpg)
+
+
+    ![](/assets/img/uploads/nico-freire-biovegan-product.jpg)
+
+
+    ![](/assets/img/uploads/nico-freire-biovegan-charts.jpg)
 
 
     ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
@@ -98,19 +105,13 @@ sections:
     ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/nico-freire-mazz-logo.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/nico-freire-mazz-pack.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
-
-
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
-
-
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/nico-freire-mazz-product.jpg)
   section3: >-
     > "**Tea Connection made me evaluate everything I’ve learnt to the moment.**
     It put everything under a stress test. Both professionally and personally."
