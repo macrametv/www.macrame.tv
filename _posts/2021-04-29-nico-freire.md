@@ -215,7 +215,7 @@ sections:
     ![](/assets/img/uploads/nico-freire-pau-web.jpg)
   section5: >-
     > "**I love that I have the chance to work with people from different
-    cultures and backgrounds. **That makes me feel I’m part of something bigger"
+    cultures and backgrounds.** That makes me feel I’m part of something bigger"
 
     >
 
@@ -233,25 +233,25 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-leve-opening-drinks.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-leve-menu.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-leve-opening-food.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-leve-photo.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-kiton-man-header.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-kiton-detail.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-kiton-woman.jpg)
   clientLabel: Brands he has worked with
 footer: >-
   # **If you wish one person could do it all,** want to explore different ways
