@@ -142,25 +142,25 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+    ![](/assets/img/uploads/nico-freire-tea-connection-wall.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+    ![](/assets/img/uploads/nico-freire-tea-connection-menu-banner.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+    ![](/assets/img/uploads/nico-freire-tea-connection-table.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+    ![](/assets/img/uploads/nico-freire-tea-connection-menu.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+    ![](/assets/img/uploads/nico-freire-connection-nights-logo.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+    ![](/assets/img/uploads/nico-freire-connection-nights-menu.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+    ![](/assets/img/uploads/nico-freire-connection-nights-table.jpg)
   section4: >-
     > "**I did not know anyone who was a freelancer and was doing well at the
     time**."
