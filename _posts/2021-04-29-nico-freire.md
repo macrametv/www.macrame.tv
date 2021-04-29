@@ -63,4 +63,53 @@ sections:
 
 
     **Something we now know as Social Media.**
+  section2: >-
+    > "**It was extremely new at that time. But what I loved about it was that
+    you could control the whole storytelling.** You could actually talk to
+    people. And get feedback. Making your own narrative was truly essential."
+
+    >
+
+    > * On Social Media
+
+
+    **So yes, Nico changes a lot and he loves challenges.** He always thought of design as an experience, even back then, when UX, UI and digital were concepts almost nobody knew of: “I loved thinking of the brand in constant movement. Creating sequences, and videos.”
+
+
+    **He was doing UI when nobody else was doing UI**
+
+
+    **He was thinking motion when almost nobody was thinking motion.**
+     
+    **And that’s what makes him so special.** That’s what he brings to each project he is involved in. That’s what brought him work from amazing clients such as: Nokia, Danone, L’Oreal, Natura, Toyota, Unilever, Herbalife and Tea Connection, a brand he is especially fond of.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
 ---
