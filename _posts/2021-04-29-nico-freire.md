@@ -112,7 +112,7 @@ sections:
 
 
     ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
-  section3: >
+  section3: >-
     > "**Tea Connection made me evaluate everything I’ve learnt to the moment.**
     It put everything under a stress test. Both professionally and personally."
 
@@ -137,4 +137,28 @@ sections:
 
 
     **At some point he started managing teams** and attending meetings, going from a Graphic Designer to the brand’s Art Director.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
 ---
