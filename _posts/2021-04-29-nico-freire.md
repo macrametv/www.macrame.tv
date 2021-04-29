@@ -175,11 +175,9 @@ sections:
 
     **There were no guarantees to this new adventure:** “I did not know anyone who was a freelancer and was doing well at the time”. 
 
-     
 
     **But now he can say that it was one of the most amazing decisions of his life.**
 
-     
 
     **Freelance work was the perfect opportunity to explore.** To grow up as a designer. To experiment and try new processes and ways of doing and thinking. 
 
@@ -190,31 +188,31 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-atencion-chat-logo.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-atencion-chat-web.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-atencion-chat-app.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-kitana-logo.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-kitana-app.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-kitana-app-2.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-pau-logo.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-pau-app.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![](/assets/img/uploads/nico-freire-pau-web.jpg)
   section5: >-
     > "**I love that I have the chance to work with people from different
     cultures and backgrounds. **That makes me feel I’m part of something bigger"
