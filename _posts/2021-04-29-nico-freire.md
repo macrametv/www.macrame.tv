@@ -215,4 +215,43 @@ sections:
 
 
     ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+  section5: >-
+    > "**I love that I have the chance to work with people from different
+    cultures and backgrounds. **That makes me feel I’m part of something bigger"
+
+    >
+
+    > * On Macramè Network
+
+
+    **More or less at the same time, he started working for Macramè.** And he had to change again. So he enjoyed it, a lot: “What I love the most about Macramé is that I have the chance to work with people from different cultures and backgrounds. That makes me feel I’m part of something bigger.”
+
+
+    **So Macramè offered him the perfect environment for his unique talents to flourish.** Macramè offered him a place to evolve and embrace change.
+
+    And he had the perfect camouflage ready for it.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
 ---
