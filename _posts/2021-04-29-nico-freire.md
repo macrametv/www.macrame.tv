@@ -47,4 +47,20 @@ sections:
 
 
     `{{space}}`
+
+
+    **So he did. And he never regretted it.**
+
+
+    **He was a true design fan from the very beginning.** More specially non-static design. Something that wasn’t even a thing at that time.
+
+
+    **Something that gave him the desire to learn,** to experiment, to mutate into different designers, all of them in the same skin.
+
+     
+
+    **Something  so in tune with what he was interested in:** music, fashion, trends, beauty and of course, food. 
+
+
+    **Something we now know as Social Media.**
 ---
