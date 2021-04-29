@@ -61,7 +61,7 @@ sections:
     **Something that gave him the desire to learn,** to experiment, to mutate into different designers, all of them in the same skin.
 
 
-    **Something  so in tune with what he was interested in:** music, fashion, trends, beauty and of course, food. 
+    **Something  so in tune with what he was interested in:** music, fashion, trends, beauty and of course, food.
 
 
     **Something we now know as Social Media.**
@@ -127,10 +127,10 @@ sections:
     **He describes his years at Tea Connection as an enlightening yet exhausting experience.** In other words something Nico just loved, of course.
 
 
-    **The brand is based on a specialized tea shop chain** with a casual, friendly and chilled yet sophisticated atmosphere. In other words: the perfect ecosystem for him to change, adapt and start exploring again.    
+    **The brand is based on a specialized tea shop chain** with a casual, friendly and chilled yet sophisticated atmosphere. In other words: the perfect ecosystem for him to change, adapt and start exploring again.
 
 
-    **He was already working for the brand** when one of Tea Connection’s owners created an in-house design studio and offered Nico to join them. 
+    **He was already working for the brand** when one of Tea Connection’s owners created an in-house design studio and offered Nico to join them.
 
 
     **He knew he was lacking a few soft skills yet,** and the opportunity was perfect to learn them, so he took the offer. 
@@ -218,7 +218,7 @@ sections:
     ![](/assets/img/uploads/nico-freire-pau-web.jpg)
   section5: >-
     > "**I love that I have the chance to work with people from different
-    cultures and backgrounds.** That makes me feel I’m part of something bigger"
+    cultures and backgrounds.**That makes me fell I'm part of something bigger"
 
     >
 
