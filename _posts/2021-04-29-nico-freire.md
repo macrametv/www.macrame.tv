@@ -161,4 +161,58 @@ sections:
 
 
     ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+  section4: >-
+    > "**I did not know anyone who was a freelancer and was doing well at the
+    time**."
+
+    >
+
+    > * On Freelance Work
+
+
+    **He changed, adapted, once again,** and only then he believed he was ready to take the most important step of his career: starting his own studio with his partner (both in business and in life) Federico.
+
+
+    **There were no guarantees to this new adventure:** “I did not know anyone who was a freelancer and was doing well at the time”. 
+
+     
+
+    **But now he can say that it was one of the most amazing decisions of his life.**
+
+     
+
+    **Freelance work was the perfect opportunity to explore.** To grow up as a designer. To experiment and try new processes and ways of doing and thinking. 
+
+
+    **Because Nico, as a true chameleon changes** depending on the surroundings. He mutates, adapts, fast and successfully. And both him and his clients love that.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+
+
+    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
 ---
