@@ -217,7 +217,7 @@ sections:
 
     ![](/assets/img/uploads/nico-freire-pau-web.jpg)
   section5: >-
-    > "**I love that I have the chance to work with people from different
+    > "**I love that I have the chance to work with people from different
     cultures and backgrounds.**That makes me fell I'm part of something bigger"
 
     >
