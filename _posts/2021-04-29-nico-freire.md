@@ -10,10 +10,10 @@ intro_paragraph: "**Nico Freire** or how constant change can be a truly successf
 sections:
   section: >-
     **When you think of a designer you probably think graphic, digital or even
-    UX/UI.** 
+    UX/UI.**
 
 
-    When you think of a designer you immediately associate it to his or her area of expertise. 
+    When you think of a designer you immediately associate it to his or her area of expertise.
 
     You never assume a designer can do it all. That would be just impossible, you think. 
 
@@ -218,7 +218,7 @@ sections:
     ![](/assets/img/uploads/nico-freire-pau-web.jpg)
   section5: >-
     > "**I love that I have the chance to work with people from different
-    cultures and backgrounds.**That makes me fell I'm part of something bigger"
+    cultures and backgrounds.**That makes me fell I'm part of something bigger"
 
     >
 
