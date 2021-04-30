@@ -99,13 +99,13 @@ sections:
     ![](/assets/img/uploads/nico-freire-biovegan-charts.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/nico-freire-nimes-logo.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/nico-freire-nimes-mockups.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/nico-freire-nimes-mobile.jpg)
 
 
     ![](/assets/img/uploads/nico-freire-mazz-logo.jpg)
