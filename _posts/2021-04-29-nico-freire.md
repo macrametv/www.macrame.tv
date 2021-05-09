@@ -255,6 +255,12 @@ sections:
 
 
     ![](/assets/img/uploads/nico-freire-kiton-woman.jpg)
+
+
+    ![](/assets/img/uploads/nico-freire-kiton-woman.jpg)
+
+
+    ![](/assets/img/uploads/nico-freire-kiton-woman.jpg)
   clientLabel: Brands he has worked with
 footer: >-
   # **If you wish one person could do it all,** want to explore different ways
