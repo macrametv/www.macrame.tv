@@ -262,6 +262,12 @@ sections:
 
     ![](/assets/img/uploads/nico-freire-jamstack-web.jpg)
   clientLabel: Brands he has worked with
+  clients:
+    client: /assets/img/uploads/gador-logo.png
+    client2: /assets/img/uploads/loreal-logo.png
+    client3: /assets/img/uploads/natura-logo.png
+    client4: /assets/img/uploads/bind-logo.png
+    client5: /assets/img/uploads/tea-connection-logo.png
 footer: >-
   # **If you wish one person could do it all,** want to explore different ways
   of achieving your goals 
