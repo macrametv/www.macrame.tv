@@ -9,22 +9,14 @@ illustration: /assets/img/uploads/freire3.gif
 intro_paragraph: "**Nico Freire** or how constant change can be a truly successful career path."
 sections:
   section: >-
-    **When you think of a designer you probably think graphic, digital or even
-    UX/UI.**
+    When you think of a designer you probably think graphic, digital or even
+    UX/UI. When you think of a designer you immediately associate it to his or
+    her area of expertise.
+
+    You never assume a designer can do it all. That would be just impossible, you think. That’s why, when you think of a designer you think specifics; but you dream of Nico Freire.
 
 
-    When you think of a designer you immediately associate it to his or her area of expertise.
-
-    You never assume a designer can do it all. That would be just impossible, you think. 
-
-
-    **That’s why, when you think of a designer you think specifics; but you dream of Nico Freire.**
-
-
-    **Born in 1981, Nico started falling in love with design at an early age:** “I have this joyful memory of me spending my summers reading “Mafalda”. That was my introduction to a visual way of thinking.”
-
-
-    **And when he was a little bit older, his career path became clear** when he chose the first and most important costume this design chameleon would ever wear:
+    **Born in 1981, Nico started falling in love with design at an early age:** “I have this joyful memory of me spending my summers reading “Mafalda”. That was my introduction to a visual way of thinking.” And when he was a little bit older, his career path became clea**r** when he chose the first and most important costume this design chameleon would ever wear:
 
 
     `{{space}}`
@@ -40,31 +32,22 @@ sections:
     > * On His Career Path
 
 
-    ![Nico Freire 1](/assets/img/uploads/nico-freire-portrait-bike.jpg)
+    ![Nico Freire 1](/assets/img/uploads/nico-freire-portrait-studio.jpg)
 
 
     ![Nico Freire 2](/assets/img/uploads/nico-freire-portrait-cat.jpg)
 
 
-    ![Nico Freire 3](/assets/img/uploads/nico-freire-portrait-studio.jpg)
+    ![Nico Freire 3](/assets/img/uploads/nico-freire-portrait-bike.jpg)
 
 
     `{{space}}`
 
 
-    **So he did. And he never regretted it.**
+    **So he did. And he never regretted it.** He was a true design fan from the very beginning. More specially non-static design. Something that wasn’t even a thing at that time.
 
 
-    **He was a true design fan from the very beginning.** More specially non-static design. Something that wasn’t even a thing at that time.
-
-
-    **Something that gave him the desire to learn,** to experiment, to mutate into different designers, all of them in the same skin.
-
-
-    **Something  so in tune with what he was interested in:** music, fashion, trends, beauty and of course, food.
-
-
-    **Something we now know as Social Media.**
+    **Something that gave him the desire to learn,** to experiment, to mutate into different designers, all of them in the same skin. Something  so in tune with what he was interested in: music, fashion, trends, beauty and of course, food. Something we now know as Social Media.
   section2: >-
     > "**It was extremely new at that time. But what I loved about it was that
     you could control the whole storytelling.** You could actually talk to
@@ -78,13 +61,7 @@ sections:
     **So yes, Nico changes a lot and he loves challenges.** He always thought of design as an experience, even back then, when UX, UI and digital were concepts almost nobody knew of: “I loved thinking of the brand in constant movement. Creating sequences, and videos.”
 
 
-    **He was doing UI when nobody else was doing UI**
-
-
-    **He was thinking motion when almost nobody was thinking motion.**
-
-
-    **And that’s what makes him so special.** That’s what he brings to each project he is involved in. That’s what brought him work from amazing clients such as: Nokia, Danone, L’Oreal, Natura, Toyota, Unilever, Herbalife and Tea Connection, a brand he is especially fond of.
+    **He was doing UI when nobody else was doing UI.** He was thinking motion when almost nobody was thinking motion. And that’s what makes him so special. That’s what he brings to each project he is involved in. That’s what brought him work from amazing clients such as: Nokia, Danone, L’Oreal, Natura, Toyota, Unilever, Herbalife and Tea Connection, a brand he is especially fond of.
 
 
     `{{space}}`
@@ -124,22 +101,13 @@ sections:
     > * On Tea Connection
 
 
-    **He describes his years at Tea Connection as an enlightening yet exhausting experience.** In other words something Nico just loved, of course.
+    **He describes his years at Tea Connection as an enlightening yet exhausting experience.** In other words something Nico just loved, of course. The brand is based on a specialized tea shop chain with a casual, friendly and chilled yet sophisticated atmosphere. In other words: the perfect ecosystem for him to change, adapt and start exploring again.
 
 
-    **The brand is based on a specialized tea shop chain** with a casual, friendly and chilled yet sophisticated atmosphere. In other words: the perfect ecosystem for him to change, adapt and start exploring again.
+    **He was already working for the brand** **when one of Tea Connection’s owners created an in-house design studio** and offered Nico to join them. He knew he was lacking a few soft skills yet, and the opportunity was perfect to learn them, so he took the offer. 
 
 
-    **He was already working for the brand** when one of Tea Connection’s owners created an in-house design studio and offered Nico to join them.
-
-
-    **He knew he was lacking a few soft skills yet,** and the opportunity was perfect to learn them, so he took the offer. 
-
-
-    **He loved what he was doing.** He enjoyed the process and he took amazing care of the brand. And the relationship evolved. As they usually do. 
-
-
-    **At some point he started managing teams** and attending meetings, going from a Graphic Designer to the brand’s Art Director.
+    **He loved what he was doing.** He enjoyed the process and he took amazing care of the brand. And the relationship evolved. As they usually do. At some point he started managing teams and attending meetings, going from a Graphic Designer to the brand’s Art Director.
 
 
     `{{space}}`
@@ -173,19 +141,15 @@ sections:
     > * On Freelance Work
 
 
-    **He changed, adapted, once again,** and only then he believed he was ready to take the most important step of his career: starting his own studio with his partner (both in business and in life) Federico.
+    **He changed, adapted, once again,** and only then he believed he was ready to take the most important step of his career: starting his own studio with his partner (both in business and in life) Federico. \
 
+    \
 
-    **There were no guarantees to this new adventure:** “I did not know anyone who was a freelancer and was doing well at the time”. 
+    **There were no guarantees to this new adventure:** “I did not know anyone who was a freelancer and was doing well at the time”. But now he can say that it was one of the most amazing decisions of his life. \
 
+    \
 
-    **But now he can say that it was one of the most amazing decisions of his life.**
-
-
-    **Freelance work was the perfect opportunity to explore.** To grow up as a designer. To experiment and try new processes and ways of doing and thinking. 
-
-
-    **Because Nico, as a true chameleon changes** depending on the surroundings. He mutates, adapts, fast and successfully. And both him and his clients love that.
+    **Freelance work was the perfect opportunity to explore.** To grow up as a designer. To experiment and try new processes and ways of doing and thinking. Because Nico, as a true chameleon changes depending on the surroundings. He mutates, adapts, fast and successfully. And both him and his clients love that.
 
 
     `{{space}}`
