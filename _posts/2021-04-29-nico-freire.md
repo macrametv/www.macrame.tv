@@ -50,8 +50,8 @@ sections:
     **Something that gave him the desire to learn,** to experiment, to mutate into different designers, all of them in the same skin. Something  so in tune with what he was interested in: music, fashion, trends, beauty and of course, food. Something we now know as Social Media.
   section2: >-
     > "**It was extremely new at that time. But what I loved about it was that
-    you could control the whole storytelling.** You could actually talk to
-    people. And get feedback. Making your own narrative was truly essential."
+    you could control the entire storytelling process.** You could actually talk
+    to people. And get feedback. Making your own narrative was truly essential."
 
     >
 
