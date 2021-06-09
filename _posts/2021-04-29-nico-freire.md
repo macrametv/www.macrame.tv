@@ -93,7 +93,7 @@ sections:
 
     ![](/assets/img/uploads/nico-freire-mazz-product.jpg)
   section3: >-
-    > "**Tea Connection made me evaluate everything I’ve learnt to the moment.**
+    > "**Tea Connection made me rethink everything I’d learnt to the moment.**
     It put everything under a stress test. Both professionally and personally."
 
     >
