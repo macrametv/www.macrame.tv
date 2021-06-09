@@ -93,8 +93,8 @@ sections:
 
     ![](/assets/img/uploads/nico-freire-mazz-product.jpg)
   section3: >-
-    > "**Tea Connection made me rethink everything I’d learnt to the moment.**
-    It put everything under a stress test. Both professionally and personally."
+    > "**Tea Connection made me rethink everything I’d learnt so far.** It put
+    everything under a stress test. Both professionally and personally."
 
     >
 
@@ -141,7 +141,7 @@ sections:
     > * On Freelance Work
 
 
-    **He changed, adapted, once again,** and only then he believed he was ready to take the most important step of his career: starting his own studio with his partner (both in business and in life) Federico. \
+    **He changed, adapted, once again,** and only then believed he was ready to take the most important step of his career: starting his own studio with his partner (both in business and in life) Federico. \
 
     \
 
