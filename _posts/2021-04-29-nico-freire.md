@@ -16,7 +16,7 @@ sections:
     You never assume a designer can do it all. That would be just impossible, you think. That’s why, when you think of a designer you think specifics; but you dream of Nico Freire.
 
 
-    **Born in 1981, Nico started falling in love with design at an early age:** “I have this joyful memory of me spending my summers reading “Mafalda”. That was my introduction to a visual way of thinking.” And when he was a little bit older, his career path became clea**r** when he chose the first and most important costume this design chameleon would ever wear:
+    **Born in 1981, Nico started falling in love with design at an early age:** “I have this joyful memory of me spending my summers reading “Mafalda”. That was my introduction to a visual way of thinking.” And when he was a little bit older, his career path became clear when he chose the first and most important costume this design chameleon would ever wear:
 
 
     `{{space}}`
