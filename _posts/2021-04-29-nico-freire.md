@@ -16,7 +16,7 @@ sections:
     You never assume a designer can do it all. That would be just impossible, you think. That’s why, when you think of a designer you think specifics; but you dream of Nico Freire.
 
 
-    **Born in 1981, Nico started falling in love with design at an early age:** “I have this joyful memory of me spending my summers reading “Mafalda”. That was my introduction to a visual way of thinking.” And when he was a little bit older, his career path became clea**r** when he chose the first and most important costume this design chameleon would ever wear:
+    **Born in 1981, Nico started falling in love with design at an early age:** “I have this joyful memory of me spending my summers reading “Mafalda”. That was my introduction to a visual way of thinking.” And when he was a little bit older, his career path became clear when he chose the first and most important costume this design chameleon would ever wear:
 
 
     `{{space}}`
@@ -141,13 +141,11 @@ sections:
     > * On Freelance Work
 
 
-    **He changed, adapted, once again,** and only then believed he was ready to take the most important step of his career: starting his own studio with his partner (both in business and in life) Federico. \
+    **He changed, adapted, once again,** and only then believed he was ready to take the most important step of his career: starting his own studio with his partner (both in business and in life) Federico.
 
-    \
 
-    **There were no guarantees to this new adventure:** “I did not know anyone who was a freelancer and was doing well at the time”. But now he can say that it was one of the most amazing decisions of his life. \
+    **There were no guarantees to this new adventure:** “I did not know anyone who was a freelancer and was doing well at the time”. But now he can say that it was one of the most amazing decisions of his life.
 
-    \
 
     **Freelance work was the perfect opportunity to explore.** To grow up as a designer. To experiment and try new processes and ways of doing and thinking. Because Nico, as a true chameleon changes depending on the surroundings. He mutates, adapts, fast and successfully. And both him and his clients love that.
 
