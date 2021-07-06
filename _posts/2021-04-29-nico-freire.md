@@ -141,13 +141,11 @@ sections:
     > * On Freelance Work
 
 
-    **He changed, adapted, once again,** and only then believed he was ready to take the most important step of his career: starting his own studio with his partner (both in business and in life) Federico. \
+    **He changed, adapted, once again,** and only then believed he was ready to take the most important step of his career: starting his own studio with his partner (both in business and in life) Federico.
 
-    \
 
-    **There were no guarantees to this new adventure:** “I did not know anyone who was a freelancer and was doing well at the time”. But now he can say that it was one of the most amazing decisions of his life. \
+    **There were no guarantees to this new adventure:** “I did not know anyone who was a freelancer and was doing well at the time”. But now he can say that it was one of the most amazing decisions of his life.
 
-    \
 
     **Freelance work was the perfect opportunity to explore.** To grow up as a designer. To experiment and try new processes and ways of doing and thinking. Because Nico, as a true chameleon changes depending on the surroundings. He mutates, adapts, fast and successfully. And both him and his clients love that.
 
