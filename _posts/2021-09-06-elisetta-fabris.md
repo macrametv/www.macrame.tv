@@ -8,7 +8,7 @@ illustration: /assets/img/uploads/elisetta_gif.gif
 intro_paragraph: "**Elisetta Fabris** or how freedom can help you achieve both
   your life and career goals."
 sections:
-  section: >+
+  section: >-
     When you hear stories of people living in the countryside, working from home
     and enjoying the best of nature; you can’t but to feel at least a little bit
     jealous.
@@ -31,7 +31,7 @@ sections:
 
     > "The first time I worked on an animation project **I had no idea what
 
-    I was doing**."
+    > I was doing**."
 
     >
 
@@ -48,4 +48,35 @@ sections:
 
 
     `{{space}}`
+
+
+    **"If I wasn’t a designer I would have been a Gondolieri.** I love the idea of sailing people around the most beautiful place on earth".
+
+
+    **But does she know anything about being a Gondolieri?** Of course not. But that doesn't mean she wouldn't have pursued her dream. Nor does it mean she wouldn't have been able to achieve her goals.
+
+
+    **"The first time I worked on an animation project I had no idea what I was doing.** I told the client but instead of giving the project to someone else they just answered: “Learn!” And so I did…" 
+
+
+    **That’s why, when anyone asks, she always says** the key to success in what you are doing is always trial and error:
+
+
+    **"My best piece of advice for new designers and animators is to do a lot of testing.** Watch lots of tutorials, and try, try and try again."
+  section2: >
+    > "**If you fail, you learn.** Once you manage to get it right, you’ll never
+    get it wrong again"
+
+    >
+
+    > * On The Key of Success
+
+
+    **It's hard to believe these days,** but this illustrator and animator has never worked in an office, or been employed by a boss in her life. Well, actually she was. For a week. At a design agency. And that was it for her. 
+
+
+    **It only took her 5 days to realize she needed freedom.** She needed to run away from structures and routines and be able to choose the projects she really wanted to work on; doing so on her own terms. 
+
+
+    **That was the absolute proof she needed to pursue her freelance career.**
 ---
