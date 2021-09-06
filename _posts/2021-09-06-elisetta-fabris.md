@@ -159,4 +159,42 @@ sections:
     >
 
     > * On Mozzarisella
+  section5: >
+    **Or Corpocoscienza, an animation project that shows the basics of Giuseppe
+    Chieppa's therapeutic path,** represented by very "Elisetta-style"
+    characters. A project she still recalls with great pleasure, because it let
+    her explore her most natural and hand-made instincts.
+     
+    **“Giuseppe gave me absolute freedom to create.** And I think that paid off, cause when I illustrate I love to start from different places and see where the drawing takes me. Like an eye, a nose, a mouth… That way the face completes itself. It leads me to what it should have always been.” 
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+
+
+    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+
+
+    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+
+
+    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+
+
+    > "Instead of creating something **I just find a way to represent it.**"
+
+    >
+
+    > * On His Process
+
+
+    **Both great examples of the importance of choosing.** Both great examples of the importance of being able to pick the projects she was born for. Because she knows the best projects for her are the ones that make her lose sleep (in a good way), the ones she feels, from the very beginning, have a strong connection between them and what she thinks and ultimately, is.
+
+
+    **Like the ones Macramè has to offer her.** Like the ones in which we can tell the whole world there was a little bit of forest fairy dust involved in the process.
 ---
