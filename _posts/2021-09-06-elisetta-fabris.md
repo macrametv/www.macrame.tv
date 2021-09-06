@@ -26,7 +26,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/fer-cozzi-portrait.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-portrait.jpg)
 
 
     > "The first time I worked on an animation project **I had no idea what
@@ -38,13 +38,13 @@ sections:
     > * On Her Career
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-e.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-portrait-window.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-portrait-bug.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-portrait-working.jpg)
 
 
     `{{space}}`
@@ -63,7 +63,7 @@ sections:
 
 
     **"My best piece of advice for new designers and animators is to do a lot of testing.** Watch lots of tutorials, and try, try and try again."
-  section2: >
+  section2: >-
     > "**If you fail, you learn.** Once you manage to get it right, you’ll never
     get it wrong again"
 
@@ -96,7 +96,7 @@ sections:
     ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
 
 
-    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+    ![](/assets/img/uploads/gc02_64.gif)
   section3: >-
     **A career that has been nothing but good to her so far.** 
 
@@ -124,15 +124,16 @@ sections:
     ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
 
 
-    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
-  section4: >
+    ![](/assets/img/uploads/cartier03_selected_64.gif)
+  section4: >-
     **That's the magic of being able to choose.** That’s the power of being
     absolutely free to know when and where your talents might be best used. Like
     the time she worked for Mozzarisella; a 100% vegan and cholesterol-free
     mozzarella brand. That specific time she created an animated video in which
     a mozzarella cheese embarked on a mystical and spiritual journey through
     mandalas and deidities. Yes, you’ve read right.
-     
+
+
     **“The mozzarella cheese transformed into Krishna,** surrounded by mandalas made of vegetables until finally transforming into Kali. Oh, and she was always chanting an ad-hoc mantra: non-cholesterol... non-cholesterol…”
 
 
@@ -151,7 +152,7 @@ sections:
     ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
 
 
-    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+    ![](/assets/img/uploads/mozzarisella01_selected_corto_nodithered.gif)
 
 
     > "**The mozzarella cheese transformed into Krishna,** surrounded by mandalas made of vegetables until finally transforming into Kali."
@@ -159,12 +160,13 @@ sections:
     >
 
     > * On Mozzarisella
-  section5: >
+  section5: >-
     **Or Corpocoscienza, an animation project that shows the basics of Giuseppe
     Chieppa's therapeutic path,** represented by very "Elisetta-style"
     characters. A project she still recalls with great pleasure, because it let
     her explore her most natural and hand-made instincts.
-     
+
+
     **“Giuseppe gave me absolute freedom to create.** And I think that paid off, cause when I illustrate I love to start from different places and see where the drawing takes me. Like an eye, a nose, a mouth… That way the face completes itself. It leads me to what it should have always been.” 
 
 
@@ -183,7 +185,7 @@ sections:
     ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
 
 
-    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+    ![](/assets/img/uploads/corpocoscienza03_600.gif)
 
 
     > "Instead of creating something **I just find a way to represent it.**"
