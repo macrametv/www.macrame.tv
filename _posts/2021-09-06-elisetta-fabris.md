@@ -197,4 +197,7 @@ sections:
 
 
     **Like the ones Macramè has to offer her.** Like the ones in which we can tell the whole world there was a little bit of forest fairy dust involved in the process.
+  clientLabel: Brands she has worked with
+working: Motion Graphics Designer, Illustrator
+living: Italy
 ---
