@@ -79,4 +79,84 @@ sections:
 
 
     **That was the absolute proof she needed to pursue her freelance career.**
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+
+
+    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+
+
+    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+
+
+    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+  section3: >-
+    **A career that has been nothing but good to her so far.** 
+
+
+    **A career based on choosing the right projects** and the right people to work with every single time. A simple, yet difficult to achieve goal. 
+
+    An approach that allowed Elisetta to get involved in the creative processes behind brands such as Cartier, Toyota, Rizzoli Lizard, Crystal Group FR, Elle Kids and Moncler, among others. 
+
+
+    **But her magical animation skills went way beyond the commercial communications environment,** spreading her fairy dust to music videos for bands such as Julinko, Love in Elevator, Maurizio Abate, Los Massadores, Fango or Moonbound.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+
+
+    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+
+
+    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+
+
+    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+  section4: >
+    **That's the magic of being able to choose.** That’s the power of being
+    absolutely free to know when and where your talents might be best used. Like
+    the time she worked for Mozzarisella; a 100% vegan and cholesterol-free
+    mozzarella brand. That specific time she created an animated video in which
+    a mozzarella cheese embarked on a mystical and spiritual journey through
+    mandalas and deidities. Yes, you’ve read right.
+     
+    **“The mozzarella cheese transformed into Krishna,** surrounded by mandalas made of vegetables until finally transforming into Kali. Oh, and she was always chanting an ad-hoc mantra: non-cholesterol... non-cholesterol…”
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+
+
+    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+
+
+    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+
+
+    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+
+
+    > "**The mozzarella cheese transformed into Krishna,** surrounded by mandalas made of vegetables until finally transforming into Kali."
+
+    >
+
+    > * On Mozzarisella
 ---
