@@ -35,7 +35,7 @@ sections:
 
     >
 
-    > * On Her Carreer
+    > * On Her Career
 
 
     ![](/assets/img/uploads/fer-cozzi-studio-e.jpg)
