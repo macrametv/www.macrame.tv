@@ -8,7 +8,7 @@ illustration: /assets/img/uploads/elisetta_gif.gif
 intro_paragraph: "**Elisetta Fabris** or how freedom can help you achieve both
   your life and career goals."
 sections:
-  section: >-
+  section: >+
     When you hear stories of people living in the countryside, working from home
     and enjoying the best of nature; you can’t but to feel at least a little bit
     jealous.
@@ -48,10 +48,4 @@ sections:
 
 
     `{{space}}`
-
-
-    **At some point, something happened. One of her high school teachers taught a class on fonts**. Fer had no idea you could make fonts for a living. In fact, she hadn’t even considered graphic design until then. But the shapes were still on her mind so she decided to give it a try.
-
-
-    **And surprise, surprise... she loved it.** Everything about it. She loved the classes on graphic design, the ways of thinking about design and actually designing. She loved every single letter, every single family of fonts, and that made her see them from a completely different perspective.
 ---
