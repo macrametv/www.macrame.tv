@@ -222,7 +222,7 @@ exhibitions: >-
   2005 — Istituto di cultura Casa Giorgio Cini. Ferrara + "Villa delle Rose", Bologna, Italy.
 
   2004 — SCOLARSHIP. '88ma Mostra Collettiva' Collective Exhibition of contemporary art. Fondazione Bevilacqua la Masa", Venezia, Italy.
-website: http://elisetta.com
+website: elisetta.com
 imstagram: elisetta_jomodoro
 footer: >-
   # **If you wonder how living in the middle of a magical forest might feel
