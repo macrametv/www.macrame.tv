@@ -84,16 +84,16 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-human-rights-1.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-human-rights-2.jpg)
 
 
-    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-human-rights-3.jpg)
 
 
-    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-human-rights-4.jpg)
 
 
     ![](/assets/img/uploads/gc02_64.gif)
