@@ -225,7 +225,7 @@ exhibitions: >-
 website: elisetta.com
 imstagram: elisetta_jomodoro
 footer: >-
-  # **If you wonder how living in the middle of a magical forest might feel
+  # If you wonder **how living in the middle of a magical forest might feel
   like**
 
 
