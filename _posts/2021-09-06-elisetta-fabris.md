@@ -173,16 +173,16 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-corpocoscienza-1.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-corpocoscienza-2.jpg)
 
 
-    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-corpocoscienza-6.jpg)
 
 
-    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-corpocoscienza-5.jpg)
 
 
     ![](/assets/img/uploads/corpocoscienza03_600.gif)
