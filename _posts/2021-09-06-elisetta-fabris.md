@@ -112,16 +112,16 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-cartier-1.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-cartier-2.jpg)
 
 
-    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-cartier-3.jpg)
 
 
-    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+    ![](/assets/img/uploads/elisetta-fabris-cartier-4.jpg)
 
 
     ![](/assets/img/uploads/cartier03_selected_64.gif)
