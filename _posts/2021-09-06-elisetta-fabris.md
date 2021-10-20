@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elisetta Fabris • Motion Graphic Illustrator
+title: Elisetta Fabris • Animator
 name: The Motion Fairy
 subname: Living in Her Own Forest
 svglogo: /assets/img/uploads/story-brand-elisetta.svg
@@ -207,7 +207,7 @@ sections:
     client3: /assets/img/uploads/cartier-logo.png
     client4: /assets/img/uploads/piaval-logo.png
     client5: /assets/img/uploads/swissre-logo.png
-working: Motion Graphics Designer, Illustrator
+working: Animator, Illustrator
 living: Italy
 teaching: ""
 awards: >-
