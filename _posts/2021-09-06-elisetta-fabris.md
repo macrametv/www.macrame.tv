@@ -201,6 +201,12 @@ sections:
 
     **Like the ones Macramè has to offer her.** Like the ones in which we can tell the whole world there was a little bit of forest fairy dust involved in the process.
   clientLabel: Brands she has worked with
+  clients:
+    client: /assets/img/uploads/cartier-logo.png
+    client2: /assets/img/uploads/toyota-logo.png
+    client3: /assets/img/uploads/moncler-logo.png
+    client4: /assets/img/uploads/piaval-logo.png
+    client5: /assets/img/uploads/swissre-logo.png
 working: Motion Graphics Designer, Illustrator
 living: Italy
 teaching: ""
