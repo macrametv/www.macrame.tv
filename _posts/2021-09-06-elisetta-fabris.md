@@ -211,29 +211,22 @@ working: Motion Graphics Designer, Illustrator
 living: Italy
 teaching: ""
 awards: >-
-  2007 — First prize for the "Osé" video contest on "zooppa.com".
-
+  2007 — First prize for the "Osé" video contest on "zooppa.com".\
 
   2007 — First prize for "Arcinema, la commedia all'italiana a cena" video contest.
 exhibitions: >-
   2007 — 91ma Mostra Collettiva. Collective Exhibition of contemporary art.
-  Fondazione Bevilacqua la Masa, Venezia, Italy.
+  Fondazione Bevilacqua la Masa, Venezia, Italy.\
 
+  2007 — Filmmakers. Cinemazero. Pordenone, Italy.\
 
-  2007 — Filmmakers. Cinemazero. Pordenone, Italy.
+  2006 — Scatole Risonanti. Personal Exhibition. Galleria A+A, Venezia, Italy.\
 
+  2005 — Esposizione borsisti dell '88ma Mostra Collettiva' Art Exhibition by 4 selected artists. Fondazione Bevilacqua la Masa", Venezia, Italy.\
 
-  2006 — Scatole Risonanti. Personal Exhibition. Galleria A+A, Venezia, Italy.
+  2005 — DVDrops, video artisti tra Italia e Cina. Collective Exhibition of contemporary art.\
 
-
-  2005 — Esposizione borsisti dell '88ma Mostra Collettiva' Art Exhibition by 4 selected artists. Fondazione Bevilacqua la Masa", Venezia, Italy.
-
-
-  2005 — DVDrops, video artisti tra Italia e Cina. Collective Exhibition of contemporary art.
-
-
-  2005 — Istituto di cultura Casa Giorgio Cini. Ferrara + "Villa delle Rose", Bologna, Italy.
-
+  2005 — Istituto di cultura Casa Giorgio Cini. Ferrara + "Villa delle Rose", Bologna, Italy.\
 
   2004 — SCOLARSHIP. '88ma Mostra Collettiva' Collective Exhibition of contemporary art. Fondazione Bevilacqua la Masa", Venezia, Italy.
 website: elisetta.com
