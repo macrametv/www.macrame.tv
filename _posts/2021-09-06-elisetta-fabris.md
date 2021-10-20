@@ -3,6 +3,7 @@ layout: post
 title: Elisetta Fabris • Motion Graphic Illustrator
 name: The Motion Fairy
 subname: Living in Her Own Forest
+svglogo: /assets/img/uploads/story-brand-elisetta.svg
 colour: "#00F0FF"
 illustration: /assets/img/uploads/elisetta_gif.gif
 intro_paragraph: "**Elisetta Fabris** or how freedom can help you achieve both
