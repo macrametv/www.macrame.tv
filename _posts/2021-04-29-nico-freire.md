@@ -230,7 +230,7 @@ sections:
     client3: /assets/img/uploads/natura-logo.png
     client4: /assets/img/uploads/bind-logo.png
     client5: /assets/img/uploads/tea-connection-logo.png
-working: Digital Designer and Art Director
+working: Digital Designer, Art Director
 living: Argentina
 website: divinodi.com
 imstagram: divinodi
