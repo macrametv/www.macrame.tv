@@ -44,8 +44,13 @@ sections:
     `{{space}}`
 
 
-    **At some point, something happened. One of her high school teachers taught a class on fonts**. Fer had no idea you could make fonts for a living. In fact, she hadn’t even considered graphic design until then. But the shapes were still on her mind so she decided to give it a try.
+    **Yes, time. Time is a constant in Ariel’s story.** Like the time he was having lunch with his parents and a friend asked if he would go to Europe with him.
 
 
-    **And surprise, surprise... she loved it.** Everything about it. She loved the classes on graphic design, the ways of thinking about design and actually designing. She loved every single letter, every single family of fonts, and that made her see them from a completely different perspective.
+    **A week later he was landing in Madrid.**
+
+    Was it an impulsive decision? Some might think so, but the truth is, the time was just right. And he knew it. That trip shaped him in many ways. As a person and as a designer. It shaped him as a typographer. 
+
+
+    **He also knew when it was the right time to create his own studio.** And that was very early in his career. From the very beginning, Ariel knew he did not want to depend on someone else’s luck or business skills. Having his studio was his way to be in absolute control, to rely only on his own talent and efforts, to feel safe. So, he started his own creative business.
 ---
