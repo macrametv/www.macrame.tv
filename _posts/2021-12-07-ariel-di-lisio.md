@@ -89,4 +89,20 @@ sections:
 
 
     **But his love for letters was not the only thing that made him go that way,** having designed a great number of logos at early stages in his career gave him a certain typographic training, experience. And that made him realize it was something that just came naturally to him. As natural as the paper and pencil that kick off all his projects, or the old school not "inspiration focus" approach to everything he does.
+
+  section4: >
+    >"I don’t believe in inspiration, **I just believe in the work.**"
+
+    > 
+
+    > * On Inspiration
+
+
+    **“I’m not inspired by music or the street or anything like that.** I just look to create new stuff all the time. Basically, I don’t believe in inspiration, I just believe in the work”.
+
+
+    **An old-school approach that his clients love when working with him,** clients like Nicolas Laisné, The Tea Atelier, Discovery or Centre Pompidou, whose projects helped him be selected for the Lubalin Now Exhibition Center of Design and Typography at Cooper Union, New York. Or for the ID Magazine special edition as one of the 40 designers from around the world to be followed.
+
+
+    **That’s the kind of work he does.** That’s the kind of work that was published in several design and typography books and magazines from around the globe in the last 10 years.
 ---
