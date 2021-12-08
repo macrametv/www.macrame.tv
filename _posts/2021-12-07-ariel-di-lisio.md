@@ -112,4 +112,26 @@ sections:
 
 
     ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+  section5: >-
+    >"At some point I stopped looking at what others were doing and **they
+    started looking at me**"
+
+    > 
+
+    > * On Inspiration
+
+
+    **But time is not only key to his career and achievements.** It’s also a huge part of his story with Macramè. 
+
+
+    **And this part of the story takes us way back in time,v when Ariel was commissioned to work on a logo. A specific logo, for a specific client. A client he had not met. A client that was sitting 11,000 km and a few hours away.
+
+    Today that would be fine. Almost regular, boring.
+
+    But at that time, it was something new. It was groundbreaking. 
+
+
+    **The brand he created: Shado.** And it was his first project for Macramè.
+
+    A project that started a relationship-non-relationship that lasted until today.
 ---
