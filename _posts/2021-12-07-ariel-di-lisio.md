@@ -62,23 +62,38 @@ sections:
     > * On His Process
 
 
-    But having his structure was not only offering him a safe environment. It also gave him the chance to try new things, to shape his product and to create a personal style.
+    **But having his structure was not only offering him a safe environment.** It also gave him the chance to try new things, to shape his product and to create a personal style.
 
 
-    “The kind of design I do is very modern, but at the same time, quite clean and simple. That does not mean I don’t take chances. I always take some risks to help the project grow and go further. But the most important thing is to realize how far or how big a risk you can take, without falling.”
+    **“The kind of design I do is very modern, but at the same time, quite clean and simple.** That does not mean I don’t take chances. I always take some risks to help the project grow and go further. But the most important thing is to realize how far or how big a risk you can take, without falling.”
 
 
-    One of those risks was to put his passion for typography to good use. 
+    **One of those risks was to put his passion for typography to good use.**
 
 
     {{space}}
 
-  section3: >-
-    >"I started designing entire font families for each project. Not for the
-    logo, for the project! And clients started noticing that, and that became a
-    trademark of my work."
+  section3: ">\"I started designing entire font families for each project. Not for
+    the logo, for the project! And clients started noticing that, and that
+    became a trademark of my work.\"
 
-    > 
+    >\ 
 
     > * On Typography
+
+
+    **He always loved drawing letters -as he puts it- and it all started
+    from a certain sensibility for the shapes, the symbols, all that a letter
+    embodies.**
+
+    “When I was young most of my friends were looking at cars and sneakers
+    all day, I was looking at letters all the time.”
+
+
+    **But his love for letters was not the only thing that made him go that
+    way, **having designed a great number of logos at early stages in his career
+    gave him a certain typographic training, experience. And that made him
+    realize it was something that just came naturally to him. As natural as the
+    paper and pencil that kick off all his projects, or the old school not
+    “inspiration focus” approach to everything he does.”\n"
 ---
