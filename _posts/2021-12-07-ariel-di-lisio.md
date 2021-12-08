@@ -86,4 +86,7 @@ sections:
     **He always loved drawing letters -as he puts it- and it all started from a certain sensibility for the shapes, the symbols, all that a letter embodies.**
 
     “When I was young most of my friends were looking at cars and sneakers all day, I was looking at letters all the time."
+
+
+    **But his love for letters was not the only thing that made him go that way,** having designed a great number of logos at early stages in his career gave him a certain typographic training, experience. And that made him realize it was something that just came naturally to him. As natural as the paper and pencil that kick off all his projects, or the old school not "inspiration focus" approach to everything he does.
 ---
