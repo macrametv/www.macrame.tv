@@ -134,4 +134,19 @@ sections:
     **The brand he created: Shado.** And it was his first project for Macramè.
 
     A project that started a relationship-non-relationship that lasted until today.
+
+
+    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+
+
+    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+
+
+    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+
+
+    **“There was always a relationship between us, with no relationship..."**
+
+
+    **That's how Ariel describes his relationship with Macramè.** Something we feel but cannot explain.  Time now tells us all how important that first job was, because 15 years after that first job, Ariel and Macramè are back in business together, developing the brand identity for Imprendibili. A project that aims to launch new generation editorial projects on social media. A project that makes the most of the time we live on. Just as Ariel has done his entire life.
 ---
