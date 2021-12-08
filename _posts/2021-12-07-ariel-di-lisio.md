@@ -73,29 +73,17 @@ sections:
 
     {{space}}
 
-  section3: ">\"I started designing entire font families for each project. Not for
-    the logo, for the project! And clients started noticing that, and that
-    became a trademark of my work.\"
+  section3: >+
+    >"I started designing entire font families for each project. Not for the
+    logo, for the project! And clients started noticing that, and that became a
+    trademark of my work."
 
-    >\ 
+    > 
 
     > * On Typography
 
 
-    **He always loved drawing letters -as he puts it- and it all started
-    from a certain sensibility for the shapes, the symbols, all that a letter
-    embodies.**
+    **He always loved drawing letters -as he puts it- and it all started from a certain sensibility for the shapes, the symbols, all that a letter embodies.**
 
-    “When I was young most of my friends were looking at cars and sneakers
-    all day, I was looking at letters all the time.\"
-
-
-    **But his love for letters was not the only thing that made him go that
-    way,** having designed a great number of logos at early stages in his career
-    gave him a certain typographic training, experience. And that made him
-    realize it was something that just came naturally to him. As natural as the
-    paper and pencil that kick off all his projects, or the old school not
-    \"inspiration focus\" approach to everything he does.
-
-    \n"
+    “When I was young most of my friends were looking at cars and sneakers all day, I was looking at letters all the time."
 ---
