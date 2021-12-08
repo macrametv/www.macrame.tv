@@ -53,7 +53,7 @@ sections:
 
 
     **He also knew when it was the right time to create his own studio.** And that was very early in his career. From the very beginning, Ariel knew he did not want to depend on someone else’s luck or business skills. Having his studio was his way to be in absolute control, to rely only on his own talent and efforts, to feel safe. So, he started his own creative business.
-  section2: >+
+  section2: >
     >"I was always afraid of getting fired. Having my own studio was the perfect
     way to prevent that from happening."
 
@@ -73,7 +73,9 @@ sections:
 
     {{space}}
 
-  section3: >+
+
+    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+  section3: >
     >"I started designing entire font families for each project. Not for the
     logo, for the project! And clients started noticing that, and that became a
     trademark of my work."
@@ -90,7 +92,9 @@ sections:
 
     **But his love for letters was not the only thing that made him go that way,** having designed a great number of logos at early stages in his career gave him a certain typographic training, experience. And that made him realize it was something that just came naturally to him. As natural as the paper and pencil that kick off all his projects, or the old school not "inspiration focus" approach to everything he does.
 
-  section4: >
+
+    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+  section4: >-
     >"I don’t believe in inspiration, **I just believe in the work.**"
 
     > 
@@ -104,5 +108,8 @@ sections:
     **An old-school approach that his clients love when working with him,** clients like Nicolas Laisné, The Tea Atelier, Discovery or Centre Pompidou, whose projects helped him be selected for the Lubalin Now Exhibition Center of Design and Typography at Cooper Union, New York. Or for the ID Magazine special edition as one of the 40 designers from around the world to be followed.
 
 
-    **That’s the kind of work he does.** That’s the kind of work that was published in several design and typography books and magazines from around the globe in the last 10 years.
+    **That’s the kind of work he does.** That’s the kind of work that was published in several design and typography books and magazines from around the globe in the last 10 years.  
+
+
+    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
 ---
