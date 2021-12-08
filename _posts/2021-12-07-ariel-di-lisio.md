@@ -9,15 +9,14 @@ intro_paragraph: >
   in life.
 sections:
   section: >-
-    Once upon a time, there was a little girl who dreamed of being a figure
-    skater. It wasn't so much about the skating as the shapes and figures that
-    drew her in.
+    Time is of the essence, people say. Only time will tell, we all believe. But
+    in this case, it’s absolutely true. Time has always played a big part in
+    Ariel’s career. 
 
 
-    **Precise lines and beautiful shapes** are two things figure skating and design share. After going to see Castles on Ice,  she decided that figure skating wasn't for her. She still wanted to create shapes, but in a slightly different way.
+    **He always knew the right time to switch jobs.**
 
-
-    **In high school, she started thinking she would go to college for design**. At first, she was interested in industrial design​, because ​“you create actual things."
+    When the time was right to move to Mexico to teach at CEDIM University in Monterrey. And even when to partner with a former of his students there to create a new studio and work on that very same university’s branding and design system.
 
 
     `{{space}}`
@@ -26,11 +25,11 @@ sections:
     ![](/assets/img/uploads/fer-cozzi-portrait.jpg)
 
 
-    > "You create **actual things**."
+    > "I always take some risks to help the project grow and go further. **But the most important thing is to realize how far or how big a risk you can take, without falling**."
 
     >
 
-    > * On Design
+    > * On His Process
 
 
     ![](/assets/img/uploads/fer-cozzi-studio-e.jpg)
