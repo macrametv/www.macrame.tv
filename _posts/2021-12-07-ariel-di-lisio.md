@@ -53,39 +53,25 @@ sections:
 
 
     **He also knew when it was the right time to create his own studio.** And that was very early in his career. From the very beginning, Ariel knew he did not want to depend on someone else’s luck or business skills. Having his studio was his way to be in absolute control, to rely only on his own talent and efforts, to feel safe. So, he started his own creative business.
-  section2: >
-    > "**I was always afraid of getting fired.** Having my own studio was the
-    perfect way to prevent that from happening."
+  section2: >+
+    >"I was always afraid of getting fired. Having my own studio was the perfect
+    way to prevent that from happening."
 
-    >
+    > 
 
-    > * On His Fears
-
-
-    **But having his structure was not only offering him a safe environment.** It also gave him the chance to try new things, to shape his product and to create a personal style.
+    > * On His Process
 
 
-    **“The kind of design I do is very modern, but at the same time, quite clean and simple.** That does not mean I don’t take chances. I always take some risks to help the project grow and go further. But the most important thing is to realize how far or how big a risk you can take, without falling.”
+    But having his structure was not only offering him a safe environment. It also gave him the chance to try new things, to shape his product and to create a personal style.
 
 
-    **One of those risks was to put his passion for typography to good use. **
+    “The kind of design I do is very modern, but at the same time, quite clean and simple. That does not mean I don’t take chances. I always take some risks to help the project grow and go further. But the most important thing is to realize how far or how big a risk you can take, without falling.”
 
 
-    `{{space}}`
+    One of those risks was to put his passion for typography to good use. 
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    {{space}}
 
-
-    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
-
-
-    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
-
-
-    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
-
-
-    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
   section3: ""
 ---
