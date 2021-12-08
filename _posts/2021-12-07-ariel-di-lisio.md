@@ -73,5 +73,12 @@ sections:
 
     {{space}}
 
-  section3: ""
+  section3: >-
+    >"I started designing entire font families for each project. Not for the
+    logo, for the project! And clients started noticing that, and that became a
+    trademark of my work."
+
+    > 
+
+    > * On Typography
 ---
