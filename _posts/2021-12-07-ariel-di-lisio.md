@@ -112,7 +112,7 @@ sections:
 
 
     ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
-  section5: >-
+  section5: >+
     >"At some point I stopped looking at what others were doing and **they
     started looking at me**"
 
