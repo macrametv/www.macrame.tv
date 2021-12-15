@@ -18,7 +18,7 @@ intro_paragraph: >-
   ## There are a lot of us out there who have found the way to **turn our passion into a livelihood.**
 
 
-  ## The Macramé Network is a group of people joined by their passion for **fresh, exciting projects.**
+  ## The Macramè Network is a group of people joined by their passion for **fresh, exciting projects.**
 
 
   ## We are on the lookout for people who have a vision and strive to make it a reality. 
@@ -30,11 +30,11 @@ intro_paragraph: >-
   ![](/assets/img/uploads/• about-3-800x800.gif)
 footer: "# If you would like to **discuss a project or just say hey.**"
 ---
-**Macramé Network was founded in 2004** in northeast Italy, a region known for its entrepreneurial spirit, **as a network of professionals** that provides communication and design services.
+**Macramè Network was founded in 2004** in northeast Italy, a region known for its entrepreneurial spirit, **as a network of professionals** that provides communication and design services.
 
 **Today most things people seek are just a click away.** This means that things are fast and simple and people expect quality products at a reasonable price.
 
-**Macramé was a step ahead of this trend:** its services are on-demand and global. Our collaborators are based all over the world but work together to create fast, affordable communication and design solutions.
+**Macramè was a step ahead of this trend:** its services are on-demand and global. Our collaborators are based all over the world but work together to create fast, affordable communication and design solutions.
 
 ![](/assets/img/uploads/• about-2-800x800.gif)
 
