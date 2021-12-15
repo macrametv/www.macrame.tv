@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ariel Di Lisio • Art Director
+title: Ariel Di Lisio • Creative Director
 name: The Maverick
 subname: Who Designed His Own Time
 colour: "#FFB800"
@@ -112,7 +112,7 @@ sections:
 
 
     ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
-  section5: >+
+  section5: >
     >"At some point I stopped looking at what others were doing and **they
     started looking at me**"
 
