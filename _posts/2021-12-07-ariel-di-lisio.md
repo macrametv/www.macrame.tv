@@ -4,6 +4,7 @@ title: Ariel Di Lisio • Creative Director
 name: The Maverick
 subname: Who Designed His Own Time
 colour: "#FFB800"
+illustration: /assets/img/uploads/dilisio-800x800.gif
 intro_paragraph: >
   **Ariel Di Lisio**, or how good timing is essential to success in business and
   in life.
