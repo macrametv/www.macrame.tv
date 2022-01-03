@@ -38,6 +38,10 @@ Macramè was a step ahead of this trend: our services are on-demand and global.
 
 **We’ve invested a lot of time and energy in putting together a close-knit network of talents.** We’ve done it with care, considering each member’s special set of skills, professionalism and honesty. 
 
+> "Nothing pleases us more than putting together **the right team to bring a project to life**."
+>
+> * On Our Process
+
 **Our collaborators are based all over the world but work together to create fast, affordable communication and design solutions.**
 
 **Designers, art directors, illustrators, animators, typeface artists and photographers who really understand needs of each project,** that bring their expert skills to the table, every time.
