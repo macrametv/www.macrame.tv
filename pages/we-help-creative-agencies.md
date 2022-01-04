@@ -2,6 +2,8 @@
 layout: page
 title: We help creative agencies
 subtitle: to scale their potential.
+meta_description: null
+permalink: /scale-your-potential
 section: "{{title}}"
 intro_paragraph: |-
   # Connecting them to
