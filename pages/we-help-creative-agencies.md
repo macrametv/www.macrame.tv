@@ -6,9 +6,9 @@ meta_description: null
 permalink: /scale-your-potential
 section: "{{title}}"
 intro_paragraph: |-
-  # Connecting them to
+  # Connecting them to a curated network of talents
 
-  # a curated network of talents that produces exceptional work.
+  # that produces exceptional work.
 
   ![](/assets/img/uploads/• about-2-800x800.gif)
 footer: "# Find out how **we can help you scale your potential.**"
