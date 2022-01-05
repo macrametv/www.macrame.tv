@@ -203,3 +203,34 @@
     }
   }
 }
+
+blockquote + p {
+  margin-top: spacing(4);
+}
+
+p + blockquote {
+  margin-top: spacing(4);
+  margin-bottom: spacing(6);
+}
+
+blockquote {
+  text-align: center;
+  margin-top: spacing(2);
+  margin-bottom: spacing(2);
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+
+  &:before {
+    background-image: url('/assets/img/uploads/quotes.png');
+    content: '';
+    display: block;
+    width: 35px;
+    height: 33px;
+    margin-bottom: 10px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+

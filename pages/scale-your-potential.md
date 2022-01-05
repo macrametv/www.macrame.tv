@@ -4,7 +4,7 @@ title: "A World Where "
 subtitle: Everyone Makes a Living Doing What They Love
 meta_description: null
 permalink: /scale-your-potential
-section: "{{title}}"
+section: about
 intro_paragraph: >-
   # Connecting them to a curated network of talents
 
