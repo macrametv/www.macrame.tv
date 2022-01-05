@@ -19,15 +19,18 @@ Relieving them from stressing high demands giving them the satisfaction of **del
 
 ![](/assets/img/uploads/• about-3-800x800.gif)
 
-## How we can help you:
+How we can help you:
 
-## **We Listen**
+### **We Listen**
+
 Our job is to help you do yours. We work to understand you and your vision for a custom solution that delivers results.
 
-## **We Connect**
+### **We Connect**
+
 Our global team is curated to connect you to the best human talent available for creative design and production.
 
-## **We Support**
+### **We Support**
+
 Our place is assuredly out of the spotlight. You work with your clients; we'll be in the background - start to finish.
 
 ![](/assets/img/uploads/• about-800x800.gif)
@@ -51,4 +54,3 @@ Macramè was a step ahead of this trend: our services are on-demand and global.
 **Producers that can support the full production process** and find the best solution that save you time, money and resources.
 
 As a company that curates project teams for every new brief, **nothing pleases us more than putting together the right team to bring a project to life.**
-
