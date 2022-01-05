@@ -5,7 +5,7 @@ name: The Maverick
 subname: Who Designed His Own Time
 svglogo: /assets/img/uploads/story-brand-ariel-01.svg
 colour: "#e0d1a8"
-illustration: /assets/img/uploads/img_2213.jpg
+illustration: /assets/img/uploads/ariel_oro.gif
 intro_paragraph: >
   **Ariel Di Lisio**, or how good timing is essential to success in business and
   in life.
