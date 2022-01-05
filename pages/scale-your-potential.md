@@ -7,6 +7,7 @@ permalink: /scale-your-potential
 section: about
 intro_paragraph: >-
   # Connecting them to a curated network of talents
+
   # that produces exceptional work.
 
 
@@ -23,7 +24,7 @@ intro_paragraph: >-
 footer: "# Find out how **we can help you scale your potential.**"
 ---
 
-  ##**How we can help you** 
+  #**How we can help you** 
 
 **We Listen** 
 
