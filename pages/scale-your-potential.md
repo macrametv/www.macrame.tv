@@ -7,8 +7,7 @@ permalink: /scale-your-potential
 section: about
 intro_paragraph: >-
   # Connecting them to a curated network of talents
-
-  # that produces exceptional work.
+  *that produces exceptional work.*
 
 
   ![](/assets/img/uploads/• about-2-800x800.gif)
@@ -24,17 +23,17 @@ intro_paragraph: >-
 footer: "# Find out how **we can help you scale your potential.**"
 ---
 
-**How we can help you** 
+## **How we can help**
 
-**We Listen** 
+#### **We Listen** 
 
 Our job is to help you do yours. We work to understand you and your vision for a custom solution that delivers results.
 
-**We Connect** 
+#### **We Connect** 
 
 Our global team is curated to connect you to the best human talent available for creative design and production.
 
-**We Support** 
+#### **We Support** 
 
 Our place is assuredly out of the spotlight. You work with your clients; we'll be in the background - start to finish.
 
@@ -48,13 +47,8 @@ Macramè was a step ahead of this trend: our services are on-demand and global.
 
 **We’ve invested a lot of time and energy in putting together a close-knit network of talents.** We’ve done it with care, considering each member’s special set of skills, professionalism and honesty. 
 
-
 > Nothing pleases us more than putting together **the right team to bring a project to life.**
-
->
-
 > * On Our Process
-
 
 **Our collaborators are based all over the world but work together to create fast, affordable communication and design solutions.**
 
