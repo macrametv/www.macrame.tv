@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "A World Where "
-subtitle: Everyone Makes a Living Doing What They Love
+title: We help creative agencies
+subtitle: to scale their potential.
 meta_description: null
 permalink: /scale-your-potential
 section: about
@@ -20,6 +20,7 @@ intro_paragraph: >-
 
 
   ![](/assets/img/uploads/• about-3-800x800.gif)
+clientLabel: Brands our network has worked for
 footer: "# Find out how **we can help you scale your potential.**"
 ---
 
@@ -47,7 +48,7 @@ Macramè was a step ahead of this trend: our services are on-demand and global.
 
 **We’ve invested a lot of time and energy in putting together a close-knit network of talents.** We’ve done it with care, considering each member’s special set of skills, professionalism and honesty. 
 
-> Nothing pleases us more than putting together **the right team to bring a project to life.**
+> “Nothing pleases us more than putting together **the right team to bring a project to life**.”
 > * On Our Process
 
 **Our collaborators are based all over the world but work together to create fast, affordable communication and design solutions.**
