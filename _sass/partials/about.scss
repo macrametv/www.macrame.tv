@@ -185,7 +185,17 @@
   }
 }
 
-[class="404"] {
+[class="404"], .cookie {
+  h1 {
+    @include font-size($size-one, 1);
+    max-width: 98%;
+
+    span {
+      @include font-size($size-one, 1.2);
+      font-size: calc(#{$size-one} + 6px);
+      text-transform: none;
+    }
+  }
   h2 {
     font-family: 'recoleta';
     font-size: $size-card;
