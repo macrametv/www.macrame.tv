@@ -88,8 +88,9 @@ footer {
     h2 {
       color: #fff;
       @include font-size($base-size, 1);
+      
       &:not(:last-child) {
-        padding-bottom: 0px;
+        padding-bottom: 40px;
       }
     }
   }
