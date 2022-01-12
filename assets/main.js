@@ -54,7 +54,7 @@ function elementInViewport(el) {
 
 function cards(){
   var cards = document.querySelectorAll('.m-card');
-  cards[0].classList.add('inview');
+  if (cards.length) cards[0].classList.add('inview');
   document.addEventListener('scroll', function(){
     for(i = 0; i < cards.length; i++){
       var bouding = cards[i].getBoundingClientRect();
