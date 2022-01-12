@@ -4,7 +4,6 @@ function nav(){
   var logo = document.querySelector('.m-logo');
 
   ham.addEventListener('click', function(){
-    console.log('1.3');
     this.classList.toggle('open');
     nav.classList.toggle('open');
     logo.classList.toggle('open');
@@ -60,7 +59,6 @@ function cards(){
     for(i = 0; i < cards.length; i++){
       var bouding = cards[i].getBoundingClientRect();
       var screenHeight = window.innerHeight;
-      console.log(cards[0].getBoundingClientRect().top, screenHeight / 1.2);
       if(bouding.top <= screenHeight / 1.2) {
         cards[i].classList.add('inview');
       } else {
@@ -77,7 +75,6 @@ function mobileAnimation(){
 
   for(i=0; i< cards.length; i++) {
     cards[i].addEventListener('click', function(){
-      console.log(header);
       wrapper.classList.add('transition');
       this.classList.add('display');
       var articleDisplay = document.querySelector('.display > .m-fake__article');
