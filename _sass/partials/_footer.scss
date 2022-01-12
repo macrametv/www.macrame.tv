@@ -83,11 +83,15 @@ footer {
     }
   }
 
-  .m-credits {
+  .m-links {
     margin-top: spacing(5);
     h2 {
       color: #fff;
       @include font-size($base-size, 1);
+      
+      &:not(:last-child) {
+        padding-bottom: 40px;
+      }
     }
   }
 
