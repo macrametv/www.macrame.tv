@@ -1,8 +1,14 @@
 <footer>
   {% if page.section != 'about' %}<div class="button"><a href="/about">About us</a></div>{% endif %}
   {% if page.section != 'contact' %}<div class="button"><a href="/contact">Contact us</a></div>{% endif %}
-  {% if page.section != 'credits' %}<div class="m-credits"><h2><a href="/credits">Credits</a></h2></div>{% endif %}
-  {% if page.section != 'cookie' %}<div class="m-credits"><h2><a href="/cookie-policy">Cookie policy</a></h2></div>{% endif %}
+  <div class="m-links">
+    {% if page.section != 'credits' %}
+      <h2><a href="/credits">Credits</a></h2>
+    {% endif %}
+    {% if page.section != 'cookie' %}
+      <h2><a href="/cookie-policy">Cookie policy</a></h2>
+    {% endif %}
+  </div>
   <small>© Macramè Srl. Via F. Barbiero 81/H 31021 - P.I.03856940261 - REA TV-304136</small>
   <a href="https://www.iubenda.com/privacy-policy/92207795" class="iubenda-white iubenda-embed" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
 </footer>
