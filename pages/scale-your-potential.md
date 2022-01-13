@@ -6,8 +6,8 @@ meta_description: null
 permalink: /scale-your-potential
 section: about
 intro_paragraph: >-
-  # Connecting them to a curated network of talents
-  *that produces exceptional work.*
+  # Connecting them to a curated network of talents *that produces exceptional
+  work.*
 
 
   ![](/assets/img/uploads/• about-2-800x800.gif)
@@ -21,6 +21,12 @@ intro_paragraph: >-
 
   ![](/assets/img/uploads/• about-3-800x800.gif)
 clientLabel: Brands our network has worked for
+clients:
+  client: /assets/img/uploads/disney_logo.png
+  client3: /assets/img/uploads/carlsberg-logo.png
+  client2: /assets/img/uploads/netlify-logo.png
+  client4: /assets/img/uploads/braun-logo.png
+  client5: /assets/img/uploads/geox-logo.png
 footer: "# Find out how **we can help you scale your potential.**"
 ---
 
