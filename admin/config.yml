@@ -76,4 +76,15 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Section", name: "section", widget: "hidden", default: "{{title}}"}
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Client Label", name: "clientLabel", widget: "markdown", tagname: "h3", required: false}
+      - label: "Clients"
+        name: "clients"
+        widget: "object"
+        collapsed: false
+        fields:
+        - {label: "Client", name: "client", widget: "image", required: false}
+        - {label: "Client2", name: "client2", widget: "image", required: false}
+        - {label: "Client3", name: "client3", widget: "image", required: false}
+        - {label: "Client4", name: "client4", widget: "image", required: false}
+        - {label: "Client5", name: "client5", widget: "image", required: false}
       - {label: "Footer", name: "footer", widget: "markdown", tagname: "h2", required: false}

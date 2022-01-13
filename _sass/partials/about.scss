@@ -95,7 +95,12 @@
     margin-bottom: spacing(2);
   }
 
-  h1 + h1 {
+  em {
+    color: black;
+    font-style: normal;
+  }
+
+  h1 + h1, h1 em {
     font-family: $recoleta;
     @include font-size($size-one, 0.9);
 
@@ -120,6 +125,10 @@
     &:after {
       display: none;
     }
+  }
+
+  h4 + p {
+    text-align: center;
   }
 
   img + h2 + h2 + h2 {
@@ -181,6 +190,70 @@
       width: 140%;
       max-width: 140%;
       margin-left: -20%;
+    }
+  }
+
+  blockquote + p {
+    margin-top: spacing(4);
+  }
+
+  p + blockquote {
+    margin-top: spacing(4);
+    margin-bottom: spacing(6);
+  }
+
+  blockquote {
+    text-align: center;
+    margin-top: spacing(2);
+    margin-bottom: spacing(2);
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+
+    &:before {
+      background-image: url('/assets/img/uploads/quotes.png');
+      content: '';
+      display: block;
+      width: 35px;
+      height: 33px;
+      margin-bottom: 10px;
+      background-size: cover;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    ul {
+      display: flex;
+      li {
+        width: max-content;
+        margin-left: auto;
+        margin-right: auto;
+        font-weight: bold;
+        text-transform: capitalize;
+        font-size: 80%;
+
+        &:after {
+          width: 100%;
+          display: block;
+          content: '';
+          height: 16px;
+          background-image: url('/assets/img/uploads/line_under.png');
+          mix-blend-mode: multiply;
+          background-size: cover;
+          background-repeat: no-repeat;
+        }
+      }
+    }
+
+    p {
+      text-align: center;
+      
+      @include font-size($size-quote, 1.1);
+      font-family: $recoleta;
+
+      @include mq($from: desktop) {
+        @include font-size($size-two, 1.1);
+      }
     }
   }
 }
