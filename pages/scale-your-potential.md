@@ -24,9 +24,9 @@ clientLabel: Brands our network has worked for
 clients:
   client: /assets/img/uploads/disney_logo.png
   client3: /assets/img/uploads/carlsberg-logo.png
-  client2: /assets/img/uploads/netlify-logo.png
+  client2: /assets/img/uploads/citi-logo.png
   client4: /assets/img/uploads/braun-logo.png
-  client5: /assets/img/uploads/geox-logo.png
+  client5: /assets/img/uploads/2.png
 footer: "# Find out how **we can help you scale your impact.**"
 ---
 
