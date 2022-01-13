@@ -1,27 +1,33 @@
 ---
 layout: page
 title: We help creative agencies
-subtitle: to scale their potential.
+subtitle: to scale their impact.
 meta_description: null
 permalink: /scale-your-potential
 section: about
 intro_paragraph: >-
-  # Connecting them to a curated network of talents
-  *that produces exceptional work.*
+  # Connecting them to a curated network of talent *that produces exceptional
+  work.*
 
 
   ![](/assets/img/uploads/• about-2-800x800.gif)
 
 
-  ## We help creative agencies **scale quickly and efficiently** by providing experienced talent through a curated network of designers, art directors, and image makers that produces **exceptional design work that save you time and resources.**
+  ## We help creative agencies **scale quickly and efficiently** by providing experienced talent through a curated network of designers, art directors, and image makers that produces **exceptional design work that saves you time and resources.**
 
 
-  ## Relieving them from stressing high demands giving them the satisfaction of **delivering 100% to their clients requests.**
+  ## Relieving the stress of high demands by **fulfilling 100% of client requests.**
 
 
   ![](/assets/img/uploads/• about-3-800x800.gif)
 clientLabel: Brands our network has worked for
-footer: "# Find out how **we can help you scale your potential.**"
+clients:
+  client: /assets/img/uploads/disney_logo.png
+  client3: /assets/img/uploads/carlsberg-logo.png
+  client2: /assets/img/uploads/netlify-logo.png
+  client4: /assets/img/uploads/braun-logo.png
+  client5: /assets/img/uploads/geox-logo.png
+footer: "# Find out how **we can help you scale your impact.**"
 ---
 
 ## **How we can help**
@@ -42,11 +48,11 @@ Our place is assuredly out of the spotlight. You work with your clients; we'll b
 
 **Macramè Network was founded in 2004** in northeast Italy, a region known for its entrepreneurial spirit, **as a network of professionals that provides communication and design services for creative agencies.**
 
-**Today most things clients seek are just a click away.** This means that things has to be fast and simple and they expect quality products at a reasonable price.
+**Today most things clients seek are just a click away.** This means that things have to be fast and simple and they expect quality products at a reasonable price.
 
 Macramè was a step ahead of this trend: our services are on-demand and global.
 
-**We’ve invested a lot of time and energy in putting together a close-knit network of talents.** We’ve done it with care, considering each member’s special set of skills, professionalism and honesty. 
+**We’ve invested a lot of time and energy in putting together a close-knit network of talent.** We’ve done it with care, considering each member’s special set of skills, professionalism and honesty. 
 
 > “Nothing pleases us more than putting together **the right team to bring a project to life**.”
 > * On Our Process
@@ -55,6 +61,6 @@ Macramè was a step ahead of this trend: our services are on-demand and global.
 
 **Designers, art directors, illustrators, animators, typeface artists and photographers who really understand needs of each project,** that bring their expert skills to the table, every time.
 
-**Producers that can support the full production process** and find the best solution that save you time, money and resources.
+**Producers that can support the full production process** and find the best solution to save you time, money and resources.
 
 As a company that curates project teams for every new brief, **nothing pleases us more than putting together the right team to bring a project to life.**
