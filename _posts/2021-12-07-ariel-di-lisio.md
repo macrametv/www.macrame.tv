@@ -127,9 +127,9 @@ sections:
 
     ![](/assets/img/uploads/dilisio-sensart-06.jpg)
   section4: >-
-    >"I don’t believe in inspiration, **I just believe in the work.**"
+    > I don’t believe in inspiration, **I just believe in the work.**
 
-    > 
+    >
 
     > * On Inspiration
 
@@ -143,22 +143,22 @@ sections:
     **That’s the kind of work he does.** That’s the kind of work that was published in several design and typography books and magazines from around the globe in the last 10 years.  
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-font.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-poster.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-book.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-cover.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-cards.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-envelope.jpg)
   section5: >
     >"At some point I stopped looking at what others were doing and **they
     started looking at me**"
@@ -183,13 +183,22 @@ sections:
     A project that started a relationship-non-relationship that lasted until today.
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-font.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-poster.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-book.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-laisne-cover.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-laisne-cards.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-laisne-envelope.jpg)
 
 
     **"There was always a relationship between us, with no relationship..."**
