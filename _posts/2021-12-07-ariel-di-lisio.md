@@ -24,7 +24,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/fer-cozzi-portrait.jpg)
+    ![](/assets/img/uploads/dilisio-ariel.jpg)
 
 
     > "I always take some risks to help the project grow and go further. **But the most important thing is to realize how far or how big a risk you can take, without falling**."
@@ -34,13 +34,13 @@ sections:
     > * On His Process
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-e.jpg)
+    ![](/assets/img/uploads/dilisio-studio.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/dilisio-studio-ariel.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio.jpg)
+    ![](/assets/img/uploads/dilisio-ariel-floor.jpg)
 
 
     `{{space}}`
