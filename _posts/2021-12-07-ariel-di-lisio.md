@@ -27,20 +27,20 @@ sections:
     ![](/assets/img/uploads/dilisio-ariel.jpg)
 
 
-    > "I always take some risks to help the project grow and go further. **But the most important thing is to realize how far or how big a risk you can take, without falling**."
+    > I always take some risks to help the project grow and go further. **But the most important thing is to realize how far or how big a risk you can take, without falling**.
 
     >
 
     > * On His Process
 
 
+    ![](/assets/img/uploads/dilisio-studio-.jpg)
+
+
     ![](/assets/img/uploads/dilisio-studio.jpg)
 
 
     ![](/assets/img/uploads/dilisio-studio-ariel.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-ariel-floor.jpg)
 
 
     `{{space}}`
@@ -56,8 +56,8 @@ sections:
 
     **He also knew when it was the right time to create his own studio.** And that was very early in his career. From the very beginning, Ariel knew he did not want to depend on someone else’s luck or business skills. Having his studio was his way to be in absolute control, to rely only on his own talent and efforts, to feel safe. So, he started his own creative business.
   section2: >-
-    > "I was always afraid of getting fired. Having my own studio was the
-    perfect way to prevent that from happening."
+    > I was always afraid of getting fired. Having my own studio was the perfect
+    way to prevent that from happening.
 
     >
 
@@ -93,9 +93,9 @@ sections:
 
     ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
   section3: >-
-    > "I started designing entire font families for each project. Not for the
+    > I started designing entire font families for each project. Not for the
     logo, for the project! And clients started noticing that, and that became a
-    trademark of my work."
+    trademark of my work.
 
     >
 
