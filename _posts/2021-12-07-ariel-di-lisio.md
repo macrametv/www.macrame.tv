@@ -54,8 +54,8 @@ sections:
 
     **He also knew when it was the right time to create his own studio.** And that was very early in his career. From the very beginning, Ariel knew he did not want to depend on someone else’s luck or business skills. Having his studio was his way to be in absolute control, to rely only on his own talent and efforts, to feel safe. So, he started his own creative business.
   section2: >-
-    > I was always afraid of getting fired. Having my own studio was the perfect
-    way to prevent that from happening.
+    > **I was always afraid of getting fired.** Having my own studio was the
+    perfect way to prevent that from happening.
 
     >
 
@@ -70,8 +70,6 @@ sections:
 
     **One of those risks was to put his passion for typography to good use.**
 
-
-    {{space}}
 
 
     ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
