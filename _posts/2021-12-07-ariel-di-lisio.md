@@ -160,7 +160,7 @@ sections:
 
     > 
 
-    > * On Inspiration
+    > * On His Professional Growth
 
 
     **But time is not only key to his career and achievements.** It’s also a huge part of his story with Macramè. 
