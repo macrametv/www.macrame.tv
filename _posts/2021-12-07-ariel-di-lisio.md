@@ -71,11 +71,10 @@ sections:
     **One of those risks was to put his passion for typography to good use.**
 
 
-
     ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
+    ![](/assets/img/uploads/dilisio-editorial-tato-2.jpg)
 
 
     ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
@@ -156,8 +155,8 @@ sections:
 
     ![](/assets/img/uploads/dilisio-pack-birot-closeup.jpg)
   section5: >
-    >"At some point I stopped looking at what others were doing and **they
-    started looking at me**"
+    >At some point I stopped looking at what others were doing and **they
+    started looking at me**
 
     > 
 
@@ -167,7 +166,7 @@ sections:
     **But time is not only key to his career and achievements.** It’s also a huge part of his story with Macramè. 
 
 
-    **And this part of the story takes us way back in time,v when Ariel was commissioned to work on a logo. A specific logo, for a specific client. A client he had not met. A client that was sitting 11,000 km and a few hours away.
+    **And this part of the story takes us way back in time,** when Ariel was commissioned to work on a logo. A specific logo, for a specific client. A client he had not met. A client that was sitting 11,000 km and a few hours away.
 
     Today that would be fine. Almost regular, boring.
 
