@@ -138,22 +138,22 @@ sections:
     **That’s the kind of work he does.** That’s the kind of work that was published in several design and typography books and magazines from around the globe in the last 10 years.  
 
 
-    ![](/assets/img/uploads/dilisio-pack-tea.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-font.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-pack-tea-back.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-poster.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-pack-crudda.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-book.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-pack-crudda-round.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-cover.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-pack-birot.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-cards.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-pack-birot-closeup.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-envelope.jpg)
   section5: >
     >At some point I stopped looking at what others were doing and **they
     started looking at me**
@@ -178,26 +178,23 @@ sections:
     A project that started a relationship-non-relationship that lasted until today.
 
 
-    ![](/assets/img/uploads/dilisio-laisne-font.jpg)
+    ![](/assets/img/uploads/dilisio-pack-tea.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-poster.jpg)
+    ![](/assets/img/uploads/dilisio-pack-tea-back.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-book.jpg)
+    ![](/assets/img/uploads/dilisio-pack-crudda.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-cover.jpg)
+    ![](/assets/img/uploads/dilisio-pack-crudda-round.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-cards.jpg)
+    ![](/assets/img/uploads/dilisio-pack-birot.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-envelope.jpg)
+    ![](/assets/img/uploads/dilisio-pack-birot-closeup.jpg)
 
 
-    **"There was always a relationship between us, with no relationship..."**
-
-
-    **That's how Ariel describes his relationship with Macramè.** Something we feel but cannot explain. Time now tells us all how important that first job was, because 15 years after that first job, Ariel and Macramè are back in business together, developing the brand identity for Imprendibili. A project that aims to launch new generation editorial projects on social media. A project that makes the most of the time we live on. Just as Ariel has done his entire life.
+    **"There was always a relationship between us, with no relationship..."** That's how Ariel describes his relationship with Macramè.** Something we feel but cannot explain. Time now tells us all how important that first job was, because 15 years after that first job, Ariel and Macramè are back in business together, developing the brand identity for Imprendibili. A project that aims to launch new generation editorial projects on social media. A project that makes the most of the time we live on. Just as Ariel has done his entire life.
 ---
