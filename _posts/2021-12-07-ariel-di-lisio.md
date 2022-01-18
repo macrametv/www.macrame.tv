@@ -59,7 +59,7 @@ sections:
 
     >
 
-    > * On His Process
+    > * On His Motivation
 
 
     **But having his structure was not only offering him a safe environment.** It also gave him the chance to try new things, to shape his product and to create a personal style.
@@ -89,9 +89,9 @@ sections:
 
     ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
   section3: >-
-    > I started designing entire font families for each project. Not for the
-    logo, for the project! And clients started noticing that, and that became a
-    trademark of my work.
+    > **I started designing entire font families for each project.** Not for the
+    logo, for the project! And clients started noticing that, and **that became
+    a trademark of my work.**
 
     >
 
