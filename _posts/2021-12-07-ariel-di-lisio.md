@@ -43,8 +43,6 @@ sections:
     ![](/assets/img/uploads/dilisio-studio-ariel.jpg)
 
 
-    `{{space}}`
-
 
     **Yes, time. Time is a constant in Ariel’s story.** Like the time he was having lunch with his parents and a friend asked if he would go to Europe with him.
 
