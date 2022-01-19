@@ -132,7 +132,7 @@ sections:
     **“I’m not inspired by music or the street or anything like that.** I just look to create new stuff all the time. Basically, I don’t believe in inspiration, I just believe in the work”.
 
 
-    **An old-school approach that his clients love when working with him,** clients like Nicolas Laisné, The Tea Atelier, Discovery or Centre Pompidou, whose projects helped him be selected for the Lubalin Now Exhibition Center of Design and Typography at Cooper Union, New York. Or for the ID Magazine special edition as one of the 40 designers from around the world to be followed.
+    **An old-school approach that his clients love when working with him,** clients like Nicolas Laisné, The Tea Atelier, Jessica Kessel, whose projects helped him be selected for the Lubalin Now Exhibition Center of Design and Typography at Cooper Union, New York. Or for the ID Magazine special edition as one of the 40 designers from around the world to be followed.
 
 
     **That’s the kind of work he does.** That’s the kind of work that was published in several design and typography books and magazines from around the globe in the last 10 years.  
