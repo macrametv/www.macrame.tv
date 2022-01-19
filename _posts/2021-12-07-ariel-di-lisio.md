@@ -214,4 +214,12 @@ features: 2009 - Featured in the annual edition of ID Magazine as one of the 40
   designers of the year.
 website: betwentyfive.com
 imstagram: twentyfiveag
+footer: >-
+  # If you want to know **how the circle of life could tell you how right you
+  were at the very beginning**
+
+
+  or want to use Ariel’s experience to boost a creative project, just say the word.\
+
+  **We are here!**
 ---
