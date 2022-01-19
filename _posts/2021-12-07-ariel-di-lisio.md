@@ -197,4 +197,21 @@ sections:
 
 
     **"There was always a relationship between us, with no relationship..."** That's how Ariel describes his relationship with Macramè. Something we feel but cannot explain. Time now tells us all how important that first job was, because 15 years after that first job, Ariel and Macramè are back in business together, developing the brand identity for Imprendibili. A project that aims to launch new generation editorial projects on social media. A project that makes the most of the time we live on. Just as Ariel has done his entire life.
+  clients:
+    client: /assets/img/uploads/discovery-logo.png
+    client2: /assets/img/uploads/designsuites-logo.png
+    client3: /assets/img/uploads/kessel-logo.png
+    client4: /assets/img/uploads/lafeliz-logo.png
+    client5: /assets/img/uploads/armada-logo.png
+  clientLabel: |+
+    BRANDS HE HAS WORKED WITH
+
+working: Creative Director
+living: Argentina
+exhibitions: 2009 - Lubalin Now Exhibition Center of Design and Typography en
+  Cooper Union, New York.
+features: 2009 - Featured in the annual edition of ID Magazine as one of the 40
+  designers of the year.
+website: betwentyfive.com
+imstagram: twentyfiveag
 ---
