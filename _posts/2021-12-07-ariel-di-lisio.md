@@ -77,16 +77,16 @@ sections:
     ![](/assets/img/uploads/dilisio-editorial-tato-2.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-editorial-domus.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-editorial-domus-photo.jpg)
-
-
     ![](/assets/img/uploads/dilisio-deck-editorial.jpg)
 
 
     ![](/assets/img/uploads/dilisio-deck-editorial-inside.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-editorial-domus.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-editorial-domus-photo.jpg)
   section3: >-
     > **I started designing entire font families for each project.** Not for the
     logo, for the project! And clients started noticing that, and **that became
