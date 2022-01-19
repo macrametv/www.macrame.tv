@@ -77,16 +77,16 @@ sections:
     ![](/assets/img/uploads/dilisio-editorial-tato-2.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
+    ![](/assets/img/uploads/dilisio-editorial-domus.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
+    ![](/assets/img/uploads/dilisio-editorial-domus-photo.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
+    ![](/assets/img/uploads/dilisio-deck-editorial.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
+    ![](/assets/img/uploads/dilisio-deck-editorial-inside.jpg)
   section3: >-
     > **I started designing entire font families for each project.** Not for the
     logo, for the project! And clients started noticing that, and **that became
@@ -108,7 +108,7 @@ sections:
     ![](/assets/img/uploads/dilisio-lucca.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-lucca-menu.jpg)
+    ![](/assets/img/uploads/dilisio-lucca-web.jpg)
 
 
     ![](/assets/img/uploads/dilisio-sensart-01.jpg)
@@ -117,10 +117,10 @@ sections:
     ![](/assets/img/uploads/dilisio-sensart-02.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-deck-editorial.jpg)
+    ![](/assets/img/uploads/dilisio-galuppo.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-deck-space.jpg)
+    ![](/assets/img/uploads/dilisio-galuppo_web.jpg)
   section4: >-
     > I don’t believe in inspiration, **I just believe in the work.**
 
