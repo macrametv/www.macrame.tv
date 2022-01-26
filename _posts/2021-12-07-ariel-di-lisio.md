@@ -105,13 +105,13 @@ sections:
     **But his love for letters was not the only thing that made him go that way,** having designed a great number of logos at early stages in his career gave him a certain typographic training, experience. And that made him realize it was something that just came naturally to him. As natural as the paper and pencil that kick off all his projects, or the old school not "inspiration focus" approach to everything he does.
 
 
-    ![](/assets/img/uploads/dilisio-lucca.jpg)
+    ![](/assets/img/uploads/dilisio-lucca-cards.jpg)
 
 
     ![](/assets/img/uploads/dilisio-lucca-web.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-sensart-01.jpg)
+    ![](/assets/img/uploads/dilisio-sensart-03.jpg)
 
 
     ![](/assets/img/uploads/dilisio-sensart-02.jpg)
