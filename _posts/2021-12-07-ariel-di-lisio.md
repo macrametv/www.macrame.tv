@@ -138,22 +138,22 @@ sections:
     **That’s the kind of work he does.** That’s the kind of work that was published in several design and typography books and magazines from around the globe in the last 10 years.  
 
 
-    ![](/assets/img/uploads/dilisio-laisne-font.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-laisne.jpg)
-
-
     ![](/assets/img/uploads/dilisio-laisne-book.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-cover.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-editorial-1.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-cards.jpg)
+    ![](/assets/img/uploads/dilisio-laisne-editorial.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-web.jpg)
+    ![](/assets/img/uploads/dilisio-alricgalindez.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-alricgalindez-open.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-alricgalindez-web.jpg)
   section5: >
     >At some point I stopped looking at what others were doing and **they
     started looking at me**
