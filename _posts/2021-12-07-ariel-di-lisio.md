@@ -108,19 +108,19 @@ sections:
     ![](/assets/img/uploads/dilisio-lucca-cards.jpg)
 
 
+    ![](/assets/img/uploads/dilisio-lucca-menu.jpg)
+
+
     ![](/assets/img/uploads/dilisio-lucca-web.jpg)
 
 
     ![](/assets/img/uploads/dilisio-sensart-03.jpg)
 
 
+    ![](/assets/img/uploads/dilisio-sensart-05.jpg)
+
+
     ![](/assets/img/uploads/dilisio-sensart-02.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-galuppo.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-galuppo_web.jpg)
   section4: >-
     > I don’t believe in inspiration, **I just believe in the work.**
 
