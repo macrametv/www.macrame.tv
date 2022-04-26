@@ -3,7 +3,7 @@ layout: post
 title: Ana Despres • Digital Art Director
 name: The Digital Nomad
 subname: with a Project  in Every Time-Zone
-svglogo: /assets/img/uploads/digitalnomad_logos7-2.svg
+svglogo: ""
 colour: "#FF998A"
 illustration: /assets/img/uploads/elisetta_gif.gif
 intro_paragraph: ""
