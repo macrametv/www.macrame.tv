@@ -6,8 +6,7 @@ subname: with a Project  in Every Time-Zone
 svglogo: /assets/img/uploads/digitalnomad_logos7-2.svg
 colour: "#FF998A"
 illustration: /assets/img/uploads/elisetta_gif.gif
-intro_paragraph: "**Ana Despres** or how never staying still  is the key to
-  getting to wherever you want to get."
+intro_paragraph: ""
 sections:
   clients:
     client: /assets/img/uploads/iberostar_logo.png
