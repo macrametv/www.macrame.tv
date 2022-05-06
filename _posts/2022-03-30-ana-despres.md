@@ -33,7 +33,7 @@ sections:
     ![](/assets/img/uploads/fer-cozzi-portrait.jpg)
 
 
-    > "Most people get to  a place and picture themselves living or working there. I don’t. **I need to move,  all the time**."
+    > Most people get to  a place and picture themselves living or working there. I don’t. **I need to move,  all the time**.
 
     >
 
@@ -50,6 +50,9 @@ sections:
 
 
     `{{space}}`
+
+
+    **The best part of my travels is that I don’t want to stay in a place.** I mean it. Most people get to a place and picture themselves living or working there. I don’t. I might love a place, but I won’t be staying for long. I need to move, all the time.
   section2: >-
     > "It’s not the style that makes the difference: **it's the actual font!**"
 
