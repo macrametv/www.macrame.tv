@@ -17,7 +17,10 @@ sections:
     client3: /assets/img/uploads/xulu_logo.png
     client4: /assets/img/uploads/marriot_logo.png
     client5: /assets/img/uploads/clinique_logo.png
-  section: ""
+  section: "Ana loves to travel. Yes, we all do. But in her case it is more like a
+    necessity. She doesn't travel to be inspired or to meet new people, well,
+    she does, but that’s a side effect of her nomadic way of living and working.
+    She travels for business purposes. "
   section2: >-
     > "It’s not the style that makes the difference: **it's the actual font!**"
 
