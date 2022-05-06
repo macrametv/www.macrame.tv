@@ -54,28 +54,22 @@ sections:
 
     **The best part of my travels is that I don’t want to stay in a place.** I mean it. Most people get to a place and picture themselves living or working there. I don’t. I might love a place, but I won’t be staying for long. I need to move, all the time.
   section2: >-
-    > "It’s not the style that makes the difference: **it's the actual font!**"
+    > "That makes me feel like**I’m a time-traveler!**"
 
     >
 
-    > * On Typography
+    > * On Working on Different Time-Zones
 
 
-    **She started taking classes on type design and calligraphy**, shaping her career based on her love for letters. And ​now she sells her own fonts.
+    **That's probably why, she was once in 3 different cities in a single day. **Yes, 3 cities, one day. But that’s not just it. It was way more than that. It was 3 different cities. 3 different countries. 3 different languages. And 3 different clients. She was running a photoshoot in Paris in the morning when she had to take a plane to Barcelona to meet a different client. Only to fly to London a few hours later to meet her business partner there to start working on a completely different project, for yet another client. 
+
+    Sounds crazy? Yes. Sounds like Ana? Definitely. 
 
 
-    **Inspired by people, music and movies,** this typeface artist, calligrapher and designer from Argentina has given several workshops on experimental type design, calligraphy and monograms.
+    **“That was the first time I felt like a chameleon.** I had to change my whole perspective extremely fast and mutate on the go to be ready for the next assignment. It was crazy and intense. I loved it!” 
 
 
-    **She has been a regular at the Tipos Latinos Argentina biennial** since 2010, and her Síncopa Font has been selected for other renowned type design exhibitions such as Pangramme.
-
-
-    **Is her talent fueled by *mate*, wine, food and the jaded Argentine mindset?**\
-
-    Maybe. Maybe not.
-
-
-    But one thing's for sure: **Fer's completely different approach to design** can be attributed to her love for letters and expertise.
+    **And that’s why she keeps 10 different timezones on her phone.** She has all the different clocks for where her clients and partners are based, to be connected whenever they need it. And she also has Tokyo time in there. Does she have anything going on in Tokyo, not really, but it’s 12 hours apart from her home and it makes her believe she can have a glimpse into the future. When she’s living today in Argentina, they are literally living tomorrow in Japan.
 
 
     `{{space}}`
@@ -94,24 +88,22 @@ sections:
 
 
     ![](/assets/img/uploads/barbarella-type-stationary.jpg)
-
-
-    > "Creating your own font is ultimately **the best way to go**."
+  section3: >-
+    > "You need to be a strategic thinker. Design is not drawing nicely, or to
+    be an artist. It has much of it, but is not all**."
 
     >
 
-    > * On Brand & Fonts
-  section3: >-
-    **Her knowledge about fonts gives her a completely different perspective**
-    than other graphic designers. ​You can choose a family based on your idea,
-    but each family has a bunch of different fonts and each one is unique: “It’s
-    not the style that makes the difference: it's the actual font!”
+    > * On Her Key to Success
 
 
-    **We can try to explain the growing importance of type design** but Fer puts it best: “There used to be a certain romanticism associated with choosing a font. Now it's a question of budget: creating your own font is ultimately the best way to go."
+    **But there’s another pillar to Ana’s approach when developing a project.** She's always looking at the bigger picture. No matter what the briefing was about in the first place, she always thinks it could go bigger, better, more committed, and with a higher purpose. And she goes for it, every single time.   
 
 
-    Companies like Apple, Google, Netflix and Spotify, all of which have designed their own fonts, would clearly agree with her.
+    **And that’s also why she connects immediately with clients and partners from different countries and cultures.** From Korto Café, a small coffee shop in Buenos Aires, Argentina (where she was born) to Sorgente Group, a top Real Estate company in the U.S. From Hellow Festival, a music festival in Monterrey, Mexico, to Nicolas Laisne Architects a world-famous architecture studio from France.   
+
+
+    **They all dream of doing great things.** Not only in their business, but also to change the world. And Annie is the perfect partner to help them do so.
 
 
     `{{space}}`
@@ -149,12 +141,12 @@ sections:
 
     ![]()
   section4: >-
-    > "Managing ideas from Argentina while producing in Europe. So **fun and
-    challenging.**"
+    > "Even an oil company can help make the world a better place if they want
+    to. I’m here to help them do so.**"
 
     >
 
-    > * On Macramè
+    > * On Purpose
 
 
     **But she’s not only devoted to letters: she also loves to teach.**\
