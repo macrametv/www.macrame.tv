@@ -18,4 +18,12 @@ sections:
     client5: /assets/img/uploads/clinique_logo.png
 website: https://anadespres.com
 imstagram: anidespres
+footer: >-
+  # If you are wondering **how tireless (time) traveling could spark the
+  creative fire**
+
+
+  or want to use Annie’s worldly experience on a creative project, just say the word.\
+
+  **We are here!**
 ---
