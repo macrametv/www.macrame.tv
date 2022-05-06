@@ -149,23 +149,16 @@ sections:
     > * On Purpose
 
 
-    **But she’s not only devoted to letters: she also loves to teach.**\
-
-    Fer teachers graduate classes at the University of Buenos Aires and loves sharing her knowledge with her colleagues.
+    **Even an oil company can help make the world a better place if they want to.**I’m here to help them do so.
 
 
-    **And that has shaped her professional network.**\
-
-    “I mostly work with students past and present. They're my trusted network."
+    **Cause all her clients have something to say.** Something to show. Something to help make the world a better place. That’s what she loves about them. That’s why she has such a strong connection to all of them. Not in a mysterious random way, but similar energies tend to bond and Ana finds herself perfectly fit to develop this kind of projects, projects that aim to help us all.
 
 
-    She loves teaching, yes, **and what she most enjoys about working with Macramè** ​is that there are a lot of people involved in each project and she has the opportunity to share her knowledge and learn.
+    **This purpose-driven approach was born when she met a Mexican influencer who was helping women improve their self-esteem regardless of their appearance.** That was an eye-opener for her. That was some kind of calling. She knew she could help. She knew there was space for improvement in every single business, in every single project. So she set her mind to it.
 
 
-    When it came to designing an identity for Pizzeria Al-4m she and the team had to work from scratch on the concepts, ideas, deliverables, etc. They had total freedom to come up with innovative ideas, from the restaurant menu to the card holder and other items.
-
-
-    “The most challenging part was managing ideas and drafts from Argentina while producing in Europe. But it was also fun and very rewarding!”
+    **“Even an oil company can help make the world a better place if they want to.** And I’m here to help them do so”.
 
 
     `{{space}}`
@@ -184,13 +177,31 @@ sections:
 
 
     ![](/assets/img/uploads/al4-pizza-restaurant-logo-signage.jpg)
+
+
+    **So, yes, Ana Despres is a dreamer.** An idealist. And a tireless traveler. She travels the world, she travels through time and even to the stars! 
+
+
+    **She’s a huge fan of space stuff and an amateur astronomer.** She has a nice telescope to see the moon, some stars, and maybe Jupiter when the conditions are at their best. And that telescope not only gives her a whole new world to travel around, but also an incredible sense of freedom and opportunity.
+
+
+    **“The best part about owning a telescope is that it allows you to be an amateur again.** You don’t have that pressure of getting it right. Of achieving. You can get it wrong as many times as you want and I find that incredibly liberating. You need to find spaces to be an amateur again.”
   section5: >-
-    **That's the story of the girl who fell in love with letters**. So in love,
-    in fact, that her hedgehog Aidé, who was along for five years of her
-    journey, even has her own font.
+    > "**Macramè gave me the tools and empowerment I needed to go full-time
+    freelance**, and that’s something I’ll always be thankful for."
+
+    >
+
+    > * On Macramè
 
 
-    **That love shines through: Fer received** the ​Sello Buen Diseño​ in 2018 and a year later, was selected as one of ten ​Ascenders by the Type Directors Club​, a group of designers under 35 who have shown remarkable achievement in typography, type design, and lettering.
+    **That’s also why she immediately felt we were a great fit for her when in 2018 she worked with us for the first time.**
+
+
+    **“I found the working dynamic very interesting!** The freedom, the projects… At that time I was working half-time in another place so this dynamic with Macramè gave me the tools and empowerment I needed to go full-time freelance, and that’s something I’ll always be thankful for”. 
+
+
+    **Freedom and opportunity.** The two things that Macramè stands for. The two things that allow Ana to try to change the world, one project at a time.
   clientLabel: Clients she has worked with
 website: https://anadespres.com
 imstagram: anidespres
