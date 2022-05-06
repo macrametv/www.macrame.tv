@@ -17,7 +17,7 @@ sections:
     client3: /assets/img/uploads/xulu_logo.png
     client4: /assets/img/uploads/marriot_logo.png
     client5: /assets/img/uploads/clinique_logo.png
-  section: >-
+  section: >+
     Ana loves to travel. Yes, we all do. But in her case it is more like a
     necessity. She doesn't travel to be inspired or to meet new people, well,
     she does, but that’s a side effect of her nomadic way of living and working.
@@ -25,6 +25,21 @@ sections:
 
 
     **She has clients all around the world.** Most likely because she is the kind of creative that is always changing, evolving, mutating; depending on the needs of the project. And her clients love that about her. That need to move, to change, to be inspired by something different all the time.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/fer-cozzi-portrait.jpg)
+
+
+    > "Most people get to  a place and picture themselves living or working there. I don’t.**I need to move,  all the time**"
+
+    >
+
+    > * On Traveling
+
+
   section2: >-
     > "It’s not the style that makes the difference: **it's the actual font!**"
 
