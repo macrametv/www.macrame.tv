@@ -24,20 +24,7 @@ sections:
     She travels for business purposes. 
 
 
-    **She has clients all around the world.** Most likely because she is the kind of creative that is always changing, evolving, mutating; depending on the needs of the project. And her clients love that about her. That need to move, to change, to be inspired by something different all the time. 
-
-
-    `{{space}}`
-
-
-    ![](/assets/img/uploads/fer-cozzi-portrait.jpg)
-
-
-    > Most people get to  a place and picture themselves living or working there. I don’t. **I need to move,  all the time**.
-
-    >
-
-    > * On Traveling
+    **She has clients all around the world.** Most likely because she is the kind of creative that is always changing, evolving, mutating; depending on the needs of the project. And her clients love that about her. That need to move, to change, to be inspired by something different all the time.
   section2: >-
     > "It’s not the style that makes the difference: **it's the actual font!**"
 
