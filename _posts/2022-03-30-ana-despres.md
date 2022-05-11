@@ -93,7 +93,7 @@ sections:
     ![](/assets/img/uploads/nina-kendosa-8.jpg)
   section3: >-
     > "You need to be a strategic thinker. Design is not drawing nicely, or to
-    be an artist. It has much of it, but is not all**."
+    be an artist. It has much of it, but is not all\*\*."
 
     >
 
@@ -112,34 +112,25 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/tomasa-font-type-design.jpg)
+    ![](/assets/img/uploads/korto-1.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-font-type-specimen.jpg)
+    ![](/assets/img/uploads/korto-2.jpg)
 
 
-    ![](/assets/img/uploads/sincopa-font-type-design.jpg)
+    ![](/assets/img/uploads/korto-3.jpg)
 
 
-    ![](/assets/img/uploads/sincopa-font-type-specimen.jpg)
+    ![](/assets/img/uploads/korto-4.jpg)
 
 
-    ![](/assets/img/uploads/barbara-font-type-design.jpg)
+    ![](/assets/img/uploads/korto-5.jpg)
 
 
-    ![](/assets/img/uploads/barbara-font-type-specimen.jpg)
+    ![](/assets/img/uploads/korto-6.jpg)
 
 
-    ![](/assets/img/uploads/gabriella-font-type-design.jpg)
-
-
-    ![](/assets/img/uploads/gabriella-font-type-specimen.jpg)
-
-
-    ![](/assets/img/uploads/aide-font-type-design.jpg)
-
-
-    ![](/assets/img/uploads/aide-font-type-specimen.jpg)
+    ![](/assets/img/uploads/korto-7.jpg)
 
 
     ![]()
