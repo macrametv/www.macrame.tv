@@ -61,7 +61,7 @@ sections:
     > * On Working on Different Time-Zones
 
 
-    **That's probably why, she was once in 3 different cities in a single day. **Yes, 3 cities, one day. But that’s not just it. It was way more than that. It was 3 different cities. 3 different countries. 3 different languages. And 3 different clients. She was running a photoshoot in Paris in the morning when she had to take a plane to Barcelona to meet a different client. Only to fly to London a few hours later to meet her business partner there to start working on a completely different project, for yet another client. 
+    **That's probably why, she was once in 3 different cities in a single day.** Yes, 3 cities, one day. But that’s not just it. It was way more than that. It was 3 different cities. 3 different countries. 3 different languages. And 3 different clients. She was running a photoshoot in Paris in the morning when she had to take a plane to Barcelona to meet a different client. Only to fly to London a few hours later to meet her business partner there to start working on a completely different project, for yet another client. 
 
     Sounds crazy? Yes. Sounds like Ana? Definitely. 
 
@@ -75,19 +75,22 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/nina-kendosa-1.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+    ![](/assets/img/uploads/nina-kendosa-2.jpg)
 
 
-    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+    ![](/assets/img/uploads/nina-kendosa-3.jpg)
 
 
-    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+    ![](/assets/img/uploads/nina-kendosa-5.jpg)
 
 
-    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+    ![](/assets/img/uploads/nina-kendosa-6.jpg)
+
+
+    ![](/assets/img/uploads/nina-kendosa-8.jpg)
   section3: >-
     > "You need to be a strategic thinker. Design is not drawing nicely, or to
     be an artist. It has much of it, but is not all**."
