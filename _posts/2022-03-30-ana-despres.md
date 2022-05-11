@@ -54,7 +54,7 @@ sections:
 
     **The best part of my travels is that I don’t want to stay in a place.** I mean it. Most people get to a place and picture themselves living or working there. I don’t. I might love a place, but I won’t be staying for long. I need to move, all the time.
   section2: >-
-    > "That makes me feel like**I’m a time-traveler!**"
+    > "That makes me feel like **I’m a time-traveler!**"
 
     >
 
@@ -92,8 +92,8 @@ sections:
 
     ![Nina Kendosa](/assets/img/uploads/nina-kendosa-8.jpg)
   section3: >-
-    > "You need to be a strategic thinker. Design is not drawing nicely, or to
-    be an artist. It has much of it, but is not all\*\*."
+    > "**You need to be a strategic thinker.** Design is not drawing nicely, or
+    to be an artist. It has much of it, but is not all."
 
     >
 
@@ -133,7 +133,7 @@ sections:
     ![Korto Cafe](/assets/img/uploads/korto-7.jpg)
   section4: >-
     > "Even an oil company can help make the world a better place if they want
-    to. I’m here to help them do so.\*\*"
+    to. **I’m here to help them do so.**"
 
     >
 
