@@ -75,22 +75,22 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/nina-kendosa-1.jpg)
+    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-1.jpg)
 
 
-    ![](/assets/img/uploads/nina-kendosa-2.jpg)
+    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-2.jpg)
 
 
-    ![](/assets/img/uploads/nina-kendosa-3.jpg)
+    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-3.jpg)
 
 
-    ![](/assets/img/uploads/nina-kendosa-5.jpg)
+    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-5.jpg)
 
 
-    ![](/assets/img/uploads/nina-kendosa-6.jpg)
+    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-6.jpg)
 
 
-    ![](/assets/img/uploads/nina-kendosa-8.jpg)
+    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-8.jpg)
   section3: >-
     > "You need to be a strategic thinker. Design is not drawing nicely, or to
     be an artist. It has much of it, but is not all\*\*."
@@ -112,28 +112,25 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/korto-1.jpg)
+    ![Korto Cafe](/assets/img/uploads/korto-1.jpg)
 
 
-    ![](/assets/img/uploads/korto-2.jpg)
+    ![Korto Cafe](/assets/img/uploads/korto-2.jpg)
 
 
-    ![](/assets/img/uploads/korto-3.jpg)
+    ![Korto Cafe](/assets/img/uploads/korto-3.jpg)
 
 
-    ![](/assets/img/uploads/korto-4.jpg)
+    ![Korto Cafe](/assets/img/uploads/korto-4.jpg)
 
 
-    ![](/assets/img/uploads/korto-5.jpg)
+    ![Korto Cafe](/assets/img/uploads/korto-5.jpg)
 
 
-    ![](/assets/img/uploads/korto-6.jpg)
+    ![Korto Cafe](/assets/img/uploads/korto-6.jpg)
 
 
-    ![](/assets/img/uploads/korto-7.jpg)
-
-
-    ![]()
+    ![Korto Cafe](/assets/img/uploads/korto-7.jpg)
   section4: >-
     > "Even an oil company can help make the world a better place if they want
     to. I’m here to help them do so.**"
