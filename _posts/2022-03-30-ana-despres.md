@@ -17,7 +17,7 @@ sections:
     client3: /assets/img/uploads/xulu_logo.png
     client4: /assets/img/uploads/marriot_logo.png
     client5: /assets/img/uploads/clinique_logo.png
-  section: >
+  section: >-
     Ana loves to travel. Yes, we all do. But in her case it is more like a
     necessity. She doesn't travel to be inspired or to meet new people, well,
     she does, but that’s a side effect of her nomadic way of living and working.
@@ -30,7 +30,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/fer-cozzi-portrait.jpg)
+    ![](/assets/img/uploads/ana-despres-1.jpg)
 
 
     > "Most people get to a place and picture themselves living or working there. I don’t. **I need to move, all the time**."
@@ -40,13 +40,13 @@ sections:
     > * On Traveling
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-e.jpg)
+    ![](/assets/img/uploads/on-traveling-1.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio-wall.jpg)
+    ![](/assets/img/uploads/on-traveling-2.jpg)
 
 
-    ![](/assets/img/uploads/fer-cozzi-studio.jpg)
+    ![](/assets/img/uploads/on-traveling-4.jpg)
 
 
     `{{space}}`
