@@ -133,7 +133,7 @@ sections:
     ![Korto Cafe](/assets/img/uploads/korto-7.jpg)
   section4: >-
     > "Even an oil company can help make the world a better place if they want
-    to. I’m here to help them do so.**"
+    to. I’m here to help them do so.\*\*"
 
     >
 
@@ -155,19 +155,22 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![Outlast](/assets/img/uploads/outlast-1.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo-menu-typography.jpg)
+    ![Outlast](/assets/img/uploads/outlast-3.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-photography.jpg)
+    ![Outlast](/assets/img/uploads/outlast-4.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo-menu.jpg)
+    ![Madyfit](/assets/img/uploads/madyfit-1.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo-signage.jpg)
+    ![Madyfit](/assets/img/uploads/madyfit-2.jpg)
+
+
+    ![Madyfit](/assets/img/uploads/madyfit-4.jpg)
 
 
     **So, yes, Ana Despres is a dreamer.** An idealist. And a tireless traveler. She travels the world, she travels through time and even to the stars! 
@@ -195,19 +198,22 @@ sections:
     **Freedom and opportunity.** The two things that Macramè stands for. The two things that allow Ana to try to change the world, one project at a time.
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo.jpg)
+    ![FaceD](/assets/img/uploads/faced-1.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo-menu-typography.jpg)
+    ![FaceD](/assets/img/uploads/faced-2.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-photography.jpg)
+    ![FaceD](/assets/img/uploads/faced-4.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo-menu.jpg)
+    ![FaceD](/assets/img/uploads/faced-6.jpg)
 
 
-    ![](/assets/img/uploads/al4-pizza-restaurant-logo-signage.jpg)
+    ![FaceD](/assets/img/uploads/faced-5.jpg)
+
+
+    ![FaceD](/assets/img/uploads/faced-7.jpg)
   clientLabel: Clients she has worked with
 website: https://anadespres.com
 imstagram: anidespres
