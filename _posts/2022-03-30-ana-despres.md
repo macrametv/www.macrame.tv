@@ -8,7 +8,7 @@ logo: ""
 svglogo: /assets/img/uploads/story-brand-ana.svg
 colour: "#FF998A"
 illustration: /assets/img/uploads/anadespres.gif
-intro_paragraph: "**Ana Despres** or how never staying still   is the key to
+intro_paragraph: "**Ana Despres** or how never staying still is the key to
   getting to wherever you want to get"
 sections:
   clients:
