@@ -212,7 +212,7 @@ sections:
 
     ![FaceD](/assets/img/uploads/faced-7.jpg)
   clientLabel: Clients she has worked with
-website: www.anadespres.com
+website: anadespres.com
 imstagram: anidespres
 footer: >-
   # If you are wondering **how tireless (time) traveling could spark the
