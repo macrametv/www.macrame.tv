@@ -140,9 +140,6 @@ sections:
     > * On Purpose
 
 
-    **Even an oil company can help make the world a better place if they want to.**I’m here to help them do so.
-
-
     **Cause all her clients have something to say.** Something to show. Something to help make the world a better place. That’s what she loves about them. That’s why she has such a strong connection to all of them. Not in a mysterious random way, but similar energies tend to bond and Ana finds herself perfectly fit to develop this kind of projects, projects that aim to help us all.
 
 
