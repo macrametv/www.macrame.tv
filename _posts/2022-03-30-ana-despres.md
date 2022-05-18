@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: ""
+permalink: /ana-despres
 title: Ana Despres • Digital Art Director
 name: The Digital Nomad
 subname: with a Project in Every Time-Zone
