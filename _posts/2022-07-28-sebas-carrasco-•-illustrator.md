@@ -45,46 +45,5 @@ sections:
 
 
     **Yes, he has a habit of doing that... **Whatever he does, he takes it to the next level. 
-  section2: >-
-    > “I knew that the studio had a reputation for working with musicians. **I
-    accepted  without thinking.**”
-
-    >
-
-    > * On Zona de Obras
-
-
-    **That’s why when he first stepped into Zona de Obras,** the design studio where he still works 14 years on, they couldn’t let him go. 
-
-
-    **There, he works as a Senior Designer, Art Director, and consultant in branding and strategic brand management.** But that’s not all. Lately, as part of the process of promoting the studio's digital profile, he also coordinates the development of UX/UI projects, while leading the whole initiative on all different fronts. Quite impressive. 
-
-
-    **So when he told us that one of the most famous singers in Argentina** has a portrait done by him on his wall, well, we were not surprised. 
-
-
-    **“Not long ago I saw on social media that Bahiano,** ex-singer of Los Pericos, has a quite large painting in his living room with an illustration of his face that I did for the cover of a record. I don’t even think he remembers who I am or where that illustration came from, but it's there. As part of his home decoration.”
-
-
-    **But how can he be so successful in everything he does?** 
-
-    Fair question. 
-
-
-    `{{space}}`
-
-
-    ![Leandro Castelao 4](/assets/img/uploads/castelao-imgs-website-1320x1320px-05.jpg)
-
-
-    ![Leandro Castelao 5](/assets/img/uploads/castelao-imgs-website-1320x1320px-06.jpg)
-
-
-    ![Leandro Castelao 6](/assets/img/uploads/castelao-imgs-website-1320x1320px-07.jpg)
-
-
-    ![Leandro Castelao 7](/assets/img/uploads/castelao-imgs-website-1320x1320px-08.jpg)
-
-
-    ![Leandro Castelao 8](/assets/img/uploads/castelao-imgs-website-1320x1320px-09.jpg)
+  section2: ""
 ---
