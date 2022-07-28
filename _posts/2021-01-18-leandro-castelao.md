@@ -55,30 +55,30 @@ sections:
 
     **Fortunately, he immediately fell in love with the city.**
   section2: >-
-    > **“The thing I enjoy the most is the city vibe.** The different styles,
-    looks and personalities you see on the street on any given day are visually
-    stimulating and I love that.”
+    > “I knew that the studio had a reputation for working with musicians.
+
+    **I accepted  without thinking.**”
 
     >
 
-    > * On New York City
+    > * On Zona de Obras
 
 
-    **So he stayed.**
+    **That’s why when he first stepped into Zona de Obras,** the design studio where he still works 14 years on, they couldn’t let him go. 
 
 
-    **He changed his life, his perspective and the way he used to do things, again.**
-
-    He started exploring different ways, different approaches and became more and more interested in an old passion: illustration.
+    **There, he works as a Senior Designer, Art Director, and consultant in branding and strategic brand management.** But that’s not all. Lately, as part of the process of promoting the studio's digital profile, he also coordinates the development of UX/UI projects, while leading the whole initiative on all different fronts. Quite impressive. 
 
 
-    **“I like abstraction and complexity.** I like bold forms and refined details. I’ve always enjoyed exploring different techniques and at some point I discovered the power of vectors and how deep you can go with them. I feel like there are endless opportunities.”
+    **So when he told us that one of the most famous singers in Argentina** has a portrait done by him on his wall, well, we were not surprised. 
 
 
-    **So yes, he was in love with illustration.** A relationship we can catalogue as a crazy ride. A crazy but beautiful ride that started when he was living in Argentina and led him to work for The New York Times. At first it was hard, as he recalls: 
+    **“Not long ago I saw on social media that Bahiano,** ex-singer of Los Pericos, has a quite large painting in his living room with an illustration of his face that I did for the cover of a record. I don’t even think he remembers who I am or where that illustration came from, but it's there. As part of his home decoration.”
 
 
-    **“It was crazy.** Every Monday I got a text and on Tuesday it was printed. So I had less than 24 hours to do it”.
+    **But how can he be so successful in everything he does?** 
+
+    Fair question. 
 
 
     `{{space}}`
