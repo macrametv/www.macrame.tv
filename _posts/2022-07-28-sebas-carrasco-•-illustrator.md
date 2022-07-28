@@ -151,8 +151,6 @@ sections:
 
 
     **Because from his parents telling him to practice a sport,** to a 3rd-dan black belt, it’s a long journey. And he walked it. From liking to draw to having a 300 portrait project on Instagram, it’s a long journey too, and he drew that path as well.
-     
-
 
 
     `{{space}}`
