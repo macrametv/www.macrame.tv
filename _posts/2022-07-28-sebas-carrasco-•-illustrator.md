@@ -46,8 +46,8 @@ sections:
 
     **Yes, he has a habit of doing that... **Whatever he does, he takes it to the next level. 
   section2: >-
-    > “I knew that the studio had a reputation for working with musicians. **I
-    accepted without thinking.**”
+    > I knew that the studio had a reputation for working with musicians. **I
+    accepted without thinking.**
 
     >
 
@@ -87,4 +87,91 @@ sections:
 
 
     ![Leandro Castelao 8](/assets/img/uploads/castelao-imgs-website-1320x1320px-09.jpg)
+  section3: >-
+    > **It’s hard for me to think about illustration as work.** I enjoy it too
+    much..
+
+    >
+
+    > * On Illustration
+
+
+    **That might take us a few years back to when he was in high school and planning what to do next.** Career consultants told him he has capabilities for design and management. Two completely different stories. Two scenarios that are not likely to come together, at least in most cases. Ultimately, two sides of the same coin, as we now know. Time just proved this. Seba had, and has, aptitudes for all that and more.
+
+
+    **He can perfectly balance creative thinking with rigorous management.** Teaching design at Universidad de Buenos Aires with a top-level Tae-kwon-do career. And he can even find the time to explore, create and enjoy the art of illustration. Something he is (also) extremely good at. Something he does on a freelance basis, all the time. And he has a lot of fun doing it.
+
+
+    **“It’s hard for me to think about illustration as work.** I enjoy it too much. Sometimes I just sit on the couch and start drawing on my iPad. That’s also work, of course, but on a whole different level. With a whole different angle. The desk is for branding. The couch is for illustration!”
+
+
+    **And that kind of passion and true enjoyment can be seen in every single illustration project he has worked on.**
+
+
+    **Like when he was commissioned to create a simple illustration for Netflix.** It was his first illustration gig for a big-name client and they asked him to go for a random generic illustration. Did he do that? No way. He worked on an extremely famous actor’s portrait. Was it the right call? Definitely. The client loved the portrait so much that they changed the brief and asked him to develop a full series. 
+
+
+    **Or even when he worked with MODO's communication and development team to create some illustrations for the app,**  its digital platforms, and even some street advertising campaigns. Huge name, huge project. Huge engagement. Those illustrations are still circulating a lot, and they opened many doors for him.
+
+
+    **And that’s because he is perfectly committed to making the most out of every single project he has on the table.** A commitment that can also be seen in everything he does.
+
+
+    **An example? Sure.** 
+
+
+    ![Leandro Castelao 9](/assets/img/uploads/castelao-imgs-website-1320x1320px-10.jpg)
+
+
+    ![Leandro Castelao 10](/assets/img/uploads/castelao-imgs-website-1320x1320px-11.jpg)
+
+
+    ![Leandro Castelao 11](/assets/img/uploads/castelao-imgs-website-1320x1320px-12.jpg)
+
+
+    ![Leandro Castelao 12](/assets/img/uploads/castelao-imgs-website-1320x1320px-13.jpg)
+
+
+    ![Leandro Castelao 13](/assets/img/uploads/castelao-imgs-website-1320x1320px-14.jpg)
+
+
+    ![Leandro Castelao 14](/assets/img/uploads/castelao-imgs-website-1320x1320px-29.jpg)
+
+
+    ![Leandro Castelao 15](/assets/img/uploads/castelao-imgs-website-1320x1320px-16.jpg)
+  section4: >-
+    > **I am particularly a fan of Japan. I studied the language as a child.
+
+    >
+
+    > * On Japan
+
+
+    **We all love comics and manga, and most likely we can agree we all love Japanese culture, right?** But Sebas took this love to a whole new level. Forget about martial arts. We are talking about studying Japanese for years and visiting the country not once, but twice (and planning a third). For pleasure, sure. But that’s the kind of commitment Sebas has to everything he does. Please bear in mind that from Buenos Aires, Argentina to Tokyo, Japan, it’s not only a looooong journey. But a complicated and expensive one, especially these days. But he wants to do it. So he does it. As always in his life. 
+
+
+    **Because from his parents telling him to practice a sport,** to a 3rd-dan black belt, it’s a long journey. And he walked it. From liking to draw to having a 300 portrait project on Instagram, it’s a long journey too, and he drew that path as well.
+     
+
+
+
+    `{{space}}`
+
+
+    ![Leandro Castelao 16](/assets/img/uploads/castelao-imgs-website-1320x1320px-17.jpg)
+
+
+    ![Leandro Castelao 17](/assets/img/uploads/castelao-imgs-website-1320x1320px-18.jpg)
+
+
+    ![Leandro Castelao 18](/assets/img/uploads/castelao-imgs-website-1320x1320px-19.jpg)
+
+
+    ![Leandro Castelao 19](/assets/img/uploads/castelao-imgs-website-1320x1320px-20.jpg)
+
+
+    ![Leandro Castelao 20](/assets/img/uploads/castelao-imgs-website-1320x1320px-21.jpg)
+
+
+    ![Leandro Castelao 21](/assets/img/uploads/castelao-imgs-website-1320x1320px-22.jpg)
 ---
