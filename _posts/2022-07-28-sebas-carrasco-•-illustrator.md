@@ -41,17 +41,8 @@ sections:
     ![Leandro Castelao 3](/assets/img/uploads/castelao-imgs-website-1320x1320px-04b.jpg)
 
 
-    Born in Buenos Aires in 1979, Leandro (or Caste, as his friends call him) always finds different ways to do things, different approaches and different people to work with. 
+    **And it all started early in his career with his first job.** A job he thought would be more about design but turned out to be almost fully about illustration. A job where he went from art rookie to the artist in charge of illustrations that world-famous models were wearing on the catwalk at an international fashion show.
 
 
-    **He claims it is mostly luck, but the truth is he surrounds himself with the most varied talent.** He knows a lot of people and a lot of people know him. That special connection started when he was teaching Tipografía 2 at Universidad de Buenos Aires. Those connections shaped his career.
-
-
-    **“I’m always motivated by others.** By their energy, by the connection built. And when you find that special connection, projects find their own way.”
-
-
-    **Like the time he moved to the U.S. to work on a project based in New York City.** He did not give it much thought. He just did it, not looking back, as he always does.
-
-
-    **Fortunately, he immediately fell in love with the city.**
+    **Yes, he has a habit of doing that... **Whatever he does, he takes it to the next level.
 ---
