@@ -172,4 +172,44 @@ sections:
 
 
     ![Leandro Castelao 21](/assets/img/uploads/castelao-imgs-website-1320x1320px-22.jpg)
+  section5: >-
+    > **Creative freedom is something that I particularly value.
+
+    >
+
+    > * On Macramè Projects
+
+
+    **Because that’s the effect Seba has on every single thing he does.** He makes it bigger, better, and more substantial. He makes it grow. While he grows. And that’s why we have such a great time working together. Macramè needs his kind of spirit, and he needs Macramè’s way of thinking and doing.
+
+
+    **“I think that, in the end, what I value most about a project is creative freedom,** the exchange of ideas with the client or project manager, and respect for one's work. That is something that I particularly value. And that’s what I have with Macramè!”
+
+
+    **That's why one of our first jobs together was key for both of us.** We needed a great illustrator to create an illustration system for the OpenStack Summit. And he wanted to set out as a freelance illustrator. So he developed a series of icons and illustrations that we all loved.
+
+    What was the main theme for all these illustrations? Asia, of course. 
+
+    Coincidence? Fate? Maybe we could all take a moment to think about that. 
+
+
+    `{{space}}`
+
+
+    ![Leandro Castelao 22](/assets/img/uploads/castelao-imgs-website-1320x1320px-23.jpg)
+
+
+    ![Leandro Castelao 23](/assets/img/uploads/castelao-imgs-website-1320x1320px-24.jpg)
+
+
+    ![Leandro Castelao 24](/assets/img/uploads/castelao-imgs-website-1320x1320px-25.jpg)
+
+
+    ![Leandro Castelao 25](/assets/img/uploads/castelao-imgs-website-1320x1320px-26.jpg)
+
+
+    ![Leandro Castelao 26](/assets/img/uploads/castelao-imgs-website-1320x1320px-27.jpg)
+
+
+    ![Leandro Castelao 27](/assets/img/uploads/castelao-imgs-website-1320x1320px-28.jpg)
 ---
