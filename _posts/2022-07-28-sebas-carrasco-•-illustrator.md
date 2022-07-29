@@ -212,4 +212,15 @@ sections:
 
 
     ![Leandro Castelao 27](/assets/img/uploads/castelao-imgs-website-1320x1320px-28.jpg)
+teaching: >
+  2006/2022 — Professor in Graphic Design, University of Buenos Aires, Argentina.
+imstagram: sebas.carrasco
+footer: >-
+  # If you are wondering **how a black belt martial artist went from illustrator
+  to naming expert and back** 
+
+
+  or just want to put Seba's talents to the test on a creative project, just say the word.\
+
+  **We are here!**
 ---
