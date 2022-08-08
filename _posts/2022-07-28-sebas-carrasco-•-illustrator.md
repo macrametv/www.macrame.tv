@@ -4,6 +4,7 @@ permalink: /sebas-carrasco
 title: Sebas Carrasco • Illustrator
 name: The Martial Artist
 subname: with a Black Belt in Illustration
+svglogo: /assets/img/uploads/story-brand-sebas.svg
 colour: "#0CA1A3"
 illustration: /assets/img/uploads/sebascarrasco.gif
 intro_paragraph: "**Sebas Carrasco** or how having different interests might be
@@ -18,11 +19,10 @@ sections:
     Fortunately for him and all of us, this illustrator and graphic designer won’t let you down. He’s the full package. Not only does he have a huge talent for turning people and spaces into complex but at the same time extremely simple illustrations; he also has a great eye for art direction and the perfect balance that allows him to find the perfect strategy and concept for each project.
 
 
-
     `{{space}}`
 
 
-    ![Leandro Castelao](/assets/img/uploads/castelao-imgs-website-1320x1320px-01.jpg)
+    ![Leandro Castelao](/assets/img/uploads/sc_portraits_1.jpg)
 
 
     > **I like to travel alone.**I like the challenge of exposing myself to the world a little more.
@@ -32,19 +32,19 @@ sections:
     > * On Traveling
 
 
-    ![Leandro Castelao 1](/assets/img/uploads/castelao-imgs-website-1320x1320px-02b.jpg)
+    ![Leandro Castelao 1](/assets/img/uploads/sc_portraits_5.jpg)
 
 
-    ![Leandro Castelao 2](/assets/img/uploads/castelao-imgs-website-1320x1320px-03b.jpg)
+    ![Leandro Castelao 2](/assets/img/uploads/sc_portraits_9.jpg)
 
 
-    ![Leandro Castelao 3](/assets/img/uploads/castelao-imgs-website-1320x1320px-04b.jpg)
+    ![Leandro Castelao 3](/assets/img/uploads/sc_portraits_3.jpg)
 
 
     **And it all started early in his career with his first job.** A job he thought would be more about design but turned out to be almost fully about illustration. A job where he went from art rookie to the artist in charge of illustrations that world-famous models were wearing on the catwalk at an international fashion show.
 
 
-    **Yes, he has a habit of doing that... **Whatever he does, he takes it to the next level. 
+    **Yes, he has a habit of doing that...** Whatever he does, he takes it to the next level.
   section2: >-
     > I knew that the studio had a reputation for working with musicians. **I
     accepted without thinking.**
@@ -74,19 +74,22 @@ sections:
     `{{space}}`
 
 
-    ![Leandro Castelao 4](/assets/img/uploads/castelao-imgs-website-1320x1320px-05.jpg)
+    ![Sebas Carrasco 4](/assets/img/uploads/sc_works_6.jpg)
 
 
-    ![Leandro Castelao 5](/assets/img/uploads/castelao-imgs-website-1320x1320px-06.jpg)
+    ![Sebas Carrasco 5](/assets/img/uploads/sc_works_5.jpg)
 
 
-    ![Leandro Castelao 6](/assets/img/uploads/castelao-imgs-website-1320x1320px-07.jpg)
+    ![Sebas Carrasco 6](/assets/img/uploads/sc_works_7.jpg)
 
 
-    ![Leandro Castelao 7](/assets/img/uploads/castelao-imgs-website-1320x1320px-08.jpg)
+    ![Sebas Carrasco 7](/assets/img/uploads/sc_works_8.jpg)
 
 
-    ![Leandro Castelao 8](/assets/img/uploads/castelao-imgs-website-1320x1320px-09.jpg)
+    ![Sebas Carrasco 8](/assets/img/uploads/sc_works_4.jpg)
+
+
+    ![Sebas Carrasco 9](/assets/img/uploads/sc_works_3.jpg)
   section3: >-
     > **It’s hard for me to think about illustration as work.** I enjoy it too
     much..
