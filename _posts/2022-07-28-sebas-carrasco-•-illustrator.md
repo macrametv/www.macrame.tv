@@ -99,7 +99,7 @@ sections:
     > * On Illustration
 
 
-    **That might take us a few years back to when he was in high school and planning what to do next.** Career consultants told him he has capabilities for design and management. Two completely different stories. Two scenarios that are not likely to come together, at least in most cases. Ultimately, two sides of the same coin, as we now know. Time just proved this. Seba had, and has, aptitudes for all that and more.
+    **That might take us a few years back to when he was in high school and planning what to do next.** Career consultants told him he has capabilities for design and management. Two completely different stories. Two scenarios that are not likely to come together, at least in most cases. Ultimately, two sides of the same coin, as we now know. Time just proved this. Sebas had, and has, aptitudes for all that and more.
 
 
     **He can perfectly balance creative thinking with rigorous management.** Teaching design at Universidad de Buenos Aires with a top-level Tae-kwon-do career. And he can even find the time to explore, create and enjoy the art of illustration. Something he is (also) extremely good at. Something he does on a freelance basis, all the time. And he has a lot of fun doing it.
@@ -180,7 +180,7 @@ sections:
     > * On Macramè
 
 
-    **Because that’s the effect Seba has on every single thing he does.** He makes it bigger, better, and more substantial. He makes it grow. While he grows. And that’s why we have such a great time working together. Macramè needs his kind of spirit, and he needs Macramè’s way of thinking and doing.
+    **Because that’s the effect Sebas has on every single thing he does.** He makes it bigger, better, and more substantial. He makes it grow. While he grows. And that’s why we have such a great time working together. Macramè needs his kind of spirit, and he needs Macramè’s way of thinking and doing.
 
 
     **“I think that, in the end, what I value most about a project is creative freedom,** the exchange of ideas with the client or project manager, and respect for one's work. That is something that I particularly value. And that’s what I have with Macramè!”
