@@ -140,7 +140,7 @@ sections:
 
     ![Sebas Carrasco MODO](/assets/img/uploads/sc_works_11.jpg)
   section4: >-
-    > **I am particularly a fan of Japan. I studied the language as a child.
+    > \*\*I am particularly a fan of Japan. I studied the language as a child.
 
     >
 
@@ -156,24 +156,24 @@ sections:
     `{{space}}`
 
 
-    ![Leandro Castelao 16](/assets/img/uploads/castelao-imgs-website-1320x1320px-17.jpg)
+    ![Sebas Carrasco ](/assets/img/uploads/sc_works_27.jpg)
 
 
-    ![Leandro Castelao 17](/assets/img/uploads/castelao-imgs-website-1320x1320px-18.jpg)
+    ![Sebas Carrasco ](/assets/img/uploads/sc_works_25.jpg)
 
 
-    ![Leandro Castelao 18](/assets/img/uploads/castelao-imgs-website-1320x1320px-19.jpg)
+    ![Sebas Carrasco ](/assets/img/uploads/sc_works_19.jpg)
 
 
-    ![Leandro Castelao 19](/assets/img/uploads/castelao-imgs-website-1320x1320px-20.jpg)
+    ![Sebas Carrasco ](/assets/img/uploads/sc_works_20.jpg)
 
 
-    ![Leandro Castelao 20](/assets/img/uploads/castelao-imgs-website-1320x1320px-21.jpg)
+    ![Sebas Carrasco ](/assets/img/uploads/sc_works_21.jpg)
 
 
-    ![Leandro Castelao 21](/assets/img/uploads/castelao-imgs-website-1320x1320px-22.jpg)
+    ![Sebas Carrasco ](/assets/img/uploads/sc_works_22.jpg)
   section5: >-
-    > **Creative freedom is something that I particularly value.
+    > \*\*Creative freedom is something that I particularly value.
 
     >
 
@@ -196,22 +196,28 @@ sections:
     `{{space}}`
 
 
-    ![Leandro Castelao 22](/assets/img/uploads/castelao-imgs-website-1320x1320px-23.jpg)
+    ![Sebas Carrasco OpenInfra Summit ](/assets/img/uploads/sc_works_31.jpg)
 
 
-    ![Leandro Castelao 23](/assets/img/uploads/castelao-imgs-website-1320x1320px-24.jpg)
+    ![Sebas Carrasco OpenInfra Summit ](/assets/img/uploads/sc_works_33.jpg)
 
 
-    ![Leandro Castelao 24](/assets/img/uploads/castelao-imgs-website-1320x1320px-25.jpg)
+    ![Sebas Carrasco OpenInfra Summit ](/assets/img/uploads/sc_works_30.jpg)
 
 
-    ![Leandro Castelao 25](/assets/img/uploads/castelao-imgs-website-1320x1320px-26.jpg)
+    ![Sebas Carrasco OpenInfra Summit ](/assets/img/uploads/sc_works_32.jpg)
 
 
-    ![Leandro Castelao 26](/assets/img/uploads/castelao-imgs-website-1320x1320px-27.jpg)
+    ![Sebas Carrasco OpenInfra Summit ](/assets/img/uploads/sc_works_29.jpg)
 
 
-    ![Leandro Castelao 27](/assets/img/uploads/castelao-imgs-website-1320x1320px-28.jpg)
+    ![Sebas Carrasco OpenInfra Summit ](/assets/img/uploads/sc_works_34.jpg)
+  clients:
+    client: /assets/img/uploads/vodafone_logo.png
+    client2: /assets/img/uploads/claro_logo.png
+    client3: /assets/img/uploads/netflix_logo.png
+    client4: /assets/img/uploads/modo_logo.png
+    client5: /assets/img/uploads/arcor_logo.png
 teaching: >
   2006/2022 — Professor in Graphic Design, University of Buenos Aires, Argentina.
 imstagram: sebas.carrasco
