@@ -25,7 +25,7 @@ sections:
     ![Leandro Castelao](/assets/img/uploads/sc_portraits_1.jpg)
 
 
-    > **I like to travel alone.**I like the challenge of exposing myself to the world a little more.
+    > **I like to travel alone. **I like the challenge of exposing myself to the world a little more.
 
     >
 
@@ -140,7 +140,7 @@ sections:
 
     ![Sebas Carrasco MODO](/assets/img/uploads/sc_works_11.jpg)
   section4: >-
-    > \*\*I am particularly a fan of Japan. I studied the language as a child.
+    > **I am particularly a fan of Japan.** I studied the language as a child.
 
     >
 
