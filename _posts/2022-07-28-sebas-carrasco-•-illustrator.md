@@ -16,7 +16,7 @@ sections:
     when you have a look at his portfolio. 
 
 
-    Fortunately for him and all of us, this illustrator and graphic designer won’t let you down. He’s the full package. Not only does he have a huge talent for turning people and spaces into complex but at the same time extremely simple illustrations; he also has a great eye for art direction and the perfect balance that allows him to find the perfect strategy and concept for each project.
+    **Fortunately for him and all of us, this illustrator and graphic designer won’t let you down.** He’s the full package. Not only does he have a huge talent for turning people and spaces into complex but at the same time extremely simple illustrations; he also has a great eye for art direction and the perfect balance that allows him to find the perfect strategy and concept for each project.
 
 
     `{{space}}`
