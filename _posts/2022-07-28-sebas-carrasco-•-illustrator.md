@@ -177,7 +177,7 @@ sections:
 
     >
 
-    > * On Macramè Projects
+    > * On Macramè
 
 
     **Because that’s the effect Seba has on every single thing he does.** He makes it bigger, better, and more substantial. He makes it grow. While he grows. And that’s why we have such a great time working together. Macramè needs his kind of spirit, and he needs Macramè’s way of thinking and doing.
