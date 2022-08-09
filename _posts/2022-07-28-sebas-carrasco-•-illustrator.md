@@ -173,7 +173,7 @@ sections:
 
     ![Sebas Carrasco ](/assets/img/uploads/sc_works_22.jpg)
   section5: >-
-    > \*\*Creative freedom is something that I particularly value.
+    > **Creative freedom is something that I particularly value.**
 
     >
 
