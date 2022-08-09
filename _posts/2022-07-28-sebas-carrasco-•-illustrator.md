@@ -25,7 +25,7 @@ sections:
     ![Leandro Castelao](/assets/img/uploads/sc_portraits_1.jpg)
 
 
-    > **I like to travel alone. **I like the challenge of exposing myself to the world a little more.
+    > **I like to travel alone.** I like the challenge of exposing myself to the world a little more.
 
     >
 
