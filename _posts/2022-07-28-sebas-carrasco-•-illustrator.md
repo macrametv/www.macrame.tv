@@ -123,25 +123,22 @@ sections:
     **An example? Sure.** 
 
 
-    ![Leandro Castelao 9](/assets/img/uploads/castelao-imgs-website-1320x1320px-10.jpg)
+    ![Sebas Carrasco Netflix](/assets/img/uploads/sc_works_18.jpg)
 
 
-    ![Leandro Castelao 10](/assets/img/uploads/castelao-imgs-website-1320x1320px-11.jpg)
+    ![Sebas Carrasco Netflix](/assets/img/uploads/sc_works_16.jpg)
 
 
-    ![Leandro Castelao 11](/assets/img/uploads/castelao-imgs-website-1320x1320px-12.jpg)
+    ![Sebas Carrasco Netflix](/assets/img/uploads/sc_works_17.jpg)
 
 
-    ![Leandro Castelao 12](/assets/img/uploads/castelao-imgs-website-1320x1320px-13.jpg)
+    ![Sebas Carrasco MODO](/assets/img/uploads/sc_works_14.jpg)
 
 
-    ![Leandro Castelao 13](/assets/img/uploads/castelao-imgs-website-1320x1320px-14.jpg)
+    ![Sebas Carrasco MODO](/assets/img/uploads/sc_works_12.jpg)
 
 
-    ![Leandro Castelao 14](/assets/img/uploads/castelao-imgs-website-1320x1320px-29.jpg)
-
-
-    ![Leandro Castelao 15](/assets/img/uploads/castelao-imgs-website-1320x1320px-16.jpg)
+    ![Sebas Carrasco MODO](/assets/img/uploads/sc_works_11.jpg)
   section4: >-
     > **I am particularly a fan of Japan. I studied the language as a child.
 
