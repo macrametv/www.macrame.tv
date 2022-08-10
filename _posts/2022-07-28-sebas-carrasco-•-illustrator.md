@@ -83,13 +83,13 @@ sections:
     ![Sebas Carrasco 6](/assets/img/uploads/sc_works_6_dorso.jpg)
 
 
-    ![Sebas Carrasco 7](/assets/img/uploads/sc_works_6b.jpg)
+    ![Sebas Carrasco 7](/assets/img/uploads/sc_works_3.jpg)
 
 
     ![Sebas Carrasco 8](/assets/img/uploads/sc_works_4.jpg)
 
 
-    ![Sebas Carrasco 9](/assets/img/uploads/sc_works_3.jpg)
+    ![Sebas Carrasco 9](/assets/img/uploads/sc_works_6b.jpg)
   section3: >-
     > **It’s hard for me to think about illustration as work.** I enjoy it too
     much..
