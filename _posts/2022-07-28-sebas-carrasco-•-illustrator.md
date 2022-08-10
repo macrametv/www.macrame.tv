@@ -226,7 +226,7 @@ footer: >-
   to naming expert and back** 
 
 
-  or just want to put Seba's talents to the test on a creative project, just say the word.\
+  or just want to put Sebas' talents to the test on a creative project, just say the word.\
 
   **We are here!**
 ---
