@@ -80,10 +80,10 @@ sections:
     ![Sebas Carrasco 5](/assets/img/uploads/sc_works_5.jpg)
 
 
-    ![Sebas Carrasco 6](/assets/img/uploads/sc_works_7.jpg)
+    ![Sebas Carrasco 6](/assets/img/uploads/sc_works_6_dorso.jpg)
 
 
-    ![Sebas Carrasco 7](/assets/img/uploads/sc_works_8.jpg)
+    ![Sebas Carrasco 7](/assets/img/uploads/sc_works_6b.jpg)
 
 
     ![Sebas Carrasco 8](/assets/img/uploads/sc_works_4.jpg)
@@ -162,10 +162,10 @@ sections:
     ![Sebas Carrasco ](/assets/img/uploads/sc_works_25.jpg)
 
 
-    ![Sebas Carrasco ](/assets/img/uploads/sc_works_19.jpg)
+    ![Sebas Carrasco ](/assets/img/uploads/sc_works_starwars_1.jpg)
 
 
-    ![Sebas Carrasco ](/assets/img/uploads/sc_works_20.jpg)
+    ![Sebas Carrasco ](/assets/img/uploads/sc_works_starwars_2.jpg)
 
 
     ![Sebas Carrasco ](/assets/img/uploads/sc_works_21.jpg)
