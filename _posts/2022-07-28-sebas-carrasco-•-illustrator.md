@@ -22,7 +22,7 @@ sections:
     `{{space}}`
 
 
-    ![Leandro Castelao](/assets/img/uploads/sc_portraits_1.jpg)
+    ![Sebas Carrasco](/assets/img/uploads/sc_portraits_1.jpg)
 
 
     > **I like to travel alone.** I like the challenge of exposing myself to the world a little more.
@@ -32,13 +32,13 @@ sections:
     > * On Traveling
 
 
-    ![Leandro Castelao 1](/assets/img/uploads/sc_portraits_5.jpg)
+    ![Sebas Carrasco Japan](/assets/img/uploads/sc_portraits_5.jpg)
 
 
-    ![Leandro Castelao 2](/assets/img/uploads/sc_portraits_9.jpg)
+    ![Sebas Carrasco Japan 2](/assets/img/uploads/sc_portraits_9.jpg)
 
 
-    ![Leandro Castelao 3](/assets/img/uploads/sc_portraits_3.jpg)
+    ![Sebas Carrasco Studio](/assets/img/uploads/sc_portraits_3.jpg)
 
 
     **And it all started early in his career with his first job.** A job he thought would be more about design but turned out to be almost fully about illustration. A job where he went from art rookie to the artist in charge of illustrations that world-famous models were wearing on the catwalk at an international fashion show.
