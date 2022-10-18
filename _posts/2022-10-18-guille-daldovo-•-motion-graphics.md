@@ -57,4 +57,49 @@ sections:
 
 
     **It might sound crazy,** but the craziest thing is that most of his life and groundbreaking opportunities came from traveling.
+  section2: >
+    > "It’s not the style that makes the difference: **it's the actual font!**"
+
+    >
+
+    > * On Typography
+
+
+    **She started taking classes on type design and calligraphy**, shaping her career based on her love for letters. And ​now she sells her own fonts.
+
+
+    **Inspired by people, music and movies,** this typeface artist, calligrapher and designer from Argentina has given several workshops on experimental type design, calligraphy and monograms.
+
+
+    **She has been a regular at the Tipos Latinos Argentina biennial** since 2010, and her Síncopa Font has been selected for other renowned type design exhibitions such as Pangramme.
+
+
+    **Is her talent fueled by *mate*, wine, food and the jaded Argentine mindset?**\
+
+    Maybe. Maybe not.
+
+
+    But one thing's for sure: **Fer's completely different approach to design** can be attributed to her love for letters and expertise.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+
+
+    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+
+
+    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+
+
+    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+
+
+    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+  clientLabel: Clients he has worked with
 ---
