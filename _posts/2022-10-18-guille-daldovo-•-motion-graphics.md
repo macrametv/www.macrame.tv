@@ -9,15 +9,18 @@ intro_paragraph: "**Guille Daldovo**, or how the only way to get where you want
   to be is through a never-ending journey."
 sections:
   section: >-
-    Once upon a time, there was a little girl who dreamed of being a figure
-    skater. It wasn't so much about the skating as the shapes and figures that
-    drew her in.
+    Guille Daldovo was born in Buenos Aires, Argentina, but that's just a
+    coincidence. A small point in a vast timeline of different countries and
+    cities. He was born there, but he traveled all around the world. And he
+    still does. Because he is always moving, figuratively and literally. 
 
 
-    **Precise lines and beautiful shapes** are two things figure skating and design share. After going to see Castles on Ice,  she decided that figure skating wasn't for her. She still wanted to create shapes, but in a slightly different way.
+    **And movement is what he does.**
+
+    What he loves.
 
 
-    **In high school, she started thinking she would go to college for design**. At first, she was interested in industrial design​, because ​“you create actual things."
+    **That’s why this graphic designer quickly found his calling when he first started working at an animation studio, while still in college.** He realized animation was his thing and focused on making things move. And that’s the perfect metaphor for his entire life. That’s what rules every single one of his choices.
 
 
     `{{space}}`
@@ -26,11 +29,11 @@ sections:
     ![](/assets/img/uploads/fer-cozzi-portrait.jpg)
 
 
-    > "You create **actual things**."
+    > "I just saw they were working on some animation projects and it was like some kind of flash. **Love at first sight**."
 
     >
 
-    > * On Design
+    > * On His First Move
 
 
     ![](/assets/img/uploads/fer-cozzi-studio-e.jpg)
@@ -45,8 +48,11 @@ sections:
     `{{space}}`
 
 
-    **At some point, something happened. One of her high school teachers taught a class on fonts**. Fer had no idea you could make fonts for a living. In fact, she hadn’t even considered graphic design until then. But the shapes were still on her mind so she decided to give it a try.
+    **“I just saw they were working on some animation projects and it was like some kind of flash.** Love at first sight.”
 
 
-    **And surprise, surprise... she loved it.** Everything about it. She loved the classes on graphic design, the ways of thinking about design and actually designing. She loved every single letter, every single family of fonts, and that made her see them from a completely different perspective.
+    **So that was it.** That was all he needed to start moving. A moving story that took him almost everywhere. Like in 2006 when he left his job and college and set sail on a quest that took him from Argentina to Costa Rica, stopping in every single country in between. 
+
+
+    **It might sound crazy, but the craziest thing is that most of his life and groundbreaking opportunities came from traveling.**
 ---
