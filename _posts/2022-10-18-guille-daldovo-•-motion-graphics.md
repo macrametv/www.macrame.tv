@@ -58,7 +58,7 @@ sections:
 
 
     **It might sound crazy,** but the craziest thing is that most of his life and groundbreaking opportunities came from traveling.
-  section2: >
+  section2: >-
     > "A week later, I was there **working as an art director for one of the top
     agencies in Costa Rica**"
 
@@ -82,22 +82,22 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+    ![](/assets/img/uploads/la-merce-01.jpg)
 
 
-    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+    ![](/assets/img/uploads/la-merce-02.jpg)
 
 
-    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+    ![](/assets/img/uploads/damm-02.gif)
 
 
-    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+    ![](/assets/img/uploads/4yfn_01.jpg)
 
 
-    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+    ![](/assets/img/uploads/4yfn_02.jpg)
 
 
-    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
+    ![](/assets/img/uploads/4yfn-mtk.gif)
   clientLabel: Clients he has worked with
   section3: >-
     > "**I love diving.I love the sea.** I think it’s a whole different planet.
