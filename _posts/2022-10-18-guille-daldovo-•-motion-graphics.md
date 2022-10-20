@@ -140,7 +140,42 @@ sections:
 
 
     ![](/assets/img/uploads/nevada-mtk.gif)
-  section4: ""
+  section4: >-
+    > "When you work with people you admire, **you're motivated to thrive**"
+
+    >
+
+    > * On Collaboration
+
+
+    **Because finding inspiration is not easy. **But it is not hard either for a person who is used to looking for new pathways all the time.
+
+
+    **And that's what led to his freelance life.** A life full of opportunities, and risks, of course. But a life full of freedom. Freedom to do, to try, to move around. And that's what Guille's career is all about. Freedom. Movement. Taking risks. And that's why a freelance life suits him so well. A freelance life that lets him collaborate with friends on different projects. Inspiring them and also being inspired by them. Like both times he worked with Francisco Miranda.
+
+
+    **Together they've developed two amazing projects:** *Genesis*, an animated short film that won the 4th Pictoplasma Residency Award in 2013, and *Fila* by Jay Funk, a powerful TVC combining animation, motion graphics, and illustration with actual film footage.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/genesis-01.jpg)
+
+
+    ![](/assets/img/uploads/genesis-02.jpg)
+
+
+    ![](/assets/img/uploads/genesis-mtk.gif)
+
+
+    ![](/assets/img/uploads/fila-02.jpg)
+
+
+    ![](/assets/img/uploads/fila-01.jpg)
+
+
+    ![](/assets/img/uploads/fila-mtk-01.gif)
   section5: >-
     > "**I love working from different places.**  I think that's the beauty of
     being a freelancer"
