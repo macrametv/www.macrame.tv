@@ -5,6 +5,7 @@ title: Guille Daldovo • Motion Graphics
 name: The Go-Getter
 subname: Who is Always in Motion
 colour: "#FFE200"
+illustration: /assets/img/uploads/guille-daldovo-motion-designer.jpg
 intro_paragraph: "**Guille Daldovo**, or how the only way to get where you want
   to be is through a never-ending journey."
 sections:
@@ -98,4 +99,44 @@ sections:
 
     ![](/assets/img/uploads/barbarella-type-stationary.jpg)
   clientLabel: Clients he has worked with
+  section3: >-
+    > "**I love diving.I love the sea.** I think it’s a whole different planet.
+    Hidden inside our planet"
+
+    >
+
+    > * On Inspiration
+
+
+    **But his inspiration is not to be found only in different countries' soils.** He goes deeper than that. Literally. He finds most of his inspiration below mother earth. That’s why he loves diving. The undersea world has a unique beauty and charm for him. 
+
+
+    **“I love diving.** I love the sea. I think it’s a whole different planet. Hidden inside our planet.”
+
+
+    **And that's why he would have pursued a career in Ocean Studies** if he hadn't been a Graphic Designer and Animator. He loves the water. And water is part of his life. He finds himself comfortable there, like every single morning when he wakes up at 6 am to swim 2000 meters. That changes his mornings. That set the perfect mood to start his day. That inspires him on a regular basis. And that helps him work on personal projects when he has the time. 
+
+
+    **Since he moved to Barcelona,** he tries to work on one personal project a year. And he does so. Personal projects that aren't just in his portfolio. Those are the base of all his art-based work. Of all his festival entries. Like his project “*Nevada*”, a short animated film based on the classic (and world-famous) Argentinian graphic novel “*El Eternauta*” by Héctor Germán Oesterheld and Francisco Solano López.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/tomasa-gabriella-type-composition-postcard.jpg)
+
+
+    ![](/assets/img/uploads/tomasa-type-font-composition.jpg)
+
+
+    ![](/assets/img/uploads/sincopa-type-letterpress-postcard.jpg)
+
+
+    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+
+
+    ![](/assets/img/uploads/helga-type-condensed-logo.jpg)
+
+
+    ![](/assets/img/uploads/barbarella-type-stationary.jpg)
 ---
