@@ -4,6 +4,7 @@ permalink: /guille-daldovo
 title: Guille Daldovo • Motion Graphics
 name: The Go-Getter
 subname: Who is Always in Motion
+svglogo: /assets/img/uploads/story-brand-guille.svg
 colour: "#FFE200"
 illustration: /assets/img/uploads/guille-daldovo-motion-designer.jpg
 intro_paragraph: "**Guille Daldovo**, or how the only way to get where you want
