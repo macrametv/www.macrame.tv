@@ -100,7 +100,7 @@ sections:
     ![](/assets/img/uploads/4yfn-mtk.gif)
   clientLabel: Clients he has worked with
   section3: >-
-    > "**I love diving.I love the sea.** I think it’s a whole different planet.
+    > "**I love diving. I love the sea.** I think it’s a whole different planet.
     Hidden inside our planet"
 
     >
