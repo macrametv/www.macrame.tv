@@ -215,4 +215,10 @@ sections:
 
 
     ![](/assets/img/uploads/geox-neon.gif)
+  clients:
+    client: /assets/img/uploads/geox.png
+    client2: /assets/img/uploads/mbenz.png
+    client3: /assets/img/uploads/fila.png
+    client4: /assets/img/uploads/estrelladamm.png
+    client5: /assets/img/uploads/mini.png
 ---
