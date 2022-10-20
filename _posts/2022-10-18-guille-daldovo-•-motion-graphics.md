@@ -58,28 +58,24 @@ sections:
 
     **It might sound crazy,** but the craziest thing is that most of his life and groundbreaking opportunities came from traveling.
   section2: >
-    > "It’s not the style that makes the difference: **it's the actual font!**"
+    > "A week later, I was there **working as an art director for one of the top
+    agencies in Costa Rica**"
 
     >
 
-    > * On Typography
+    > * On Traveling
 
 
-    **She started taking classes on type design and calligraphy**, shaping her career based on her love for letters. And ​now she sells her own fonts.
+    **“There I was, selling bags on the street in Bolivia,** when a friend called me and said: Come to Costa Rica; I have a job for you. My answer: give me a week to figure it out. A week later, I was there working as an art director for one of the top agencies in Costa Rica”. 
 
 
-    **Inspired by people, music and movies,** this typeface artist, calligrapher and designer from Argentina has given several workshops on experimental type design, calligraphy and monograms.
+    **Or even the time when he had to render a film in a freezer!** Yes, exactly what it sounds like. He was showcasing an animated movie at a well-known festival, and it was so heavy that his computer kept overheating repeatedly. So he put it in the freezer to keep it cool and get the film rendered. 
 
 
-    **She has been a regular at the Tipos Latinos Argentina biennial** since 2010, and her Síncopa Font has been selected for other renowned type design exhibitions such as Pangramme.
+    **“Can you imagine?** My computer with my showcased work, right next to the beer that was going to be served during the opening”.
 
 
-    **Is her talent fueled by *mate*, wine, food and the jaded Argentine mindset?**\
-
-    Maybe. Maybe not.
-
-
-    But one thing's for sure: **Fer's completely different approach to design** can be attributed to her love for letters and expertise.
+    **That’s what comes from a lifetime of traveling.** Stories. Experiences. And that’s what Guille is full of. That’s why he has this ability to tell stories, to engage with the viewers. Because this go-getter works hard for his dreams, but he travels even harder. And one might say traveling is what inspires him, what creates all these different and incredible scenarios that get straight from his head to the screen.
 
 
     `{{space}}`
