@@ -176,46 +176,7 @@ sections:
 
 
     ![](/assets/img/uploads/fila-mtk-01.gif)
-  section5: >-
-    > "**I love working from different places.**  I think that's the beauty of
-    being a freelancer"
-
-    >
-
-    > * On Macramè
-
-
-    **And that’s also why he finds himself so comfortable working with Macramè as well.** It’s where he found a way of thinking and doing that lets him combine both his passions: animation and traveling.
-
-
-    **“I love working from different places.** I think that's the beauty of being a freelancer. That’s the beauty of collaborating with Macramé. I can work from anywhere, anytime. I even worked for Macramé when I was in Thailand. And that’s awesome!”
-
-
-    **So it is safe to assume he will keep traveling the world.** Safe to assume that he will keep enjoying his freelance life and making the most out of every project and journey. What it’s not so safe to assume is if he will ever get to his dream destination: Antarctica.
-
-
-    **I think we should all keep following his steps and see how far he can go.** 
-
-
-    `{{space}}`
-
-
-    ![](/assets/img/uploads/geox-kids-01.jpg)
-
-
-    ![](/assets/img/uploads/geox-kids-02.jpg)
-
-
-    ![](/assets/img/uploads/geox-kids-mtk.gif)
-
-
-    ![](/assets/img/uploads/geox-neon-02.jpg)
-
-
-    ![](/assets/img/uploads/geox-neon-01.jpg)
-
-
-    ![](/assets/img/uploads/geox-neon.gif)
+  section5: ""
   clients:
     client: /assets/img/uploads/geox.png
     client2: /assets/img/uploads/mbenz.png
