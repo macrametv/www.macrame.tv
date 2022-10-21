@@ -6,7 +6,7 @@ name: The Go-Getter
 subname: Who is Always in Motion
 svglogo: /assets/img/uploads/story-brand-guille.svg
 colour: "#FFE200"
-illustration: /assets/img/uploads/guille-daldovo-motion-designer.jpg
+illustration: /assets/img/uploads/guille-daldovo_v1.gif
 intro_paragraph: "**Guille Daldovo**, or how the only way to get where you want
   to be is through a never-ending journey."
 sections:
