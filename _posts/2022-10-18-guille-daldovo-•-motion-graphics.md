@@ -176,11 +176,12 @@ sections:
 
     ![](/assets/img/uploads/fila-mtk-01.gif)
   section5: >-
-    > "When you work with people you admire, **you're motivated to thrive**"
+    > "**I love working from different places. ** I think that's the beauty of
+    being a freelancer."
 
     >
 
-    > * On Collaboration
+    > * On Macramè
 
 
     **Because finding inspiration is not easy.** But it is not hard either for a person who is used to looking for new pathways all the time.
