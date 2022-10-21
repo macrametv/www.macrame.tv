@@ -22,7 +22,7 @@ sections:
     What he loves.
 
 
-    **That’s why this graphic designer quickly found his calling when he first started working at an animation studio, while still in college.** He realized animation was his thing and focused on making things move. And that’s the perfect metaphor for his entire life. That’s what rules every single one of his choices.
+    **That’s why this graphic designer quickly found his calling** when he first started working at an animation studio, while still in college. He realized animation was his thing and focused on making things move. And that’s the perfect metaphor for his entire life. That’s what rules every single one of his choices.
 
 
     `{{space}}`
@@ -51,7 +51,6 @@ sections:
 
     `{{space}}`
 
-
     **“I just saw they were working on some animation projects and it was like some kind of flash.** Love at first sight.”
 
 
@@ -60,7 +59,7 @@ sections:
 
     **It might sound crazy,** but the craziest thing is that most of his life and groundbreaking opportunities came from traveling.
   section2: >-
-    > "A week later, I was there **working as an art director for one of the top
+    > "A week later, I was there working as an art director for **one of the top
     agencies in Costa Rica**"
 
     >
@@ -176,7 +175,42 @@ sections:
 
 
     ![](/assets/img/uploads/fila-mtk-01.gif)
-  section5: ""
+  section5: >-
+    > "When you work with people you admire, **you're motivated to thrive**"
+
+    >
+
+    > * On Collaboration
+
+
+    **Because finding inspiration is not easy.** But it is not hard either for a person who is used to looking for new pathways all the time.
+
+
+    **And that's what led to his freelance life.** A life full of opportunities, and risks, of course. But a life full of freedom. Freedom to do, to try, to move around. And that's what Guille's career is all about. Freedom. Movement. Taking risks. And that's why a freelance life suits him so well. A freelance life that lets him collaborate with friends on different projects. Inspiring them and also being inspired by them. Like both times he worked with Francisco Miranda.
+
+
+    **Together they've developed two amazing projects:** *Genesis*, an animated short film that won the 4th Pictoplasma Residency Award in 2013, and *Fila* by Jay Funk, a powerful TVC combining animation, motion graphics, and illustration with actual film footage.
+
+
+    `{{space}}`
+
+
+    ![](/assets/img/uploads/geox-kids-01.jpg)
+
+
+    ![](/assets/img/uploads/geox-kids-02.jpg)
+
+
+    ![](/assets/img/uploads/geox-kids-mtk.gif)
+
+
+    ![](/assets/img/uploads/geox-neon-02.jpg)
+
+
+    ![](/assets/img/uploads/geox-neon-01.jpg)
+
+
+    ![](/assets/img/uploads/geox-neon.gif)
   clients:
     client: /assets/img/uploads/geox.png
     client2: /assets/img/uploads/mbenz.png
