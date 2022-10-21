@@ -224,13 +224,8 @@ sections:
     client5: /assets/img/uploads/mini.png
 working: Motion Graphics, Animator, Art Director, 3D Art
 living: Spain
-awards: |
-  Vimeo Staff Picks
-  Pictoplasma 2013 / 2020 / 2022
-  Glas Animation Festival
-  BitBang Festival
-  Animest
-  Festival de Cine Austral
+awards: Vimeo Staff Picks. Pictoplasma 2013 / 2020 / 2022. Glas Animation
+  Festival. BitBang Festival. Animest. Festival de Cine Austral
 website: malevo.tv
 imstagram: malevo.tv
 footer: >-
