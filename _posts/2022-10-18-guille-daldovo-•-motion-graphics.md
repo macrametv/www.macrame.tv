@@ -190,7 +190,10 @@ sections:
     **"I love working from different places.** I think that's the beauty of being a freelancer. That’s the beauty of collaborating with Macramé. I can work from anywhere, anytime. I even worked for Macramé when I was in Thailand. And that’s awesome!"
 
 
-    **Together they've developed two amazing projects:** *Genesis*, an animated short film that won the 4th Pictoplasma Residency Award in 2013, and *Fila* by Jay Funk, a powerful TVC combining animation, motion graphics, and illustration with actual film footage.
+    **So it is safe to assume he will keep traveling the world.** Safe to assume that he will keep enjoying his freelance life and making the most out of every project and journey. What it’s not so safe to assume is if he will ever get to his dream destination: Antarctica.
+
+
+    **I think we should all keep following his steps and see how far he can go.**
 
 
     `{{space}}`
