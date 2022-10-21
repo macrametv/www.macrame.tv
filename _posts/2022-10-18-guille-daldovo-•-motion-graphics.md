@@ -176,7 +176,8 @@ sections:
 
     ![](/assets/img/uploads/fila-mtk-01.gif)
   section5: >-
-    > "When you work with people you admire, **you're motivated to thrive**"
+    > "**I love working from different places.** I think that's the beauty of
+    being a freelancer"
 
     >
 
