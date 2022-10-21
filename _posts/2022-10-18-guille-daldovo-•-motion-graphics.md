@@ -141,8 +141,14 @@ sections:
 
     ![](/assets/img/uploads/nevada-mtk.gif)
   section4: >-
-    **Because finding inspiration is not easy. **But it is not hard either for a
-    person who is used to looking for new pathways all the time.
+    > "When you work with people you admire, **you're motivated to thrive**"
+
+    >
+
+    > * On Collaboration
+
+
+    **Because finding inspiration is not easy.** But it is not hard either for a person who is used to looking for new pathways all the time.
 
 
     **And that's what led to his freelance life.** A life full of opportunities, and risks, of course. But a life full of freedom. Freedom to do, to try, to move around. And that's what Guille's career is all about. Freedom. Movement. Taking risks. And that's why a freelance life suits him so well. A freelance life that lets him collaborate with friends on different projects. Inspiring them and also being inspired by them. Like both times he worked with Francisco Miranda.
