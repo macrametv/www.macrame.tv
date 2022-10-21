@@ -141,10 +141,16 @@ sections:
 
     ![](/assets/img/uploads/nevada-mtk.gif)
   section4: >-
-    **Together they've developed two amazing projects:** *Genesis*, an animated
-    short film that won the 4th Pictoplasma Residency Award in 2013, and *Fila*
-    by Jay Funk, a powerful TVC combining animation, motion graphics, and
-    illustration with actual film footage.
+    **And that's what led to his freelance life.** A life full of opportunities,
+    and risks, of course. But a life full of freedom. Freedom to do, to try, to
+    move around. And that's what Guille's career is all about. Freedom.
+    Movement. Taking risks. And that's why a freelance life suits him so well. A
+    freelance life that lets him collaborate with friends on different projects.
+    Inspiring them and also being inspired by them. Like both times he worked
+    with Francisco Miranda.
+
+
+    **Together they've developed two amazing projects:** *Genesis*, an animated short film that won the 4th Pictoplasma Residency Award in 2013, and *Fila* by Jay Funk, a powerful TVC combining animation, motion graphics, and illustration with actual film footage.
 
 
     `{{space}}`
