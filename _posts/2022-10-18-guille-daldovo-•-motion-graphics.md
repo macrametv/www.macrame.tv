@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /guille-daldovo
-title: Guille Daldovo • Motion Graphics
+title: Guille Daldovo • Motion Graphic
 name: The Go-Getter
 subname: Who is Always in Motion
 svglogo: /assets/img/uploads/story-brand-guille.svg
@@ -50,6 +50,7 @@ sections:
 
 
     `{{space}}`
+
 
     **“I just saw they were working on some animation projects and it was like some kind of flash.** Love at first sight.”
 
@@ -221,4 +222,21 @@ sections:
     client3: /assets/img/uploads/fila.png
     client4: /assets/img/uploads/estrelladamm.png
     client5: /assets/img/uploads/mini.png
+awards: |
+  Vimeo Staff Picks
+  Pictoplasma 2013 / 2020 / 2022
+  Glas Animation Festival
+  BitBang Festival
+  Animest
+  Festival de Cine Austral
+website: malevo.tv
+imstagram: malevo.tv
+footer: >-
+  # If you want to **explore the uncharted paths of animation guided by
+  Guille,** 
+
+
+  or just want to see how far this go-getter could take your project, just say the word.\
+
+  **We are here!**
 ---
