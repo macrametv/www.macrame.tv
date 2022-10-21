@@ -187,7 +187,7 @@ sections:
     **And that’s also why he finds himself so comfortable working with Macramè as well.** It’s where he found a way of thinking and doing that lets him combine both his passions: animation and traveling.
 
 
-    **And that's what led to his freelance life.** A life full of opportunities, and risks, of course. But a life full of freedom. Freedom to do, to try, to move around. And that's what Guille's career is all about. Freedom. Movement. Taking risks. And that's why a freelance life suits him so well. A freelance life that lets him collaborate with friends on different projects. Inspiring them and also being inspired by them. Like both times he worked with Francisco Miranda.
+    **"I love working from different places.** I think that's the beauty of being a freelancer. That’s the beauty of collaborating with Macramé. I can work from anywhere, anytime. I even worked for Macramé when I was in Thailand. And that’s awesome!"
 
 
     **Together they've developed two amazing projects:** *Genesis*, an animated short film that won the 4th Pictoplasma Residency Award in 2013, and *Fila* by Jay Funk, a powerful TVC combining animation, motion graphics, and illustration with actual film footage.
