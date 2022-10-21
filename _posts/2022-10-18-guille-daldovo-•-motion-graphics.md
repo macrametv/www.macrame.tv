@@ -222,6 +222,8 @@ sections:
     client3: /assets/img/uploads/fila.png
     client4: /assets/img/uploads/estrelladamm.png
     client5: /assets/img/uploads/mini.png
+working: Motion Graphics, Animator, Art Director, 3D Art
+living: Spain
 awards: |
   Vimeo Staff Picks
   Pictoplasma 2013 / 2020 / 2022
