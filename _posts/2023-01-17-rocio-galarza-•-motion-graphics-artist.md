@@ -227,4 +227,16 @@ sections:
 
 
     **Like when they both meet at the dance studio.**
+  clientLabel: BRANDS SHE HAS WORKED WITH
+working: Motion Graphics, Illustration, Graphic Searcher
+living: Argentina
+website: rociogalarza.com
+imstagram: rociogalarza__
+footer: >-
+  # If you want to **dive deep into the mind of this multi-talented artist**
+
+
+  or want to add one of her songs to your playlist on Spotify, just say the word.\
+
+  **We are here!**
 ---
