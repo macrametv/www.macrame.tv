@@ -59,7 +59,7 @@ sections:
 
     >
 
-    > * On Her Process
+    > * On Her Performance
 
 
     **“And that shapes and inspires everything I do.”**
@@ -71,7 +71,7 @@ sections:
     **They can work on a design project for Netflix** or compose a song about fire and anxiety. 
 
 
-    **They would enjoy working with tons of limitations on colours and shapes** to create a motion film to present Museo Moderno of Buenos Aires’s new font.
+    **They would enjoy working with tons of limitations** on colours and shapes to create a motion film to present Museo Moderno of Buenos Aires’s new font.
 
 
     ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
@@ -131,11 +131,11 @@ sections:
 
     ![](/assets/img/uploads/dilisio-sensart-02.jpg)
   section4: >-
-    > I never have a roadmap to get to a specific place.**
+    > **I never have a roadmap** to get to a specific place.
 
     >
 
-    > * On Her Process
+    > * On The Key to Success
 
 
     **But they do have one thing in common.** They are not scared of any project. They might know it by heart, or have never heard a word of it, but they will always take chances and go for it. Like the time Ro was asked to work on an Adidas project for Copa América.
