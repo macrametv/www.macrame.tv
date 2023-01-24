@@ -131,7 +131,7 @@ sections:
 
     ![](/assets/img/uploads/dilisio-sensart-02.jpg)
   section4: >-
-    > I never have  a roadmap to get  to a specific place.**
+    > I never have a roadmap to get to a specific place.**
 
     >
 
