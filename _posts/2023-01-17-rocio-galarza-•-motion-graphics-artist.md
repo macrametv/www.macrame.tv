@@ -53,4 +53,41 @@ sections:
 
 
     **What a perfect combination these two creatives might be.** What a perfect combination, they are.
+  section2: >-
+    > I have a **very musical approach to design** and a very designed approach
+    to music.
+
+    >
+
+    > * On His Direction
+
+
+    **“And that shapes and inspires everything I do.”  
+
+
+    **These two unstoppable creatives find their way to think,** feel, create and live together. They share their desk, their musical instruments, and their skin. 
+
+
+    **They can work on a design project for Netflix** or compose a song about fire and anxiety.   
+
+
+    **They would enjoy working with tons of limitations on colours and shapes** to create a motion film to present Museo Moderno of Buenos Aires’s new font.
+
+
+    ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-editorial-tato-2.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-deck-editorial.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-deck-editorial-inside.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-editorial-domus.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-editorial-domus-photo.jpg)
 ---
