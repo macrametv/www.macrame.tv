@@ -130,4 +130,40 @@ sections:
 
 
     ![](/assets/img/uploads/dilisio-sensart-02.jpg)
+  section4: >-
+    > I never have  a roadmap to get  to a specific place.**
+
+    >
+
+    > * On Her Process
+
+
+    **But they do have one thing in common.** They are not scared of any project. They might know it by heart, or have never heard a word of it, but they will always take chances and go for it. Like the time Ro was asked to work on an Adidas project for Copa América.
+
+
+    **“I know nothing about football.** And I had this huge motion project in which I had to create an animation for the Argentinean National Football Team and one for the Colombian one. So I bought a beer, played some tango, and started working on it. A few days later I did the same for Colombia. Different music and drink. Same process.”
+
+
+    **Maybe that’s why both of them meet through dancing.** A truly liberating exercise in which the passion-focused musician and the pixel-perfect designer can have fun, relax, experiment and realize they share more than a heart and a mind. They share an impulse. A way of thinking, doing, and creating.
+
+
+    **“I never have a roadmap to get to a specific place.** I love the idea of surprise guiding my process and inspiring me. I just set limits here and there and work based on that. That’s a system I use for everything I do.”
+
+
+    ![](/assets/img/uploads/dilisio-laisne-book.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-laisne-editorial-1.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-laisne-editorial.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-alricgalindez.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-alricgalindez-open.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-alricgalindez-web.jpg)
 ---
