@@ -53,42 +53,45 @@ sections:
 
 
     **What a perfect combination these two creatives might be.** What a perfect combination, they are.
-  section2: >-
-    > I have a **very musical approach to design** and a very designed approach
-    to music.
+  section2: ""
+  section3: >-
+    > My best way of working is when **I'm in contact with and open to
+    surprise.**
 
     >
 
     > * On Her Process
 
 
-    **“And that shapes and inspires everything I do.”  **
+    **Or they would even jump into the absolute freedom of Arriba,** a personal project involving shooting, editing, choreography, costume design, dancing, and more.
 
 
-    **These two unstoppable creatives find their way to think,** feel, create and live together. They share their desk, their musical instruments, and their skin. 
+    **“I feel like I'm kind of a “graphic searcher”**, continually oscillating between experimentation and structure. My best way of working is when I'm in contact with and open to surprise.”
 
 
-    **They can work on a design project for Netflix** or compose a song about fire and anxiety.   
+    **Yes, they are the same person, but they could not be more different.**
 
 
-    **They would enjoy working with tons of limitations on colours and shapes** to create a motion film to present Museo Moderno of Buenos Aires’s new font.
+    **One, the motion designer and art director** always strikes the right balance between emotion and precision.
 
 
-    ![](/assets/img/uploads/dilisio-editorial-tato-1.jpg)
+    **The other, the singer and musician** does things a little bit differently. When she composes, emotion and expression are the stars. The singer in her doesn't care for perfection, she just needs us to feel. And she achieves that goal, every single time.
 
 
-    ![](/assets/img/uploads/dilisio-editorial-tato-2.jpg)
+    ![](/assets/img/uploads/dilisio-lucca-cards.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-deck-editorial.jpg)
+    ![](/assets/img/uploads/dilisio-lucca-menu.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-deck-editorial-inside.jpg)
+    ![](/assets/img/uploads/dilisio-lucca-web.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-editorial-domus.jpg)
+    ![](/assets/img/uploads/dilisio-sensart-03.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-editorial-domus-photo.jpg)
-  section3: ""
+    ![](/assets/img/uploads/dilisio-sensart-05.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-sensart-02.jpg)
 ---
