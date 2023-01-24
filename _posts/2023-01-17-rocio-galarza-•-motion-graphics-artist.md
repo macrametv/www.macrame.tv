@@ -59,10 +59,10 @@ sections:
 
     >
 
-    > * On His Direction
+    > * On Her Process
 
 
-    **“And that shapes and inspires everything I do.”  
+    **“And that shapes and inspires everything I do.”  **
 
 
     **These two unstoppable creatives find their way to think,** feel, create and live together. They share their desk, their musical instruments, and their skin. 
