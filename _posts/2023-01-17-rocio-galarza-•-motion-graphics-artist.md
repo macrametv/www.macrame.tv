@@ -166,4 +166,65 @@ sections:
 
 
     ![](/assets/img/uploads/dilisio-alricgalindez-web.jpg)
+  section5: >-
+    >**It materializes what I am thinking** and processing at the time.
+
+    > 
+
+    > * On Drawing
+
+
+    **The same thing happens when Ro uses illustration to sublimate a feeling.
+
+
+    **“Drawing is extremely important to me. ** It materializes what I am thinking and processing at the time. Something that makes me uncomfortable. Or even something that makes me laugh.”
+
+
+    **She uses illustration as a personal exercise.** As a way of understanding and making sense of a reality that somehow eludes her. Months could go by without her even drawing a line. But when she needs it. It’s always there. Illustration always helps her navigate different topics and sensations, like anxiety, an emotional estate, or current events that are too huge for her to embrace, like the environmental crisis in the Amazon or an election process in a faraway country.
+
+
+    **“The topic always finds me.** Not the other way around. It’s just a feeling that’s immediately translated into a sketch. And maybe a few animated frames afterward.”
+
+
+    ![](/assets/img/uploads/dilisio-pack-tea.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-pack-tea-back.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-pack-crudda.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-pack-crudda-round.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-pack-birot.jpg)
+
+
+    ![](/assets/img/uploads/dilisio-pack-birot-closeup.jpg)
+
+
+    >I’m sharing working spaces with people I’ve always admired. **It’s like a non-stop learning process**.
+
+    > 
+
+    > * On Networking
+
+
+    **So Ro and Rocío work together perfectly.** But we are not talking about just two people in this one-body team. She always shares her work with colleagues and friends.
+
+
+    **“I share screen with my friends all the time.** And I love their criticism. I could change a whole project if a person I trust and respect gives me a completely different point of view and makes me think…”
+
+
+    **And her network goes a long way for her.** She always surrounds herself with people she looks up to, both in design and music.
+
+
+    **“Right now, I’m sharing working spaces with people I’ve always admired.** I have no words to describe how that feels to me. It’s like a non-stop learning process.”
+
+
+    **One could have no doubts about how Macramè fits so perfectly in her life.** An ecosystem full of multi-talented creatives. A global network of completely different souls always finding their way to make stories come to life. A unique universe in which Ro Galarza -the motion artist- and Rocío Gal -the singer- and all those fantastic creatives in between can feel at home.
+
+
+    **Like when they both meet at the dance studio.**
 ---
