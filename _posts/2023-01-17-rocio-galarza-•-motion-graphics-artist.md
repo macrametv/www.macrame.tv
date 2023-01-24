@@ -41,7 +41,6 @@ sections:
     ![](/assets/img/uploads/dilisio-studio-ariel.jpg)
 
 
-
     **So yes, they are pretty much alike. **
 
 
