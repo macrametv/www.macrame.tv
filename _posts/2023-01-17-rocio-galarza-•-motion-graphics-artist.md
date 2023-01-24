@@ -90,44 +90,5 @@ sections:
 
 
     ![](/assets/img/uploads/dilisio-editorial-domus-photo.jpg)
-  section3: >-
-    > My best way of working is when **I'm in contact with and open to
-    surprise.**
-
-    >
-
-    > * On Her Process
-
-
-    **Or they would even jump into the absolute freedom of Arriba,** a personal project involving shooting, editing, choreography, costume design, dancing, and more. 
-
-
-    **“I feel like I'm kind of a “graphic searcher”**, continually oscillating between experimentation and structure. My best way of working is when I'm in contact with and open to surprise.” 
-
-
-    **Yes, they are the same person, but they could not be more different. **
-
-
-    **One, the motion designer and art director** always strikes the right balance between emotion and precision. 
-
-
-    **The other, the singer and musician** does things a little bit differently. When she composes, emotion and expression are the stars. The singer in her doesn't care for perfection, she just needs us to feel. And she achieves that goal, every single time.
-
-
-    ![](/assets/img/uploads/dilisio-lucca-cards.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-lucca-menu.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-lucca-web.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-sensart-03.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-sensart-05.jpg)
-
-
-    ![](/assets/img/uploads/dilisio-sensart-02.jpg)
+  section3: ""
 ---
