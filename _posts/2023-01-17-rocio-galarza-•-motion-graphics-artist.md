@@ -150,22 +150,22 @@ sections:
     **“I never have a roadmap to get to a specific place.** I love the idea of surprise guiding my process and inspiring me. I just set limits here and there and work based on that. That’s a system I use for everything I do.”
 
 
-    ![](/assets/img/uploads/dilisio-laisne-book.jpg)
+    ![](/assets/img/uploads/galarza-adidas-2.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-editorial-1.jpg)
+    ![](/assets/img/uploads/galarza-adidas-1.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-laisne-editorial.jpg)
+    ![](/assets/img/uploads/adidas.gif)
 
 
-    ![](/assets/img/uploads/dilisio-alricgalindez.jpg)
+    ![](/assets/img/uploads/galarza-tgh-2.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-alricgalindez-open.jpg)
+    ![](/assets/img/uploads/galarza-tgh-1.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-alricgalindez-web.jpg)
+    ![](/assets/img/uploads/tgh.gif)
   section5: >-
     >**It materializes what I am thinking** and processing at the time.
 
