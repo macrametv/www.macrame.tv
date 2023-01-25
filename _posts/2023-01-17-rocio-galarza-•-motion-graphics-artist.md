@@ -21,7 +21,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/dilisio-ariel.jpg)
+    ![](/assets/img/uploads/galarza-portrait.jpg)
 
 
     > They both feel inspired by cooking, reading, and **talking to strangers on the street**.
@@ -31,13 +31,13 @@ sections:
     > * On Inspiration
 
 
-    ![](/assets/img/uploads/dilisio-studio-.jpg)
+    ![](/assets/img/uploads/galarza-nature.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-studio.jpg)
+    ![](/assets/img/uploads/galarza-studio.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-studio-ariel.jpg)
+    ![](/assets/img/uploads/galarza-working.jpg)
 
 
     **So yes, they are pretty much alike.**
