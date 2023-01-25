@@ -167,17 +167,17 @@ sections:
 
     ![](/assets/img/uploads/tgh.gif)
   section5: >-
-    >**It materializes what I am thinking** and processing at the time.
+    > **It materializes what I am thinking** and processing at the time.
 
-    > 
+    >
 
     > * On Drawing
 
 
-    **The same thing happens when Ro uses illustration to sublimate a feeling.
+    \*\*The same thing happens when Ro uses illustration to sublimate a feeling.
 
 
-    **“Drawing is extremely important to me. ** It materializes what I am thinking and processing at the time. Something that makes me uncomfortable. Or even something that makes me laugh.”
+    **“Drawing is extremely important to me.**  It materializes what I am thinking and processing at the time. Something that makes me uncomfortable. Or even something that makes me laugh.”
 
 
     **She uses illustration as a personal exercise.** As a way of understanding and making sense of a reality that somehow eludes her. Months could go by without her even drawing a line. But when she needs it. It’s always there. Illustration always helps her navigate different topics and sensations, like anxiety, an emotional estate, or current events that are too huge for her to embrace, like the environmental crisis in the Amazon or an election process in a faraway country.
@@ -186,27 +186,27 @@ sections:
     **“The topic always finds me.** Not the other way around. It’s just a feeling that’s immediately translated into a sketch. And maybe a few animated frames afterward.”
 
 
-    ![](/assets/img/uploads/dilisio-pack-tea.jpg)
+    ![](/assets/img/uploads/galarza-donttouch-1.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-pack-tea-back.jpg)
+    ![](/assets/img/uploads/galarza-donttouch-2.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-pack-crudda.jpg)
+    ![](/assets/img/uploads/dont-touch.gif)
 
 
-    ![](/assets/img/uploads/dilisio-pack-crudda-round.jpg)
+    ![](/assets/img/uploads/galarza-du-2.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-pack-birot.jpg)
+    ![](/assets/img/uploads/galarza-du-1.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-pack-birot-closeup.jpg)
+    ![](/assets/img/uploads/du_bunch-of10.gif)
 
 
-    >I’m sharing working spaces with people I’ve always admired. **It’s like a non-stop learning process**.
+    > I’m sharing working spaces with people I’ve always admired. **It’s like a non-stop learning process**.
 
-    > 
+    >
 
     > * On Networking
 
