@@ -114,22 +114,22 @@ sections:
     **The other, the singer and musician** does things a little bit differently. When she composes, emotion and expression are the stars. The singer in her doesn't care for perfection, she just needs us to feel. And she achieves that goal, every single time.
 
 
-    ![](/assets/img/uploads/dilisio-lucca-cards.jpg)
+    ![](/assets/img/uploads/galarza-arriba-1.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-lucca-menu.jpg)
+    ![](/assets/img/uploads/galarza-arriba-2.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-lucca-web.jpg)
+    ![](/assets/img/uploads/arriba.gif)
 
 
-    ![](/assets/img/uploads/dilisio-sensart-03.jpg)
+    ![](/assets/img/uploads/galarza-avestruz-1.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-sensart-05.jpg)
+    ![](/assets/img/uploads/galarza-avestruz-2.jpg)
 
 
-    ![](/assets/img/uploads/dilisio-sensart-02.jpg)
+    ![](/assets/img/uploads/avestruz.gif)
   section4: >-
     > **I never have a roadmap** to get to a specific place.
 
