@@ -92,7 +92,7 @@ sections:
     ![](/assets/img/uploads/museo_moderno.gif)
   section3: >-
     > My best way of working is when **I'm in contact with and open to
-    surprise.**
+    surprise**.
 
     >
 
