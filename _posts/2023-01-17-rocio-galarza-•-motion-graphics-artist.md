@@ -229,6 +229,12 @@ sections:
 
     **Like when they both meet at the dance studio.**
   clientLabel: BRANDS SHE HAS WORKED WITH
+  clients:
+    client: /assets/img/uploads/youtube-logo.png
+    client2: /assets/img/uploads/adidas-logo.png
+    client3: /assets/img/uploads/netflix-logo.png
+    client4: /assets/img/uploads/mtv-logo.png
+    client5: /assets/img/uploads/facebook-logo.png
 working: Motion Graphics, Illustration, Graphic Searcher
 living: Argentina
 website: rociogalarza.com
