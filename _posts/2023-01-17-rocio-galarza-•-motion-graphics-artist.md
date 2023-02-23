@@ -7,7 +7,7 @@ subname: Who Moves between Two Worlds
 colour: "#5FA1FF"
 illustration: /assets/img/uploads/ro_galarza-v4.gif
 intro_paragraph: "**Ro Galarza**, Rocío Gal, or how finding all those talented
-  creatives in between guides her never-ending exploration of creativity."
+  creatives in between guides her never-ending exploration."
 sections:
   section: >-
     Ro Galarza was born in Buenos Aires, Argentina in 1990. Rocío Gal was also
