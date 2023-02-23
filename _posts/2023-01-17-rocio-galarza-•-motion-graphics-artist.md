@@ -5,6 +5,7 @@ title: Rocio Galarza • Motion Graphic Artist
 name: The Singer
 subname: Who Moves between Two Worlds
 colour: "#5FA1FF"
+illustration: /assets/img/uploads/ro_galarza-v4.gif
 intro_paragraph: "**Ro Galarza**, Rocío Gal, or how finding all those talented
   creatives in between guides her never-ending exploration of creativity."
 sections:
