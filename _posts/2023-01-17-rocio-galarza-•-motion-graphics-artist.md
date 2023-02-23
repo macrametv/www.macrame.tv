@@ -175,7 +175,7 @@ sections:
     > * On Drawing
 
 
-    \*\*The same thing happens when Ro uses illustration to sublimate a feeling.
+    **The same thing happens when Ro uses illustration to sublimate a feeling.**
 
 
     **“Drawing is extremely important to me.**  It materializes what I am thinking and processing at the time. Something that makes me uncomfortable. Or even something that makes me laugh.”
