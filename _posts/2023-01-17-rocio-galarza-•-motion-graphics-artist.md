@@ -81,7 +81,7 @@ sections:
     ![](/assets/img/uploads/galarza-netflix_carmel-2.jpg)
 
 
-    ![](/assets/img/uploads/galarza-netflix_carmel-2.jpg)
+    ![](/assets/img/uploads/netflix_carmel.gif)
 
 
     ![](/assets/img/uploads/galarza-museomoderno-1.jpg)
