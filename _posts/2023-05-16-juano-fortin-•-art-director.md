@@ -27,7 +27,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/ana-despres-1.jpg)
+    ![](/assets/img/uploads/jf_portraits_1.jpg)
 
 
     > "I love to move at a **slow pace.**"
@@ -37,13 +37,13 @@ sections:
     > * On His Way of Living
 
 
-    ![](/assets/img/uploads/on-traveling-1.jpg)
+    ![](/assets/img/uploads/jf_portraits_2.jpg)
 
 
-    ![](/assets/img/uploads/on-traveling-2.jpg)
+    ![](/assets/img/uploads/jf_portraits_3.jpg)
 
 
-    ![](/assets/img/uploads/on-traveling-4.jpg)
+    ![](/assets/img/uploads/jf_portraits_4.jpg)
 
 
     `{{space}}`
