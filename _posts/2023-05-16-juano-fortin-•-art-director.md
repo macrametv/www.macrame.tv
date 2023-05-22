@@ -183,22 +183,22 @@ sections:
     `{{space}}`
 
 
-    ![Outlast](/assets/img/uploads/outlast-1.jpg)
+    ![CasaRua](/assets/img/uploads/jf-imgs-website-1320x1320px-13.jpg)
 
 
-    ![Outlast](/assets/img/uploads/outlast-3.jpg)
+    ![CasaRua](/assets/img/uploads/jf-imgs-website-1320x1320px-14.jpg)
 
 
-    ![Outlast](/assets/img/uploads/outlast-4.jpg)
+    ![CasaRua](/assets/img/uploads/jf-imgs-website-1320x1320px-15.jpg)
 
 
-    ![Madyfit](/assets/img/uploads/madyfit-1.jpg)
+    ![CasaRua](/assets/img/uploads/jf-imgs-website-1320x1320px-16.jpg)
 
 
-    ![Madyfit](/assets/img/uploads/madyfit-2.jpg)
+    ![CasaRua](/assets/img/uploads/jf-imgs-website-1320x1320px-17.jpg)
 
 
-    ![Madyfit](/assets/img/uploads/madyfit-4.jpg)
+    ![CasaRua](/assets/img/uploads/jf-imgs-website-1320x1320px-18.jpg)
 
 
     **So, yes, Ana Despres is a dreamer.** An idealist. And a tireless traveler. She travels the world, she travels through time and even to the stars! 
