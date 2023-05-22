@@ -76,24 +76,6 @@ sections:
     **From a notorious advertising project for Nike to the sensitivity of Beth Comstock’s identity.** From a strategic UX design system for argentinian director Federico Pintos’ movie to a conceptual piece of art based on the most natural elements; Juano is an artist who can simply find beauty in almost everything.
 
 
-    **And that’s mainly because he disassembles everything into tiny little pieces.** He explores and commits to finding the ultimate truth, the hidden beauty beneath all things. And he does that masterfully. He does that like a true surgeon.   
-
-
-    **No wonder why if he hadn’t been a graphic designer and illustrator he would have been a neurosurgeon.** A career he started to study and would have loved to finish. 
-
-
-    **  But the first assignments were on the city morgue and that was it for him.** He loved the human body, its nature, and the mechanics of it too. He would have loved having the power to repair that, but the grey decadence of the morgue was too much for his colorful soul. 
-
-
-    **So something told him that drawing was the right path.**
-
-    And he followed that path.
-
-    Mindfully.
-
-    As he always does.
-
-
     `{{space}}`
 
 
