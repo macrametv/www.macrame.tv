@@ -113,4 +113,54 @@ sections:
 
 
     ![Marina Mozzoni](/assets/img/uploads/jf-imgs-website-1320x1320px-06.jpg)
+  section3: >-
+    > "**It helped me channel my experimentation** and my need to discover and
+    understand"
+
+    >
+
+    > * On Graphic Design
+
+
+    **But being a neurosurgeon and a graphic designer has way more in common** than what we all might have thought. The human body is just a system. The human brain is just a system. A graphic approach is just a system. And so is a drawing.
+
+
+    **The reality has to be systematized and transformed into a sketch.**
+
+    It could be improved, of course, even fixed.
+
+    So as the human brain can be.
+
+
+    **That’s why Juano was the perfect match for Churret’s,** a project aiming to launch the classic Latin street food king “churros” into the heart of NYC. A project that needed someone who could dissemble and understand two completely different systems, two completely different styles, and ideas and come up with a solution to make both systems work together. A project only Juano could have mastered.
+
+
+    **But his love for understanding the core of things was present from his early years,**  when he used to dismantle his fathers’ pens. Just for the beauty of it. Just for the quest, the search, the ultimate understanding. And that’s a kind of thinking process that never left him.
+
+
+    **“I think even when I’m in the bathroom,** and that’s a little bit overwhelming. That’s why design helped me channel my experimentation and my need to discover and understand.”
+
+
+    `{{space}}`
+
+
+    ![Korto Cafe](/assets/img/uploads/korto-1.jpg)
+
+
+    ![Korto Cafe](/assets/img/uploads/korto-2.jpg)
+
+
+    ![Korto Cafe](/assets/img/uploads/korto-3.jpg)
+
+
+    ![Korto Cafe](/assets/img/uploads/korto-4.jpg)
+
+
+    ![Korto Cafe](/assets/img/uploads/korto-5.jpg)
+
+
+    ![Korto Cafe](/assets/img/uploads/korto-6.jpg)
+
+
+    ![Korto Cafe](/assets/img/uploads/korto-7.jpg)
 ---
