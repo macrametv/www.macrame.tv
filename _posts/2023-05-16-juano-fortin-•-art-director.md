@@ -144,23 +144,20 @@ sections:
     `{{space}}`
 
 
-    ![Korto Cafe](/assets/img/uploads/korto-1.jpg)
+    ![Churret's](/assets/img/uploads/jf-imgs-website-1320x1320px-07.jpg)
 
 
-    ![Korto Cafe](/assets/img/uploads/korto-2.jpg)
+    ![Churret's](/assets/img/uploads/jf-imgs-website-1320x1320px-08.jpg)
 
 
-    ![Korto Cafe](/assets/img/uploads/korto-3.jpg)
+    ![Churret's](/assets/img/uploads/jf-imgs-website-1320x1320px-09.jpg)
 
 
-    ![Korto Cafe](/assets/img/uploads/korto-4.jpg)
+    ![Criaturas del Habito](/assets/img/uploads/jf-imgs-website-1320x1320px-10.jpg)
 
 
-    ![Korto Cafe](/assets/img/uploads/korto-5.jpg)
+    ![Criaturas del Habito](/assets/img/uploads/jf-imgs-website-1320x1320px-11.jpg)
 
 
-    ![Korto Cafe](/assets/img/uploads/korto-6.jpg)
-
-
-    ![Korto Cafe](/assets/img/uploads/korto-7.jpg)
+    ![Criaturas del Habito](/assets/img/uploads/jf-imgs-website-1320x1320px-12.jpg)
 ---
