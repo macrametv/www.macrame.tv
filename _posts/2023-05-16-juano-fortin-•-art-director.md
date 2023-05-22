@@ -160,4 +160,52 @@ sections:
 
 
     ![Criaturas del Habito](/assets/img/uploads/jf-imgs-website-1320x1320px-12.jpg)
+  section4: >-
+    > "**Sometimes is a machine that eats you alive.**"
+
+    >
+
+    > * On Design
+
+
+    **That’s also why he loves teaching at Universidad de Buenos Aires.** A place that allows him to find the right pieces to put together. The right elements to help potential designers find their own beauty, their own processes, and experimentation.
+
+
+    **“Design is sometimes a machine that eats you alive.** Timetables, budgets, hourly rates, etc. The innocence of experimentation is the most important thing about Design. The real magic happens when you allow yourself to be erratic and let things rest, taking their own time.”
+
+
+    **This basic idea is what makes him love music so much, too.** He’s kind of a Spotify celebrity. He follows over ten thousand artists and he even works on a collaborative project called CasaRua. A personal project that lets him set a new bar for his love of micro-systems and collaboration. A project that invites people to create their own playlists, while he designs a unique cover, with unique storytelling for each one of them.
+
+
+    **Art, music, and systems in their most pure essence.**
+
+
+    `{{space}}`
+
+
+    ![Outlast](/assets/img/uploads/outlast-1.jpg)
+
+
+    ![Outlast](/assets/img/uploads/outlast-3.jpg)
+
+
+    ![Outlast](/assets/img/uploads/outlast-4.jpg)
+
+
+    ![Madyfit](/assets/img/uploads/madyfit-1.jpg)
+
+
+    ![Madyfit](/assets/img/uploads/madyfit-2.jpg)
+
+
+    ![Madyfit](/assets/img/uploads/madyfit-4.jpg)
+
+
+    **So, yes, Ana Despres is a dreamer.** An idealist. And a tireless traveler. She travels the world, she travels through time and even to the stars! 
+
+
+    **She’s a huge fan of space stuff and an amateur astronomer.** She has a nice telescope to see the moon, some stars, and maybe Jupiter when the conditions are at their best. And that telescope not only gives her a whole new world to travel around, but also an incredible sense of freedom and opportunity.
+
+
+    **“The best part about owning a telescope is that it allows you to be an amateur again.** You don’t have that pressure of getting it right. Of achieving. You can get it wrong as many times as you want and I find that incredibly liberating. You need to find spaces to be an amateur again.”
 ---
