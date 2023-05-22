@@ -84,6 +84,7 @@ sections:
 
     **But the first assignments were on the city morgue and that was it for him.** He loved the human body, its nature, and the mechanics of it too. He would have loved having the power to repair that, but the grey decadence of the morgue was too much for his colorful soul. 
 
+
     **So something told him that drawing was the right path.**
 
     And he followed that path.
