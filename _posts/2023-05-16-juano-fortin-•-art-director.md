@@ -97,20 +97,20 @@ sections:
     `{{space}}`
 
 
-    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-1.jpg)
+    ![Beth Comstock](/assets/img/uploads/jf-imgs-website-1320x1320px-01.jpg)
 
 
-    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-2.jpg)
+    ![Beth Comstock](/assets/img/uploads/jf-imgs-website-1320x1320px-02.jpg)
 
 
-    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-3.jpg)
+    ![Beth Comstock](/assets/img/uploads/jf-imgs-website-1320x1320px-03.jpg)
 
 
-    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-5.jpg)
+    ![Marina Mozzoni](/assets/img/uploads/jf-imgs-website-1320x1320px-04.jpg)
 
 
-    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-6.jpg)
+    ![Marina Mozzoni](/assets/img/uploads/jf-imgs-website-1320x1320px-05.jpg)
 
 
-    ![Nina Kendosa](/assets/img/uploads/nina-kendosa-8.jpg)
+    ![Marina Mozzoni](/assets/img/uploads/jf-imgs-website-1320x1320px-06.jpg)
 ---
