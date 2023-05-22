@@ -208,4 +208,43 @@ sections:
 
 
     **“The best part about owning a telescope is that it allows you to be an amateur again.** You don’t have that pressure of getting it right. Of achieving. You can get it wrong as many times as you want and I find that incredibly liberating. You need to find spaces to be an amateur again.”
+  section5: >-
+    > "**It’s a philosophy in itself**."
+
+    >
+
+    > * On Macramè
+
+
+    **And that essence is also what connects him to Macramè so well.** A place where the idea of a system based on small parts collaborating for the common good takes a new meaning and scale.
+
+
+    **“Macramè is way more than a network of collaborators.** It’s a philosophy in itself. A truly humble approach to ideas. Here every project is built as a system. By a team. We can work on others’ designs or even make the whole process the other way around. And that makes ideas and results even better.”
+
+
+    **No wonder why Macramè is a place where he feels at home.** In peace. Like when he seats next to the river facing the sun.
+
+
+    **And just breathes.**
+
+
+    `{{space}}`
+
+
+    ![OpenInfra](/assets/img/uploads/jf-imgs-website-1320x1320px-19.jpg)
+
+
+    ![OpenInfra](/assets/img/uploads/jf-imgs-website-1320x1320px-20.jpg)
+
+
+    ![OpenInfra](/assets/img/uploads/jf-imgs-website-1320x1320px-21.jpg)
+
+
+    ![VirtualEvents](/assets/img/uploads/mask-group.png)
+
+
+    ![VirtualEvents](/assets/img/uploads/jf-imgs-website-1320x1320px-24.jpg)
+
+
+    ![VirtualEvents](/assets/img/uploads/jf-imgs-website-1320x1320px-22.jpg)
 ---
