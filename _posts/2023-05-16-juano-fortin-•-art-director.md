@@ -247,4 +247,15 @@ sections:
 
 
     ![VirtualEvents](/assets/img/uploads/jf-imgs-website-1320x1320px-22.jpg)
+working: Art Director
+living: Argentina
+website: https://byjuana.work
+imstagram: hacejuana
+footer: >-
+  # **If you want to feel inspired** by Juano’s energy
+
+
+  or want to channel his sensitive talents to make the most out of your project, just say the word.\
+
+  **We are here!**
 ---
