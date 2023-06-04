@@ -247,6 +247,12 @@ sections:
 
 
     ![VirtualEvents](/assets/img/uploads/jf-imgs-website-1320x1320px-22.jpg)
+  clients:
+    client: /assets/img/uploads/nike.png
+    client2: /assets/img/uploads/tnt.png
+    client3: /assets/img/uploads/tjan.png
+    client4: /assets/img/uploads/tea-drops.png
+    client5: /assets/img/uploads/red-vewlvets.png
 working: Art Director
 living: Argentina
 website: https://byjuana.work
