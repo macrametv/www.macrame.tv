@@ -255,7 +255,7 @@ sections:
     client5: /assets/img/uploads/red-vewlvets.png
 working: Art Director
 living: Argentina
-website: https://byjuana.work
+website: byjuana.work
 imstagram: hacejuana
 footer: >-
   # **If you want to feel inspired** by Juano’s energy
