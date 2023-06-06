@@ -199,15 +199,6 @@ sections:
 
 
     ![CasaRua](/assets/img/uploads/jf-imgs-website-1320x1320px-18.jpg)
-
-
-    **So, yes, Ana Despres is a dreamer.** An idealist. And a tireless traveler. She travels the world, she travels through time and even to the stars! 
-
-
-    **She’s a huge fan of space stuff and an amateur astronomer.** She has a nice telescope to see the moon, some stars, and maybe Jupiter when the conditions are at their best. And that telescope not only gives her a whole new world to travel around, but also an incredible sense of freedom and opportunity.
-
-
-    **“The best part about owning a telescope is that it allows you to be an amateur again.** You don’t have that pressure of getting it right. Of achieving. You can get it wrong as many times as you want and I find that incredibly liberating. You need to find spaces to be an amateur again.”
   section5: >-
     > "**It’s a philosophy in itself**."
 
