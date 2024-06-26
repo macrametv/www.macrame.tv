@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /ruben-stremiz
 title: Ruben Stremiz • 3D Animator
 name: The Yogi
 subname: Creating New Stories
