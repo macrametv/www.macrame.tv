@@ -10,7 +10,7 @@ illustration: /assets/img/uploads/ruben-render-800x800_-ff5c5a.gif
 intro_paragraph: "**Ruben Stremiz,** or how peace and a strong yet calm mental
   state can help you create the best work ever."
 sections:
-  section: >
+  section: >-
     Talking to Ruben Stremiz is like talking to your aunt or your grandmother.
 
     But in a good way.
@@ -18,7 +18,7 @@ sections:
     He has this calm soothing presence that immediately makes you feel good.
 
 
-    **Maybe that’s because he’s a yoga enthusiast studying to help others practice at their best.**
+    **Maybe that’s because he’s a yoga enthusiast** studying to help others practice at their best.
 
     Or maybe it’s just his flowing mindfulness that helps you find the perfect balance.
 
@@ -28,7 +28,7 @@ sections:
     `{{space}}`
 
 
-    ![Martin Laksman](/assets/img/uploads/martin-laksman-portrait.jpg)
+    ![Martin Laksman](/assets/img/uploads/saludo.gif)
 
 
     > I loved its capacity to create new fantastic worlds.
@@ -38,13 +38,13 @@ sections:
     > * On Animation
 
 
-    ![Martin Laksman 1](/assets/img/uploads/martin-laksman-cai-stadium-.jpg)
+    ![Martin Laksman 1](/assets/img/uploads/portrait-3.jpg)
 
 
-    ![Martin Laksman 2](/assets/img/uploads/martin-laksman-cai.jpg)
+    ![Martin Laksman 2](/assets/img/uploads/portrait-2.jpg)
 
 
-    ![Martin Laksman 3](/assets/img/uploads/martin-laksman-studio.jpg)
+    ![Martin Laksman 3](/assets/img/uploads/portrait-1.jpg)
 
 
     **That’s why when he finished high school** and needed to decide what to study next, he did not think twice. 
