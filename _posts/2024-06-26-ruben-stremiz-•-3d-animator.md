@@ -10,7 +10,7 @@ illustration: /assets/img/uploads/ruben-render-800x800_-ff5c5a.gif
 intro_paragraph: "**Ruben Stremiz,** or how peace and a strong yet calm mental
   state can help you create the best work ever."
 sections:
-  section: >-
+  section: >
     Talking to Ruben Stremiz is like talking to your aunt or your grandmother.
 
     But in a good way.
@@ -47,8 +47,20 @@ sections:
     ![Martin Laksman 3](/assets/img/uploads/martin-laksman-studio.jpg)
 
 
-    **But there's a way more important question here:** was he a great goalkeeper because of his amazing drawing skills? Or is he a talented illustrator because he used his hands to knock flying balls far from the net?
+    **That’s why when he finished high school** and needed to decide what to study next, he did not think twice. 
+
+    He already knew what he was going to do. 
+
+    What he was meant to be. 
+
+    So he studied “Image and Sound Design” at the University of Buenos Aires.
 
 
-    **We’ll never know for sure.** But one thing we do know is that since he was a little boy, he loved drawing. And playing soccer, of course. But in Martín's own words: “All the memories I have are of me drawing stuff."
+    **He had always loved animation**, animated stories, and characters, so his path was already clear.
+
+
+    **“Since I was young, I’ve loved animation** and its capacity to create new fantastic worlds and incredible situations.”
+
+
+    **This was a path that kept opening in different directions**, presenting choices, making him evolve, leading him from one place to the next. He traveled to different destinations while discovering cultures and new ways of doing and thinking.
 ---
