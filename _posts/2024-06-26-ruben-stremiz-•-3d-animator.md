@@ -11,14 +11,18 @@ intro_paragraph: "**Ruben Stremiz,** or how peace and a strong yet calm mental
   state can help you create the best work ever."
 sections:
   section: >-
-    Born in 1976 in a suburban town west of Buenos Aires, Martin Laksman always
-    wanted to be a goalkeeper. His dream: helping the club he loved,
-    Independiente, to conquer the world once again.
+    Talking to Ruben Stremiz is like talking to your aunt or your grandmother.
+
+    But in a good way.
+
+    He has this calm soothing presence that immediately makes you feel good.
 
 
-    **He played soccer for many years and truly enjoyed it,** but at some point he decided to leave that behind. Why? Well, to embark on a career in illustration and graphic design.\
+    **Maybe that’s because he’s a yoga enthusiast studying to help others practice at their best.**
 
-    When you see what his hands are capable of, you may ask what could have happened if he had stuck with football.
+    Or maybe it’s just his flowing mindfulness that helps you find the perfect balance.
+
+    Whatever it is one thing is for sure: He knows what he wants.
 
 
     `{{space}}`
@@ -27,11 +31,11 @@ sections:
     ![Martin Laksman](/assets/img/uploads/martin-laksman-portrait.jpg)
 
 
-    > Helping the club I love to **conquer the world** once again.
+    > I loved its capacity to create new fantastic worlds.
 
     >
 
-    > * On Childhood Dreams
+    > * On Animation
 
 
     ![Martin Laksman 1](/assets/img/uploads/martin-laksman-cai-stadium-.jpg)
