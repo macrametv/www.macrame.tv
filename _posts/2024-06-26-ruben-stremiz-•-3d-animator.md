@@ -63,4 +63,63 @@ sections:
 
 
     **This was a path that kept opening in different directions**, presenting choices, making him evolve, leading him from one place to the next. He traveled to different destinations while discovering cultures and new ways of doing and thinking.
+  section2: >-
+    > I always choose places where **I can get lost**
+
+    >
+
+    > * On Travelling
+
+
+    **“When I’m looking for a new place to visit,** I always choose places where I can get lost, where I don't understand the language. I love places that have a specific history and culture to explore and learn from. And if the city has a beach, that’s just an awesome bonus.”
+
+
+    **Don’t get confused, Ruben is not a tourist.** He’s a traveler. 
+
+    He’s not living on holiday. He works hard in every single place he visits.
+
+
+    **That’s because he always has a new horizon in mind.** A place he would love to be living when developing a specific project.
+
+
+    **And when the project kicks off,** well, he just needs to be there. 
+
+    For as long as it takes. 
+
+
+    \*\*
+
+
+    `{{space}}`
+
+
+    ![Ruben Stremiz 4](/assets/img/uploads/rinde2.gif)
+
+
+    ![Ruben Stremiz 5](/assets/img/uploads/work-01.jpg)
+
+
+    ![Ruben Stremiz 6](/assets/img/uploads/work-02.jpg)
+
+
+    ![Ruben Stremiz 7](/assets/img/uploads/work-04.jpg)
+
+
+    ![Ruben Stremiz 8](/assets/img/uploads/calaca.gif)
+
+
+    ![Ruben Stremiz 9](/assets/img/uploads/work-03.jpg)
+
+
+    ![Martin Laksman 11](/assets/img/uploads/gatorade-lionel-messi-football-player-illustration.jpg)
+
+
+    ![Martin Laksman 12](/assets/img/uploads/zlatan-ibrahimovic-football-player-illustration.jpg)
+
+
+    > "A daily source of **inspiration and motivation**."
+
+    >
+
+    > * On Sport & Design
 ---
