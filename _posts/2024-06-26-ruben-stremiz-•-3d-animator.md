@@ -108,8 +108,8 @@ sections:
 
     ![Ruben Stremiz 9](/assets/img/uploads/work-03.jpg)
   section3: >-
-    > I grew up a lot during lockdown, both as a person and as a
-    professional\*\*
+    > **I grew up a lot during lockdown**, both as a person and as a
+    professional
 
     >
 
@@ -156,4 +156,43 @@ sections:
 
 
     ![Ruben Stremiz Pluma in Quarantine 6](/assets/img/uploads/work-07.jpg)
+  section4: >-
+    > **It let him make the jump** to integrated intellectual property producer.
+
+    >
+
+    > * On Simona & Jaques Project
+
+
+    **That realization led to work for Disney, Netflix, Fox, CocaCola, AXN, Antena3, and Amazon,** among others.
+
+
+    **That’s also why he’s now developing  Simona & Jaques, Learning to hunt monsters;** an animated series for a pretty well-known TV network.
+
+
+    **An idea that was awarded 1st Place** in the 5th pitch for Cartoon Network at Chilemonos International Animation Festival, in 2020.
+
+
+    **An idea that let him make the jump** from animator and creator to integrated intellectual property producer.
+
+
+    `{{space}}`
+
+
+    ![Ruben Stremiz Simona 1](/assets/img/uploads/work-09.jpg)
+
+
+    ![Ruben Stremiz Simona 2](/assets/img/uploads/work-08.jpg)
+
+
+    ![Ruben Stremiz Simona 3](/assets/img/uploads/simona-2.gif)
+
+
+    ![Ruben Stremiz Simona 4](/assets/img/uploads/work-10.jpg)
+
+
+    ![Ruben Stremiz Simona 5](/assets/img/uploads/work-11.jpg)
+
+
+    ![Ruben Stremiz Simona 6](/assets/img/uploads/simona.gif)
 ---
