@@ -107,4 +107,53 @@ sections:
 
 
     ![Ruben Stremiz 9](/assets/img/uploads/work-03.jpg)
+  section3: >-
+    > I grew up a lot during lockdown, both as a person and as a
+    professional\*\*
+
+    >
+
+    > * On His Philosophy
+
+
+    **But moving around is not his only kind of inspiration.** Some of his best work was developed during lockdown when he was forced to be in one place for a long period of time. Alone.
+
+
+    **“I grew up a lot during lockdown,** both as a person and as a professional.”
+
+
+    **In his mind, lockdown was not a hard time.** It was an opportunity.
+
+    A chance to find himself, to feel, to think, and get to the story he wanted to tell next. A time when he could immerse himself in a truly personal project: Pluma in Quarantine.
+
+
+    **The project allowed him to create small capsules of content,** offering the world his unique and refreshing perspective of right and wrong.
+
+
+    **This project also made him realize he could do it all.** From the idea to the script. From the storyboard to the final cut.
+
+    That was huge.
+
+    That was a game-changer. That was a whole new world for him. 
+
+
+    `{{space}}`
+
+
+    ![Ruben Stremiz Pluma in Quarantine 1](/assets/img/uploads/work-05.jpg)
+
+
+    ![Ruben Stremiz Pluma in Quarantine 2](/assets/img/uploads/pluma-2.gif)
+
+
+    ![Ruben Stremiz Pluma in Quarantine 3](/assets/img/uploads/clap-clap.gif)
+
+
+    ![Ruben Stremiz Pluma in Quarantine 4](/assets/img/uploads/pluma-3.gif)
+
+
+    ![Ruben Stremiz Pluma in Quarantine 5](/assets/img/uploads/work-06.jpg)
+
+
+    ![Ruben Stremiz Pluma in Quarantine 6](/assets/img/uploads/work-07.jpg)
 ---
