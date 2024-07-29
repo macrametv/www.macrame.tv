@@ -63,7 +63,7 @@ sections:
 
 
     **This was a path that kept opening in different directions**, presenting choices, making him evolve, leading him from one place to the next. He traveled to different destinations while discovering cultures and new ways of doing and thinking.
-  section2: >-
+  section2: >
     > I always choose places where **I can get lost**
 
     >
@@ -87,8 +87,6 @@ sections:
     For as long as it takes. 
 
 
-    \*\*
-
 
     `{{space}}`
 
@@ -109,17 +107,4 @@ sections:
 
 
     ![Ruben Stremiz 9](/assets/img/uploads/work-03.jpg)
-
-
-    ![Martin Laksman 11](/assets/img/uploads/gatorade-lionel-messi-football-player-illustration.jpg)
-
-
-    ![Martin Laksman 12](/assets/img/uploads/zlatan-ibrahimovic-football-player-illustration.jpg)
-
-
-    > "A daily source of **inspiration and motivation**."
-
-    >
-
-    > * On Sport & Design
 ---
