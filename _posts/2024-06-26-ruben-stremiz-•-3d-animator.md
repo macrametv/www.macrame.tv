@@ -38,13 +38,13 @@ sections:
     > * On Animation
 
 
-    ![Martin Laksman 1](/assets/img/uploads/portrait-3.jpg)
+    ![Martin Laksman 1](/assets/img/uploads/portrait-1.jpg)
 
 
     ![Martin Laksman 2](/assets/img/uploads/portrait-2.jpg)
 
 
-    ![Martin Laksman 3](/assets/img/uploads/portrait-1.jpg)
+    ![Martin Laksman 3](/assets/img/uploads/portrait-3.jpg)
 
 
     **That’s why when he finished high school** and needed to decide what to study next, he did not think twice. 
@@ -63,7 +63,7 @@ sections:
 
 
     **This was a path that kept opening in different directions**, presenting choices, making him evolve, leading him from one place to the next. He traveled to different destinations while discovering cultures and new ways of doing and thinking.
-  section2: >
+  section2: >-
     > I always choose places where **I can get lost**
 
     >
@@ -87,7 +87,6 @@ sections:
     For as long as it takes. 
 
 
-
     `{{space}}`
 
 
@@ -100,13 +99,13 @@ sections:
     ![Ruben Stremiz 6](/assets/img/uploads/work-02.jpg)
 
 
-    ![Ruben Stremiz 7](/assets/img/uploads/work-04.jpg)
+    ![Ruben Stremiz 7](/assets/img/uploads/work-03.jpg)
 
 
-    ![Ruben Stremiz 8](/assets/img/uploads/calaca.gif)
+    ![Ruben Stremiz 8](/assets/img/uploads/work-04.jpg)
 
 
-    ![Ruben Stremiz 9](/assets/img/uploads/work-03.jpg)
+    ![Ruben Stremiz 9](/assets/img/uploads/calaca.gif)
   section3: >-
     > **I grew up a lot during lockdown**, both as a person and as a
     professional
@@ -149,13 +148,13 @@ sections:
     ![Ruben Stremiz Pluma in Quarantine 3](/assets/img/uploads/clap-clap.gif)
 
 
-    ![Ruben Stremiz Pluma in Quarantine 4](/assets/img/uploads/pluma-3.gif)
+    ![Ruben Stremiz Pluma in Quarantine 4](/assets/img/uploads/work-06.jpg)
 
 
-    ![Ruben Stremiz Pluma in Quarantine 5](/assets/img/uploads/work-06.jpg)
+    ![Ruben Stremiz Pluma in Quarantine 5](/assets/img/uploads/work-07.jpg)
 
 
-    ![Ruben Stremiz Pluma in Quarantine 6](/assets/img/uploads/work-07.jpg)
+    ![Ruben Stremiz Pluma in Quarantine 6](/assets/img/uploads/pluma-3.gif)
   section4: >-
     > **It let him make the jump** to integrated intellectual property producer
 
