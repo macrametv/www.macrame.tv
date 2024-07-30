@@ -179,19 +179,19 @@ sections:
     `{{space}}`
 
 
-    ![Ruben Stremiz Simona 1](/assets/img/uploads/work-09.jpg)
+    ![Ruben Stremiz Simona 1](/assets/img/uploads/work-16.jpg)
 
 
-    ![Ruben Stremiz Simona 2](/assets/img/uploads/work-08.jpg)
+    ![Ruben Stremiz Simona 2](/assets/img/uploads/work-09.jpg)
 
 
-    ![Ruben Stremiz Simona 3](/assets/img/uploads/simona-2.gif)
+    ![Ruben Stremiz Simona 3](/assets/img/uploads/work-17.jpg)
 
 
-    ![Ruben Stremiz Simona 4](/assets/img/uploads/work-10.jpg)
+    ![Ruben Stremiz Simona 4](/assets/img/uploads/work-08.jpg)
 
 
-    ![Ruben Stremiz Simona 5](/assets/img/uploads/work-11.jpg)
+    ![Ruben Stremiz Simona 5](/assets/img/uploads/simona-2.gif)
 
 
     ![Ruben Stremiz Simona 6](/assets/img/uploads/simona.gif)
