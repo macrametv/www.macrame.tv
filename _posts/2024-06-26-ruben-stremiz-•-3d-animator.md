@@ -157,17 +157,17 @@ sections:
 
     ![Ruben Stremiz Pluma in Quarantine 6](/assets/img/uploads/work-07.jpg)
   section4: >-
-    > **It let him make the jump** to integrated intellectual property producer.
+    > **It let him make the jump** to integrated intellectual property producer
 
     >
 
     > * On Simona & Jaques Project
 
 
-    **That realization led to work for Disney, Netflix, Fox, CocaCola, AXN, Antena3, and Amazon,** among others.
+    **That realization led to work for Disney**, Netflix, Fox, CocaCola, AXN, Antena3, and Amazon, among others.
 
 
-    **That’s also why he’s now developing  Simona & Jaques, Learning to hunt monsters;** an animated series for a pretty well-known TV network.
+    **That’s also why he’s now developing Simona & Jaques**, Learning to hunt monsters; an animated series for a pretty well-known TV network.
 
 
     **An idea that was awarded 1st Place** in the 5th pitch for Cartoon Network at Chilemonos International Animation Festival, in 2020.
@@ -182,17 +182,71 @@ sections:
     ![Ruben Stremiz Simona 1](/assets/img/uploads/work-16.jpg)
 
 
-    ![Ruben Stremiz Simona 2](/assets/img/uploads/work-09.jpg)
+    ![Ruben Stremiz Simona 2](/assets/img/uploads/work-08.jpg)
 
 
-    ![Ruben Stremiz Simona 3](/assets/img/uploads/work-17.jpg)
+    ![Ruben Stremiz Simona 3](/assets/img/uploads/simona.gif)
 
 
-    ![Ruben Stremiz Simona 4](/assets/img/uploads/work-08.jpg)
+    ![Ruben Stremiz Simona 4](/assets/img/uploads/work-17.jpg)
 
 
-    ![Ruben Stremiz Simona 5](/assets/img/uploads/simona-2.gif)
+    ![Ruben Stremiz Simona 5](/assets/img/uploads/work-10.jpg)
 
 
-    ![Ruben Stremiz Simona 6](/assets/img/uploads/simona.gif)
+    ![Ruben Stremiz Simona 6](/assets/img/uploads/simona-2.gif)
+  section5: >-
+    > **It leaves space for creative momentum**
+
+    >
+
+    > * On Macramè Network
+
+
+    **This new Ruben fits better with Macramè’s philosophy.**
+
+    A place where he can be himself and develop a project with his unique touch. A place where he can be appreciated for what he is, not only for what he does. 
+
+    A place where he can simply do good.
+
+
+    **“Macramè is a very professional creative network** that leaves space for creative momentum. Space to explore and play with the endless possibilities of design and animation. And that shows in the outcome.”
+
+
+    **In his opinion, that’s the kind of creative shop that will survive.** 
+
+    The kind of creative shop that actually has a chance to make a difference. 
+
+
+    **Places where nobody settles for only doing what others are,** but driven to do something completely different. Something unique, risky, unconventional.
+
+    Something truly creative. 
+
+
+    `{{space}}`
+
+
+    ![Ruben Stremiz 16](/assets/img/uploads/work-12.jpg)
+
+
+    ![Ruben Stremiz 17](/assets/img/uploads/work-13.jpg)
+
+
+    ![Ruben Stremiz 18](/assets/img/uploads/fatty-diver.gif)
+
+
+    ![Ruben Stremiz Rocklets 1](/assets/img/uploads/work-14.jpg)
+
+
+    ![Ruben Stremiz Rocklets 2](/assets/img/uploads/work-15.jpg)
+
+
+    ![Ruben Stremiz Rocklets 3](/assets/img/uploads/rocklets.gif)
+
+
+    > "A daily source of **inspiration and motivation**."
+
+    >
+
+    > * On Sport & Design
 ---
