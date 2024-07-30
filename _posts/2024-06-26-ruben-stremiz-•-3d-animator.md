@@ -194,7 +194,7 @@ sections:
 
 
     ![Ruben Stremiz Simona 6](/assets/img/uploads/simona-2.gif)
-  section5: >-
+  section5: >+
     > **It leaves space for creative momentum**
 
     >
@@ -243,9 +243,17 @@ sections:
     ![Ruben Stremiz Rocklets 3](/assets/img/uploads/rocklets.gif)
 
 
-    > "A daily source of **inspiration and motivation**."
+    **“If you always do something that sounds, looks, or smells like something done before,** well… that’s just the kind of approach that could be easily replaced by an A.I.”
 
-    >
 
-    > * On Sport & Design
+    **And those shops, those spaces, those open-minded environments are key.** Not only for business purposes but for humankind to keep going. To keep learning and growing. 
+
+    To keep finding new ways of expressing what we all have in our minds. 
+
+    Freely, positively, and creatively. 
+
+
+    **As Ruben does. 
+
+    As Ruben is.**
 ---
