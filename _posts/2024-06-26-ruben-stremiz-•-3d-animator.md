@@ -90,13 +90,13 @@ sections:
     `{{space}}`
 
 
-    ![Ruben Stremiz 4](/assets/img/uploads/rinde2.gif)
+    ![Ruben Stremiz 4](/assets/img/uploads/work-01.jpg)
 
 
-    ![Ruben Stremiz 5](/assets/img/uploads/work-01.jpg)
+    ![Ruben Stremiz 5](/assets/img/uploads/work-02.jpg)
 
 
-    ![Ruben Stremiz 6](/assets/img/uploads/work-02.jpg)
+    ![Ruben Stremiz 6](/assets/img/uploads/rinde2.gif)
 
 
     ![Ruben Stremiz 7](/assets/img/uploads/work-03.jpg)
