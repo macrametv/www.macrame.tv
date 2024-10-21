@@ -194,7 +194,7 @@ sections:
 
 
     ![Ruben Stremiz Simona 6](/assets/img/uploads/simona-2.gif)
-  section5: >+
+  section5: >
     > **It leaves space for creative momentum**
 
     >
@@ -256,4 +256,13 @@ sections:
     **As Ruben does. 
 
     As Ruben is.**
+website: rubenstremiz.com
+imstagram: bandidoguapo
+footer: >-
+  # **If you want to move forward** with your animated project
+
+
+  or you just want to take a yoga class from this truly inspiring instructor, just say the word.\
+
+  **We are here!**
 ---
