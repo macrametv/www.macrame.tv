@@ -256,6 +256,8 @@ sections:
     **As Ruben does. 
 
     As Ruben is.**
+working: 3D Animator, Art Director, Content Creator
+living: Argentina
 awards: 1st place in the 5ft Pitch Edition at the Cartoon Network Chilemonos
   International Animation Festival 2021 – Chile.
 website: rubenstremiz.com
