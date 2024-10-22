@@ -256,6 +256,12 @@ sections:
     **As Ruben does. 
 
     As Ruben is.**
+  clients:
+    client: /assets/img/uploads/amazon-logo.png
+    client2: /assets/img/uploads/warner-logo.png
+    client3: /assets/img/uploads/coca-cola-logo.png
+    client4: /assets/img/uploads/fox-logo.png
+    client5: /assets/img/uploads/disney_logo.png
 working: 3D Animator, Art Director, Content Creator
 living: Argentina
 awards: 1st place in the 5ft Pitch Edition at the Cartoon Network Chilemonos
